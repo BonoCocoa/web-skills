@@ -36,18 +36,18 @@ export const teamCollaborationCollection = {
 									["Wikipedia - Github", "https://en.wikipedia.org/wiki/Github"],
 								]
 							},
-						},
-						{
-							name: "Bitbucket",
-							description: {
-								text: "Learn how to use Bitbucket.",
-								links: [
-									["Wikipedia - Bitbucket", "https://en.wikipedia.org/wiki/Bitbucket"],
-									["Tutorial: Learn Bitbucket with Git", "https://confluence.atlassian.com/bitbucket/tutorial-learn-bitbucket-with-git-759857287.html"],
-									["Getting Started with Bitbucket for Version Control", "https://www.tecmint.com/bitbucket-for-version-control/"],
-								]
-							},
-						}
+						}//,
+						// {
+						// 	name: "Bitbucket",
+						// 	description: {
+						// 		text: "Learn how to use Bitbucket.",
+						// 		links: [
+						// 			["Wikipedia - Bitbucket", "https://en.wikipedia.org/wiki/Bitbucket"],
+						// 			["Tutorial: Learn Bitbucket with Git", "https://confluence.atlassian.com/bitbucket/tutorial-learn-bitbucket-with-git-759857287.html"],
+						// 			["Getting Started with Bitbucket for Version Control", "https://www.tecmint.com/bitbucket-for-version-control/"],
+						// 		]
+						// 	},
+						// }
 					]
 				}
 			]
@@ -73,16 +73,16 @@ export const teamCollaborationCollection = {
 						]
 					},
 					skills: [
-						{
-							name: "Scrum",
-							description: {
-								text: "Learn about scrum and when to use it.",
-								links: [
-									["Scrum Tutorial", "https://www.knowledgehut.com/tutorials/scrum-tutorial"],
-									["Scrum - Overview", "https://www.tutorialspoint.com/scrum/scrum_overview.htm"],
-								]
-							},
-						},
+						// {
+						// 	name: "Scrum",
+						// 	description: {
+						// 		text: "Learn about scrum and when to use it.",
+						// 		links: [
+						// 			["Scrum Tutorial", "https://www.knowledgehut.com/tutorials/scrum-tutorial"],
+						// 			["Scrum - Overview", "https://www.tutorialspoint.com/scrum/scrum_overview.htm"],
+						// 		]
+						// 	},
+						// },
 						{
 							name: "Kanban",
 							description: {
@@ -95,31 +95,31 @@ export const teamCollaborationCollection = {
 							},
 						},
 					]
-				},
-				{
-					name: "Waterfall Development",
-					description: {
-						text: "Learn about waterfall development and when to use it.",
-						links: [
-							["Waterfall Model", "https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"],
-							["Waterfall vs. Agile", "https://www.seguetech.com/waterfall-vs-agile-methodology/"],
-							["Waterfall Model: What and when", "https://airbrake.io/blog/sdlc/waterfall-model"],
-						]
-					},
-				},
-				{
-					name: "Test Driven Development",
-					description: {
-						text: "Learn about test driven development and when to use it.",
-						links: [
-							["Wikipedia - Test-driven development", "https://en.wikipedia.org/wiki/Test-driven_development"],
-							["Red, Green, Refactor", "https://www.codecademy.com/articles/tdd-red-green-refactor"],
-							["Freecodecamp - Test Driven Development", "https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/"],
-							["TDD Changed My Life", "https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80"],
-							["dev.to - Test-driven development in JavaScript", "https://dev.to/tomekbuszewski/test-driven-development-in-javascript-olg"],
-						]
-					},
-				}
+				}//,
+				// {
+				// 	name: "Waterfall Development",
+				// 	description: {
+				// 		text: "Learn about waterfall development and when to use it.",
+				// 		links: [
+				// 			["Waterfall Model", "https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"],
+				// 			["Waterfall vs. Agile", "https://www.seguetech.com/waterfall-vs-agile-methodology/"],
+				// 			["Waterfall Model: What and when", "https://airbrake.io/blog/sdlc/waterfall-model"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Test Driven Development",
+				// 	description: {
+				// 		text: "Learn about test driven development and when to use it.",
+				// 		links: [
+				// 			["Wikipedia - Test-driven development", "https://en.wikipedia.org/wiki/Test-driven_development"],
+				// 			["Red, Green, Refactor", "https://www.codecademy.com/articles/tdd-red-green-refactor"],
+				// 			["Freecodecamp - Test Driven Development", "https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/"],
+				// 			["TDD Changed My Life", "https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80"],
+				// 			["dev.to - Test-driven development in JavaScript", "https://dev.to/tomekbuszewski/test-driven-development-in-javascript-olg"],
+				// 		]
+				// 	},
+				// }
 			]
 		},
 	]
