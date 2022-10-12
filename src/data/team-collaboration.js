@@ -36,18 +36,18 @@ export const teamCollaborationCollection = {
 									["Wikipedia - Github", "https://en.wikipedia.org/wiki/Github"],
 								]
 							},
-						},
-						{
-							name: "Bitbucket",
-							description: {
-								text: "Learn how to use Bitbucket.",
-								links: [
-									["Wikipedia - Bitbucket", "https://en.wikipedia.org/wiki/Bitbucket"],
-									["Tutorial: Learn Bitbucket with Git", "https://confluence.atlassian.com/bitbucket/tutorial-learn-bitbucket-with-git-759857287.html"],
-									["Getting Started with Bitbucket for Version Control", "https://www.tecmint.com/bitbucket-for-version-control/"],
-								]
-							},
-						}
+						}//,
+						// {
+						// 	name: "Bitbucket",
+						// 	description: {
+						// 		text: "Learn how to use Bitbucket.",
+						// 		links: [
+						// 			["Wikipedia - Bitbucket", "https://en.wikipedia.org/wiki/Bitbucket"],
+						// 			["Tutorial: Learn Bitbucket with Git", "https://confluence.atlassian.com/bitbucket/tutorial-learn-bitbucket-with-git-759857287.html"],
+						// 			["Getting Started with Bitbucket for Version Control", "https://www.tecmint.com/bitbucket-for-version-control/"],
+						// 		]
+						// 	},
+						// }
 					]
 				}
 			]
