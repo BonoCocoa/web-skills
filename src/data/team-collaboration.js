@@ -73,16 +73,16 @@ export const teamCollaborationCollection = {
 						]
 					},
 					skills: [
-						{
-							name: "Scrum",
-							description: {
-								text: "Learn about scrum and when to use it.",
-								links: [
-									["Scrum Tutorial", "https://www.knowledgehut.com/tutorials/scrum-tutorial"],
-									["Scrum - Overview", "https://www.tutorialspoint.com/scrum/scrum_overview.htm"],
-								]
-							},
-						},
+						// {
+						// 	name: "Scrum",
+						// 	description: {
+						// 		text: "Learn about scrum and when to use it.",
+						// 		links: [
+						// 			["Scrum Tutorial", "https://www.knowledgehut.com/tutorials/scrum-tutorial"],
+						// 			["Scrum - Overview", "https://www.tutorialspoint.com/scrum/scrum_overview.htm"],
+						// 		]
+						// 	},
+						// },
 						{
 							name: "Kanban",
 							description: {

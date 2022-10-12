@@ -1889,12 +1889,12 @@ Learn about agile development and when to use it.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.infoworld.com" alt="Logo" /> What is agile methodology?](https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.visual-paradigm.com" alt="Logo" /> What is Agile Software Development?](https://www.visual-paradigm.com/scrum/what-is-agile-software-development/)
 
-#### Scrum
+<!-- #### Scrum
 
 Learn about scrum and when to use it.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.knowledgehut.com" alt="Logo" /> Scrum Tutorial](https://www.knowledgehut.com/tutorials/scrum-tutorial)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Scrum - Overview](https://www.tutorialspoint.com/scrum/scrum_overview.htm)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Scrum - Overview](https://www.tutorialspoint.com/scrum/scrum_overview.htm) -->
 
 #### Kanban
 
