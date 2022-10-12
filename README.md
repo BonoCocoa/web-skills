@@ -254,9 +254,9 @@
     <!-- - [Bitbucket](#bitbucket) -->
   - [Management](#management)
   - [Agile Development](#agile-development)
-    <!-- - [Scrum](#scrum) -->
+      <!-- - [Scrum](#scrum) -->
     - [Kanban](#kanban)
-  - [Waterfall Development](#waterfall-development)
+    <!-- - [Waterfall Development](#waterfall-development) -->
   - [Test Driven Development](#test-driven-development)
 - [➤ Design & UX](#-design--ux)
   - [Color Theory](#color-theory)

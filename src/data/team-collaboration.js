@@ -96,17 +96,17 @@ export const teamCollaborationCollection = {
 						},
 					]
 				},
-				{
-					name: "Waterfall Development",
-					description: {
-						text: "Learn about waterfall development and when to use it.",
-						links: [
-							["Waterfall Model", "https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"],
-							["Waterfall vs. Agile", "https://www.seguetech.com/waterfall-vs-agile-methodology/"],
-							["Waterfall Model: What and when", "https://airbrake.io/blog/sdlc/waterfall-model"],
-						]
-					},
-				},
+				// {
+				// 	name: "Waterfall Development",
+				// 	description: {
+				// 		text: "Learn about waterfall development and when to use it.",
+				// 		links: [
+				// 			["Waterfall Model", "https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"],
+				// 			["Waterfall vs. Agile", "https://www.seguetech.com/waterfall-vs-agile-methodology/"],
+				// 			["Waterfall Model: What and when", "https://airbrake.io/blog/sdlc/waterfall-model"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Test Driven Development",
 					description: {

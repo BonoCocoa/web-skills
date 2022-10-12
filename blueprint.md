@@ -1904,13 +1904,13 @@ Learn about kanban and when to use it.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.atlassian.com" alt="Logo" /> What is kanban?](https://www.atlassian.com/agile/kanban)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.scrumhub.com" alt="Logo" /> Kanban Fundamentals](https://www.scrumhub.com/kanban-fundamentals/)
 
-### Waterfall Development
+<!-- ### Waterfall Development
 
 Learn about waterfall development and when to use it.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Waterfall Model](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.seguetech.com" alt="Logo" /> Waterfall vs. Agile](https://www.seguetech.com/waterfall-vs-agile-methodology/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fairbrake.io" alt="Logo" /> Waterfall Model: What and when](https://airbrake.io/blog/sdlc/waterfall-model)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fairbrake.io" alt="Logo" /> Waterfall Model: What and when](https://airbrake.io/blog/sdlc/waterfall-model) -->
 
 ### Test Driven Development
 
