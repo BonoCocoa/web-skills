@@ -499,19 +499,19 @@ export const modernCollection = {
 						]
 					},
 				},
-				{
-					name: "Shape Detection",
-					description: {
-						text: "Learn how the Shape Detection API proposal can be use to detect shapes such as faces or barcodes in pictures.",
-						links: [
-							["W3C - Accelerated Shape Detection in Images", "https://wicg.github.io/shape-detection-api/"],
-							["web.dev - A Picture is Worth a Thousand Words", "https://web.dev/shape-detection/"],
-							["Github - Shape Detection API Specification", "https://github.com/WICG/shape-detection-api"],
-							["Introduction to the Shape Detection API", "https://blog.arnellebalane.com/introduction-to-the-shape-detection-api-e07425396861"],
-							["Face detection using Shape Detection API", "https://paul.kinlan.me/face-detection/"],
-						]
-					},
-				},
+				// {
+				// 	name: "Shape Detection",
+				// 	description: {
+				// 		text: "Learn how the Shape Detection API proposal can be use to detect shapes such as faces or barcodes in pictures.",
+				// 		links: [
+				// 			["W3C - Accelerated Shape Detection in Images", "https://wicg.github.io/shape-detection-api/"],
+				// 			["web.dev - A Picture is Worth a Thousand Words", "https://web.dev/shape-detection/"],
+				// 			["Github - Shape Detection API Specification", "https://github.com/WICG/shape-detection-api"],
+				// 			["Introduction to the Shape Detection API", "https://blog.arnellebalane.com/introduction-to-the-shape-detection-api-e07425396861"],
+				// 			["Face detection using Shape Detection API", "https://paul.kinlan.me/face-detection/"],
+				// 		]
+				// 	},
+				// },
 				// {
 				// 	name: "Web Bluetooth",
 				// 	description: {

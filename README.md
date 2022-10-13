@@ -320,7 +320,7 @@
 	* [Web Authentication API](#web-authentication-api)
 		* [Credentials Manager API](#credentials-manager-api)
 	* [Native File System](#native-file-system)
-	* [Shape Detection](#shape-detection)
+	<!-- * [Shape Detection](#shape-detection) -->
 	<!-- * [Web Bluetooth](#web-bluetooth) -->
 	<!-- * [Web USB](#web-usb) -->
 	* [Web XR](#web-xr)
@@ -2975,7 +2975,7 @@ Learn how the Native File System API proposal enables interacting with files on 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.chromestatus.com" alt="Logo" /> Chromestatus - Native File System](https://www.chromestatus.com/feature/6284708426022912)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fw3c.github.io" alt="Logo" /> W3C - File API](https://w3c.github.io/FileAPI/)
 
-### Shape Detection
+<!-- ### Shape Detection
 
 Learn how the Shape Detection API proposal can be use to detect shapes such as faces or barcodes in pictures.
 
@@ -2983,7 +2983,7 @@ Learn how the Shape Detection API proposal can be use to detect shapes such as f
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - A Picture is Worth a Thousand Words](https://web.dev/shape-detection/)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Shape Detection API Specification](https://github.com/WICG/shape-detection-api)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.arnellebalane.com" alt="Logo" /> Introduction to the Shape Detection API](https://blog.arnellebalane.com/introduction-to-the-shape-detection-api-e07425396861)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fpaul.kinlan.me" alt="Logo" /> Face detection using Shape Detection API](https://paul.kinlan.me/face-detection/)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fpaul.kinlan.me" alt="Logo" /> Face detection using Shape Detection API](https://paul.kinlan.me/face-detection/) -->
 
 <!-- ### Web Bluetooth
 
