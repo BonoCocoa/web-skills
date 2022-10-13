@@ -2278,13 +2278,13 @@ Learn how to use Github.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Flab.github.com" alt="Logo" /> GitHub Learning Lab](https://lab.github.com/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Github](https://en.wikipedia.org/wiki/Github)
 
-#### Bitbucket
+<!-- #### Bitbucket
 
 Learn how to use Bitbucket.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Bitbucket](https://en.wikipedia.org/wiki/Bitbucket)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fconfluence.atlassian.com" alt="Logo" /> Tutorial: Learn Bitbucket with Git](https://confluence.atlassian.com/bitbucket/tutorial-learn-bitbucket-with-git-759857287.html)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tecmint.com" alt="Logo" /> Getting Started with Bitbucket for Version Control](https://www.tecmint.com/bitbucket-for-version-control/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tecmint.com" alt="Logo" /> Getting Started with Bitbucket for Version Control](https://www.tecmint.com/bitbucket-for-version-control/) -->
 
 ### Management
 
@@ -2296,12 +2296,12 @@ Learn about agile development and when to use it.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.infoworld.com" alt="Logo" /> What is agile methodology?](https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.visual-paradigm.com" alt="Logo" /> What is Agile Software Development?](https://www.visual-paradigm.com/scrum/what-is-agile-software-development/)
 
-#### Scrum
+<!-- #### Scrum
 
 Learn about scrum and when to use it.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.knowledgehut.com" alt="Logo" /> Scrum Tutorial](https://www.knowledgehut.com/tutorials/scrum-tutorial)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Scrum - Overview](https://www.tutorialspoint.com/scrum/scrum_overview.htm)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Scrum - Overview](https://www.tutorialspoint.com/scrum/scrum_overview.htm) -->
 
 #### Kanban
 
@@ -2311,15 +2311,15 @@ Learn about kanban and when to use it.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.atlassian.com" alt="Logo" /> What is kanban?](https://www.atlassian.com/agile/kanban)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.scrumhub.com" alt="Logo" /> Kanban Fundamentals](https://www.scrumhub.com/kanban-fundamentals/)
 
-### Waterfall Development
+<!-- ### Waterfall Development
 
 Learn about waterfall development and when to use it.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Waterfall Model](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.seguetech.com" alt="Logo" /> Waterfall vs. Agile](https://www.seguetech.com/waterfall-vs-agile-methodology/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fairbrake.io" alt="Logo" /> Waterfall Model: What and when](https://airbrake.io/blog/sdlc/waterfall-model)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fairbrake.io" alt="Logo" /> Waterfall Model: What and when](https://airbrake.io/blog/sdlc/waterfall-model) -->
 
-### Test Driven Development
+<!-- ### Test Driven Development
 
 Learn about test driven development and when to use it.
 
@@ -2327,7 +2327,7 @@ Learn about test driven development and when to use it.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.codecademy.com" alt="Logo" /> Red, Green, Refactor](https://www.codecademy.com/articles/tdd-red-green-refactor)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - Test Driven Development](https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Test-driven development in JavaScript](https://dev.to/tomekbuszewski/test-driven-development-in-javascript-olg)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Test-driven development in JavaScript](https://dev.to/tomekbuszewski/test-driven-development-in-javascript-olg) -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#design--ux)
 
