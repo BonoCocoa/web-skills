@@ -320,11 +320,11 @@
   - [Web Authentication API](#web-authentication-api)
     - [Credentials Manager API](#credentials-manager-api)
   - [Native File System](#native-file-system)
-  - [Shape Detection](#shape-detection)
-  - [Web Bluetooth](#web-bluetooth)
-  - [Web USB](#web-usb)
-  - [Web XR](#web-xr)
-  - [Presentation](#presentation)
+      <!-- - [Shape Detection](#shape-detection) -->
+      <!-- - [Web Bluetooth](#web-bluetooth) -->
+        <!-- - [Web USB](#web-usb) -->
+      <!-- - [Web XR](#web-xr) -->
+    <!-- - [Presentation](#presentation) -->
   - [Network Information API](#network-information-api)
 - [➤ Algorithms & Data structures](#-algorithms--data-structures)
   - [Data structures](#data-structures)
@@ -2944,7 +2944,7 @@ Learn how the Native File System API proposal enables interacting with files on 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.chromestatus.com" alt="Logo" /> Chromestatus - Native File System](https://www.chromestatus.com/feature/6284708426022912)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fw3c.github.io" alt="Logo" /> W3C - File API](https://w3c.github.io/FileAPI/)
 
-### Shape Detection
+<!-- ### Shape Detection
 
 Learn how the Shape Detection API proposal can be use to detect shapes such as faces or barcodes in pictures.
 
@@ -2952,9 +2952,9 @@ Learn how the Shape Detection API proposal can be use to detect shapes such as f
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - A Picture is Worth a Thousand Words](https://web.dev/shape-detection/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Shape Detection API Specification](https://github.com/WICG/shape-detection-api)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.arnellebalane.com" alt="Logo" /> Introduction to the Shape Detection API](https://blog.arnellebalane.com/introduction-to-the-shape-detection-api-e07425396861)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fpaul.kinlan.me" alt="Logo" /> Face detection using Shape Detection API](https://paul.kinlan.me/face-detection/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fpaul.kinlan.me" alt="Logo" /> Face detection using Shape Detection API](https://paul.kinlan.me/face-detection/) -->
 
-### Web Bluetooth
+<!-- ### Web Bluetooth
 
 Learn how the Web Bluetooth API proposal can be used to connect with nearby devices.
 
@@ -2962,34 +2962,34 @@ Learn how the Web Bluetooth API proposal can be used to connect with nearby devi
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Interact with Bluetooth devices](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Bluetooth](https://whatwebcando.today/bluetooth.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebbluetoothcg.github.io" alt="Logo" /> W3C - Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgooglechrome.github.io" alt="Logo" /> Web Bluetooth Samples](https://googlechrome.github.io/samples/web-bluetooth/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgooglechrome.github.io" alt="Logo" /> Web Bluetooth Samples](https://googlechrome.github.io/samples/web-bluetooth/) -->
 
-### Web USB
+<!-- ### Web USB
 
 Learn the Web USB API proposal can be used to connect with hardware through a cable.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - USB](https://developer.mozilla.org/en-US/docs/Web/API/USB)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> WICG - Web USB](https://github.com/WICG/webusb)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Access USB Devices on the Web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Web USB](https://whatwebcando.today/usb.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Web USB](https://whatwebcando.today/usb.html) -->
 
-### Web XR
+<!-- ### Web XR
 
 Learn how to use Web XR API proposal for virtual- and augmented reality experiences.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - WebXR Device API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Welcome to the immersive web](https://developers.google.com/web/updates/2018/05/welcome-to-immersive)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhacks.mozilla.org" alt="Logo" /> New API to Bring Augmented Reality to the Web](https://hacks.mozilla.org/2018/09/webxr/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fimmersive-web.github.io" alt="Logo" /> W3C - WebXR Device API](https://immersive-web.github.io/webxr/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fimmersive-web.github.io" alt="Logo" /> W3C - WebXR Device API](https://immersive-web.github.io/webxr/) -->
 
-### Presentation
+<!-- ### Presentation
 
 Learn how the Presentation API proposal enables your web app to use the presentation display mode in the browser or at an external display device.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Presentation API](https://developer.mozilla.org/en-US/docs/Web/API/Presentation_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Presentation Features](https://whatwebcando.today/presentation.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Present web pages to secondary attached displays](https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fw3c.github.io" alt="Logo" /> W3C - Presentation API](https://w3c.github.io/presentation-api)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fw3c.github.io" alt="Logo" /> W3C - Presentation API](https://w3c.github.io/presentation-api) -->
 
 ### Network Information API
 
