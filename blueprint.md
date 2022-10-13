@@ -2572,14 +2572,14 @@ Learn how the Web Bluetooth API proposal can be used to connect with nearby devi
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebbluetoothcg.github.io" alt="Logo" /> W3C - Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgooglechrome.github.io" alt="Logo" /> Web Bluetooth Samples](https://googlechrome.github.io/samples/web-bluetooth/)
 
-### Web USB
+<!-- ### Web USB
 
 Learn the Web USB API proposal can be used to connect with hardware through a cable.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - USB](https://developer.mozilla.org/en-US/docs/Web/API/USB)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> WICG - Web USB](https://github.com/WICG/webusb)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Access USB Devices on the Web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today -	Web USB](https://whatwebcando.today/usb.html)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today -	Web USB](https://whatwebcando.today/usb.html) -->
 
 ### Web XR
 

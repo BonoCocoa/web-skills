@@ -322,7 +322,7 @@
 	* [Native File System](#native-file-system)
 	* [Shape Detection](#shape-detection)
 	* [Web Bluetooth](#web-bluetooth)
-	* [Web USB](#web-usb)
+	<!-- * [Web USB](#web-usb) -->
 	* [Web XR](#web-xr)
 	* [Presentation](#presentation)
 	* [Network Information API](#network-information-api)

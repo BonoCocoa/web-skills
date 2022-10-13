@@ -525,18 +525,18 @@ export const modernCollection = {
 						]
 					},
 				},
-				{
-					name: "Web USB",
-					description: {
-						text: "Learn the Web USB API proposal can be used to connect with hardware through a cable.",
-						links: [
-							["MDN - USB", "https://developer.mozilla.org/en-US/docs/Web/API/USB"],
-							["WICG - Web USB", "https://github.com/WICG/webusb"],
-							["Google Devs - Access USB Devices on the Web", "https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web"],
-							["What Web Can Do Today -	Web USB", "https://whatwebcando.today/usb.html"],
-						]
-					},
-				},
+				// {
+				// 	name: "Web USB",
+				// 	description: {
+				// 		text: "Learn the Web USB API proposal can be used to connect with hardware through a cable.",
+				// 		links: [
+				// 			["MDN - USB", "https://developer.mozilla.org/en-US/docs/Web/API/USB"],
+				// 			["WICG - Web USB", "https://github.com/WICG/webusb"],
+				// 			["Google Devs - Access USB Devices on the Web", "https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web"],
+				// 			["What Web Can Do Today -	Web USB", "https://whatwebcando.today/usb.html"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Web XR",
 					description: {
