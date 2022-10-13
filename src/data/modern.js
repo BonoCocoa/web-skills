@@ -499,68 +499,68 @@ export const modernCollection = {
 						]
 					},
 				},
-				{
-					name: "Shape Detection",
-					description: {
-						text: "Learn how the Shape Detection API proposal can be use to detect shapes such as faces or barcodes in pictures.",
-						links: [
-							["W3C - Accelerated Shape Detection in Images", "https://wicg.github.io/shape-detection-api/"],
-							["web.dev - A Picture is Worth a Thousand Words", "https://web.dev/shape-detection/"],
-							["Github - Shape Detection API Specification", "https://github.com/WICG/shape-detection-api"],
-							["Introduction to the Shape Detection API", "https://blog.arnellebalane.com/introduction-to-the-shape-detection-api-e07425396861"],
-							["Face detection using Shape Detection API", "https://paul.kinlan.me/face-detection/"],
-						]
-					},
-				},
-				{
-					name: "Web Bluetooth",
-					description: {
-						text: "Learn how the Web Bluetooth API proposal can be used to connect with nearby devices.",
-						links: [
-							["MDN - Web Bluetooth API", "https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API"],
-							["Google Devs - Interact with Bluetooth devices", "https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web"],
-							["What Web Can Do Today -	Bluetooth", "https://whatwebcando.today/bluetooth.html"],
-							["W3C - Web Bluetooth", "https://webbluetoothcg.github.io/web-bluetooth/"],
-							["Web Bluetooth Samples", "https://googlechrome.github.io/samples/web-bluetooth/"],
-						]
-					},
-				},
-				{
-					name: "Web USB",
-					description: {
-						text: "Learn the Web USB API proposal can be used to connect with hardware through a cable.",
-						links: [
-							["MDN - USB", "https://developer.mozilla.org/en-US/docs/Web/API/USB"],
-							["WICG - Web USB", "https://github.com/WICG/webusb"],
-							["Google Devs - Access USB Devices on the Web", "https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web"],
-							["What Web Can Do Today -	Web USB", "https://whatwebcando.today/usb.html"],
-						]
-					},
-				},
-				{
-					name: "Web XR",
-					description: {
-						text: "Learn how to use Web XR API proposal for virtual- and augmented reality experiences.",
-						links: [
-							["MDN - WebXR Device API", "https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API"],
-							["Google Devs - Welcome to the immersive web", "https://developers.google.com/web/updates/2018/05/welcome-to-immersive"],
-							["New API to Bring Augmented Reality to the Web", "https://hacks.mozilla.org/2018/09/webxr/"],
-							["W3C - WebXR Device API", "https://immersive-web.github.io/webxr/"],
-						]
-					},
-				},
-				{
-					name: "Presentation",
-					description: {
-						text: "Learn how the Presentation API proposal enables your web app to use the presentation display mode in the browser or at an external display device.",
-						links: [
-							["MDN - Presentation API", "https://developer.mozilla.org/en-US/docs/Web/API/Presentation_API"],
-							["What Web Can Do Today - Presentation Features", "https://whatwebcando.today/presentation.html"],
-							["Google Devs - Present web pages to secondary attached displays", "https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays"],
-							["W3C - Presentation API", "https://w3c.github.io/presentation-api"],
-						]
-					},
-				},
+				// {
+				// 	name: "Shape Detection",
+				// 	description: {
+				// 		text: "Learn how the Shape Detection API proposal can be use to detect shapes such as faces or barcodes in pictures.",
+				// 		links: [
+				// 			["W3C - Accelerated Shape Detection in Images", "https://wicg.github.io/shape-detection-api/"],
+				// 			["web.dev - A Picture is Worth a Thousand Words", "https://web.dev/shape-detection/"],
+				// 			["Github - Shape Detection API Specification", "https://github.com/WICG/shape-detection-api"],
+				// 			["Introduction to the Shape Detection API", "https://blog.arnellebalane.com/introduction-to-the-shape-detection-api-e07425396861"],
+				// 			["Face detection using Shape Detection API", "https://paul.kinlan.me/face-detection/"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Web Bluetooth",
+				// 	description: {
+				// 		text: "Learn how the Web Bluetooth API proposal can be used to connect with nearby devices.",
+				// 		links: [
+				// 			["MDN - Web Bluetooth API", "https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API"],
+				// 			["Google Devs - Interact with Bluetooth devices", "https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web"],
+				// 			["What Web Can Do Today -	Bluetooth", "https://whatwebcando.today/bluetooth.html"],
+				// 			["W3C - Web Bluetooth", "https://webbluetoothcg.github.io/web-bluetooth/"],
+				// 			["Web Bluetooth Samples", "https://googlechrome.github.io/samples/web-bluetooth/"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Web USB",
+				// 	description: {
+				// 		text: "Learn the Web USB API proposal can be used to connect with hardware through a cable.",
+				// 		links: [
+				// 			["MDN - USB", "https://developer.mozilla.org/en-US/docs/Web/API/USB"],
+				// 			["WICG - Web USB", "https://github.com/WICG/webusb"],
+				// 			["Google Devs - Access USB Devices on the Web", "https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web"],
+				// 			["What Web Can Do Today -	Web USB", "https://whatwebcando.today/usb.html"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Web XR",
+				// 	description: {
+				// 		text: "Learn how to use Web XR API proposal for virtual- and augmented reality experiences.",
+				// 		links: [
+				// 			["MDN - WebXR Device API", "https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API"],
+				// 			["Google Devs - Welcome to the immersive web", "https://developers.google.com/web/updates/2018/05/welcome-to-immersive"],
+				// 			["New API to Bring Augmented Reality to the Web", "https://hacks.mozilla.org/2018/09/webxr/"],
+				// 			["W3C - WebXR Device API", "https://immersive-web.github.io/webxr/"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Presentation",
+				// 	description: {
+				// 		text: "Learn how the Presentation API proposal enables your web app to use the presentation display mode in the browser or at an external display device.",
+				// 		links: [
+				// 			["MDN - Presentation API", "https://developer.mozilla.org/en-US/docs/Web/API/Presentation_API"],
+				// 			["What Web Can Do Today - Presentation Features", "https://whatwebcando.today/presentation.html"],
+				// 			["Google Devs - Present web pages to secondary attached displays", "https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays"],
+				// 			["W3C - Presentation API", "https://w3c.github.io/presentation-api"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Network Information API",
 					description: {
