@@ -2562,7 +2562,7 @@ Learn how the Shape Detection API proposal can be use to detect shapes such as f
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.arnellebalane.com" alt="Logo" /> Introduction to the Shape Detection API](https://blog.arnellebalane.com/introduction-to-the-shape-detection-api-e07425396861)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fpaul.kinlan.me" alt="Logo" /> Face detection using Shape Detection API](https://paul.kinlan.me/face-detection/)
 
-### Web Bluetooth
+<!-- ### Web Bluetooth
 
 Learn how the Web Bluetooth API proposal can be used to connect with nearby devices.
 
@@ -2570,7 +2570,7 @@ Learn how the Web Bluetooth API proposal can be used to connect with nearby devi
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Interact with Bluetooth devices](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today -	Bluetooth](https://whatwebcando.today/bluetooth.html)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebbluetoothcg.github.io" alt="Logo" /> W3C - Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgooglechrome.github.io" alt="Logo" /> Web Bluetooth Samples](https://googlechrome.github.io/samples/web-bluetooth/)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgooglechrome.github.io" alt="Logo" /> Web Bluetooth Samples](https://googlechrome.github.io/samples/web-bluetooth/) -->
 
 <!-- ### Web USB
 

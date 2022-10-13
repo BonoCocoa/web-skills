@@ -512,19 +512,19 @@ export const modernCollection = {
 						]
 					},
 				},
-				{
-					name: "Web Bluetooth",
-					description: {
-						text: "Learn how the Web Bluetooth API proposal can be used to connect with nearby devices.",
-						links: [
-							["MDN - Web Bluetooth API", "https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API"],
-							["Google Devs - Interact with Bluetooth devices", "https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web"],
-							["What Web Can Do Today -	Bluetooth", "https://whatwebcando.today/bluetooth.html"],
-							["W3C - Web Bluetooth", "https://webbluetoothcg.github.io/web-bluetooth/"],
-							["Web Bluetooth Samples", "https://googlechrome.github.io/samples/web-bluetooth/"],
-						]
-					},
-				},
+				// {
+				// 	name: "Web Bluetooth",
+				// 	description: {
+				// 		text: "Learn how the Web Bluetooth API proposal can be used to connect with nearby devices.",
+				// 		links: [
+				// 			["MDN - Web Bluetooth API", "https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API"],
+				// 			["Google Devs - Interact with Bluetooth devices", "https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web"],
+				// 			["What Web Can Do Today -	Bluetooth", "https://whatwebcando.today/bluetooth.html"],
+				// 			["W3C - Web Bluetooth", "https://webbluetoothcg.github.io/web-bluetooth/"],
+				// 			["Web Bluetooth Samples", "https://googlechrome.github.io/samples/web-bluetooth/"],
+				// 		]
+				// 	},
+				// },
 				// {
 				// 	name: "Web USB",
 				// 	description: {
