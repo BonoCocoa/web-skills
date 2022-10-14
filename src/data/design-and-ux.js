@@ -241,48 +241,48 @@ export const designAndUXCollection = {
 						
 				// 	]
 				// },
-				{
-					name: "Design Systems",
-					description: {
-						text: "Learn what design systems are and get familiar with some.",
-						links: [
-							["A guide to design systems", "https://www.invisionapp.com/inside-design/guide-to-design-systems/"],
-							["What the heck is a design system?", "https://uxdesign.cc/what-the-heck-is-a-design-system-c89a8ea73b0d"],
-							["Everything you need to know about Design Systems", "https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969"],
-							["What is a Design System?", "https://medium.muz.li/what-is-a-design-system-1e43d19e7696"],
-							["What's a Design System", "https://dev.to/graphqleditor/what-s-design-system-and-why-you-need-one-31fh"],
-						]
-					},
-					skills: [
-						{
-							name: "Material Design",
-							description: {
-								text: "Learn about material design and get familiar with the core principles.",
-								links: [
-									["Google - Material Design", "https://material.io/design/"],
-									["Google - Material Components", "https://material.io/components/"],
-									["Google - Material Develop", "https://material.io/develop/web/"],
-									["Google - Material Tutorial", "https://material.io/collections/developer-tutorials/#web"],
-									["Wikipedia - Material Design", "https://en.wikipedia.org/wiki/Material_Design"],
-								]
-							},
-						},
-						{
-							name: "Fluent Design",
-							description: {
-								text: "Learn about fluent design and get familiar with the core principles.",
-								links: [
-									["Microsoft - Fluent Design System", "https://www.microsoft.com/design/fluent/#/web"],
-									["Microsoft - Fluent UI Toolkit", "https://www.microsoft.com/design/fluent/toolkits/"],
-									["Wikipedia - Fluent Design System", "https://en.wikipedia.org/wiki/Fluent_Design_System"],
-									["Fluent: Design Behind the Design", "https://medium.com/microsoft-design/fluent-design-behind-the-design-973028062fcc"],
-									["Iconic Icons: Designing the World of Windows", "https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416"],
-									["Evolving the Microsoft Fluent Design System", "https://medium.com/microsoft-design/evolving-the-microsoft-fluent-design-system-9b37fb890c82"],
-								]
-							},
-						}
-					]
-				},
+				// {
+				// 	name: "Design Systems",
+				// 	description: {
+				// 		text: "Learn what design systems are and get familiar with some.",
+				// 		links: [
+				// 			["A guide to design systems", "https://www.invisionapp.com/inside-design/guide-to-design-systems/"],
+				// 			["What the heck is a design system?", "https://uxdesign.cc/what-the-heck-is-a-design-system-c89a8ea73b0d"],
+				// 			["Everything you need to know about Design Systems", "https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969"],
+				// 			["What is a Design System?", "https://medium.muz.li/what-is-a-design-system-1e43d19e7696"],
+				// 			["What's a Design System", "https://dev.to/graphqleditor/what-s-design-system-and-why-you-need-one-31fh"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Material Design",
+				// 			description: {
+				// 				text: "Learn about material design and get familiar with the core principles.",
+				// 				links: [
+				// 					["Google - Material Design", "https://material.io/design/"],
+				// 					["Google - Material Components", "https://material.io/components/"],
+				// 					["Google - Material Develop", "https://material.io/develop/web/"],
+				// 					["Google - Material Tutorial", "https://material.io/collections/developer-tutorials/#web"],
+				// 					["Wikipedia - Material Design", "https://en.wikipedia.org/wiki/Material_Design"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Fluent Design",
+				// 			description: {
+				// 				text: "Learn about fluent design and get familiar with the core principles.",
+				// 				links: [
+				// 					["Microsoft - Fluent Design System", "https://www.microsoft.com/design/fluent/#/web"],
+				// 					["Microsoft - Fluent UI Toolkit", "https://www.microsoft.com/design/fluent/toolkits/"],
+				// 					["Wikipedia - Fluent Design System", "https://en.wikipedia.org/wiki/Fluent_Design_System"],
+				// 					["Fluent: Design Behind the Design", "https://medium.com/microsoft-design/fluent-design-behind-the-design-973028062fcc"],
+				// 					["Iconic Icons: Designing the World of Windows", "https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416"],
+				// 					["Evolving the Microsoft Fluent Design System", "https://medium.com/microsoft-design/evolving-the-microsoft-fluent-design-system-9b37fb890c82"],
+				// 				]
+				// 			},
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Accessibility",
 					description: {

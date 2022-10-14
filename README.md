@@ -274,11 +274,11 @@
   - [Error Handling](#error-handling)
   - [Loading](#loading)
   - [The Golden Ratio](#the-golden-ratio)
-    <!-- - [Mobile First](#mobile-first) -->
-      <!-- - [Hit Targets](#hit-targets) -->
-  - [Design Systems](#design-systems)
-    - [Material Design](#material-design)
-    - [Fluent Design](#fluent-design)
+      <!-- - [Mobile First](#mobile-first) -->
+        <!-- - [Hit Targets](#hit-targets) -->
+    <!-- - [Design Systems](#design-systems) -->
+      <!-- - [Material Design](#material-design) -->
+      <!-- - [Fluent Design](#fluent-design) -->
   - [Accessibility](#accessibility)
   - [Best Practices](#best-practices-4)
 - [➤ The Modern Web](#-the-modern-web)
@@ -2511,7 +2511,7 @@ Learn about hit targets can why they should not be neglected.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Size matters! Accessibility and Touch Targets](https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxmovement.com" alt="Logo" /> Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/) -->
 
-### Design Systems
+<!-- ### Design Systems
 
 Learn what design systems are and get familiar with some.
 
@@ -2519,9 +2519,9 @@ Learn what design systems are and get familiar with some.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxdesign.cc" alt="Logo" /> What the heck is a design system?](https://uxdesign.cc/what-the-heck-is-a-design-system-c89a8ea73b0d)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxdesign.cc" alt="Logo" /> Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.muz.li" alt="Logo" /> What is a Design System?](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> What's a Design System](https://dev.to/graphqleditor/what-s-design-system-and-why-you-need-one-31fh)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> What's a Design System](https://dev.to/graphqleditor/what-s-design-system-and-why-you-need-one-31fh) -->
 
-#### Material Design
+<!-- #### Material Design
 
 Learn about material design and get familiar with the core principles.
 
@@ -2529,9 +2529,9 @@ Learn about material design and get familiar with the core principles.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmaterial.io" alt="Logo" /> Google - Material Components](https://material.io/components/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmaterial.io" alt="Logo" /> Google - Material Develop](https://material.io/develop/web/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmaterial.io" alt="Logo" /> Google - Material Tutorial](https://material.io/collections/developer-tutorials/#web)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Material Design](https://en.wikipedia.org/wiki/Material_Design)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Material Design](https://en.wikipedia.org/wiki/Material_Design) -->
 
-#### Fluent Design
+<!-- #### Fluent Design
 
 Learn about fluent design and get familiar with the core principles.
 
@@ -2540,7 +2540,7 @@ Learn about fluent design and get familiar with the core principles.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Fluent Design System](https://en.wikipedia.org/wiki/Fluent_Design_System)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Fluent: Design Behind the Design](https://medium.com/microsoft-design/fluent-design-behind-the-design-973028062fcc)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Iconic Icons: Designing the World of Windows](https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Evolving the Microsoft Fluent Design System](https://medium.com/microsoft-design/evolving-the-microsoft-fluent-design-system-9b37fb890c82)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Evolving the Microsoft Fluent Design System](https://medium.com/microsoft-design/evolving-the-microsoft-fluent-design-system-9b37fb890c82) -->
 
 ### Accessibility
 
