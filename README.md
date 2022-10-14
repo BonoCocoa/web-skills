@@ -259,8 +259,8 @@
         <!-- - [Waterfall Development](#waterfall-development) -->
       <!-- - [Test Driven Development](#test-driven-development) -->
 - [➤ Design & UX](#-design--ux)
-  - [Color Theory](#color-theory)
-    - [Color Wheel](#color-wheel)
+  <!-- - [Color Theory](#color-theory) -->
+  <!-- - [Color Wheel](#color-wheel) -->
   - [Typography](#typography)
     - [Font Size](#font-size)
     - [Line Spacing](#line-spacing)
@@ -2333,7 +2333,7 @@ Learn about test driven development and when to use it.
 
 ## ➤ Design & UX
 
-### Color Theory
+<!-- ### Color Theory
 
 Learn about color theory and how you can make your own color schemes.
 
@@ -2342,16 +2342,16 @@ Learn about color theory and how you can make your own color schemes.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.muz.li" alt="Logo" /> 10 Questions of Color Theory](https://medium.muz.li/10-questions-of-color-theory-that-will-make-you-a-better-ux-designer-b5244c1341a6)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Color Theory](https://en.wikipedia.org/wiki/Color_theory)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> The Meaning of Color](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvisme.co" alt="Logo" /> 50 Gorgeous Color Schemes](https://visme.co/blog/website-color-schemes/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvisme.co" alt="Logo" /> 50 Gorgeous Color Schemes](https://visme.co/blog/website-color-schemes/) -->
 
-#### Color Wheel
+<!-- #### Color Wheel
 
 Learn how to use the color wheel when making a color scheme.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxplanet.org" alt="Logo" /> Color Theory: Brief Guide For Designers](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.canva.com" alt="Logo" /> Color theory and the color wheel](https://www.canva.com/colors/color-wheel/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2F99designs.dk" alt="Logo" /> The fundamentals of understanding color theory](https://99designs.dk/blog/tips/the-7-step-guide-to-understanding-color-theory/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcolor.adobe.com" alt="Logo" /> Adobe - Color wheel](https://color.adobe.com/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcolor.adobe.com" alt="Logo" /> Adobe - Color wheel](https://color.adobe.com/) -->
 
 ### Typography
 

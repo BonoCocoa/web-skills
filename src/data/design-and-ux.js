@@ -3,34 +3,34 @@ export const designAndUXCollection = {
 	areas: [
 		{
 			skills: [
-				{
-					name: "Color Theory",
-					description: {
-						text: "Learn about color theory and how you can make your own color schemes.",
-						links: [
-							["All you need to know about colors in UI Design", "https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522"],
-							["The Role of Color in UX", "https://www.toptal.com/designers/ux/color-in-ux"],
-							["10 Questions of Color Theory", "https://medium.muz.li/10-questions-of-color-theory-that-will-make-you-a-better-ux-designer-b5244c1341a6"],
-							["Wikipedia - Color Theory", "https://en.wikipedia.org/wiki/Color_theory"],
-							["The Meaning of Color", "https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/"],
-							["50 Gorgeous Color Schemes", "https://visme.co/blog/website-color-schemes/"],
-						]
-					},
-					skills: [
-						{
-							name: "Color Wheel",
-							description: {
-								text: "Learn how to use the color wheel when making a color scheme.",
-								links: [
-									["Color Theory: Brief Guide For Designers", "https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa"],
-									["Color theory and the color wheel", "https://www.canva.com/colors/color-wheel/"],
-									["The fundamentals of understanding color theory", "https://99designs.dk/blog/tips/the-7-step-guide-to-understanding-color-theory/"],
-									["Adobe - Color wheel", "https://color.adobe.com/"],
-								]
-							},
-						}
-					]
-				},
+				// {
+				// 	name: "Color Theory",
+				// 	description: {
+				// 		text: "Learn about color theory and how you can make your own color schemes.",
+				// 		links: [
+				// 			["All you need to know about colors in UI Design", "https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522"],
+				// 			["The Role of Color in UX", "https://www.toptal.com/designers/ux/color-in-ux"],
+				// 			["10 Questions of Color Theory", "https://medium.muz.li/10-questions-of-color-theory-that-will-make-you-a-better-ux-designer-b5244c1341a6"],
+				// 			["Wikipedia - Color Theory", "https://en.wikipedia.org/wiki/Color_theory"],
+				// 			["The Meaning of Color", "https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/"],
+				// 			["50 Gorgeous Color Schemes", "https://visme.co/blog/website-color-schemes/"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Color Wheel",
+				// 			description: {
+				// 				text: "Learn how to use the color wheel when making a color scheme.",
+				// 				links: [
+				// 					["Color Theory: Brief Guide For Designers", "https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa"],
+				// 					["Color theory and the color wheel", "https://www.canva.com/colors/color-wheel/"],
+				// 					["The fundamentals of understanding color theory", "https://99designs.dk/blog/tips/the-7-step-guide-to-understanding-color-theory/"],
+				// 					["Adobe - Color wheel", "https://color.adobe.com/"],
+				// 				]
+				// 			},
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Typography",
 					description: {
