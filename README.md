@@ -274,8 +274,8 @@
   - [Error Handling](#error-handling)
   - [Loading](#loading)
   - [The Golden Ratio](#the-golden-ratio)
-  - [Mobile First](#mobile-first)
-    - [Hit Targets](#hit-targets)
+    <!-- - [Mobile First](#mobile-first) -->
+      <!-- - [Hit Targets](#hit-targets) -->
   - [Design Systems](#design-systems)
     - [Material Design](#material-design)
     - [Fluent Design](#fluent-design)
@@ -2494,22 +2494,22 @@ Learn how the golden ratio can help you when choose measurements for your design
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwpamelia.com" alt="Logo" /> Golden Ratio in Design](https://wpamelia.com/golden-ratio/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.format.com" alt="Logo" /> How To Use The Golden Ratio In Design](https://www.format.com/magazine/resources/design/golden-ratio-in-design)
 
-### Mobile First
+<!-- ### Mobile First
 
 Learn about designing for mobile first and why it is important.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.justinmind.com" alt="Logo" /> Complete guide to mobile first design](https://www.justinmind.com/blog/complete-guide-to-mobile-first-design/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> What is Mobile First Design?](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.uxpin.com" alt="Logo" /> A Hands-On Guide to Mobile-First Responsive Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdesignshack.net" alt="Logo" /> Mobile First Design](https://designshack.net/articles/mobile/mobilefirst/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdesignshack.net" alt="Logo" /> Mobile First Design](https://designshack.net/articles/mobile/mobilefirst/) -->
 
-#### Hit Targets
+<!-- #### Hit Targets
 
 Learn about hit targets can why they should not be neglected.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> Finger-Friendly Design](https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Size matters! Accessibility and Touch Targets](https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxmovement.com" alt="Logo" /> Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxmovement.com" alt="Logo" /> Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/) -->
 
 ### Design Systems
 

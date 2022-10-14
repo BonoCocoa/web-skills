@@ -215,32 +215,32 @@ export const designAndUXCollection = {
 						]
 					},
 				},
-				{
-					name: "Mobile First",
-					description: {
-						text: "Learn about designing for mobile first and why it is important.",
-						links: [
-							["Complete guide to mobile first design", "https://www.justinmind.com/blog/complete-guide-to-mobile-first-design/"],
-							["What is Mobile First Design?", "https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00"],
-							["A Hands-On Guide to Mobile-First Responsive Design", "https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/"],
-							["Mobile First Design", "https://designshack.net/articles/mobile/mobilefirst/"],
-						]
-					},
-					skills: [
-						{
-							name: "Hit Targets",
-							description: {
-								text: "Learn about hit targets can why they should not be neglected.",
-								links: [
-									["Finger-Friendly Design", "https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/"],
-									["Size matters! Accessibility and Touch Targets", "https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc"],
-									["Optimal Size and Spacing for Mobile Buttons", "https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/"],
-								]
-							},
-						},
+				// {
+				// 	name: "Mobile First",
+				// 	description: {
+				// 		text: "Learn about designing for mobile first and why it is important.",
+				// 		links: [
+				// 			["Complete guide to mobile first design", "https://www.justinmind.com/blog/complete-guide-to-mobile-first-design/"],
+				// 			["What is Mobile First Design?", "https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00"],
+				// 			["A Hands-On Guide to Mobile-First Responsive Design", "https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/"],
+				// 			["Mobile First Design", "https://designshack.net/articles/mobile/mobilefirst/"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Hit Targets",
+				// 			description: {
+				// 				text: "Learn about hit targets can why they should not be neglected.",
+				// 				links: [
+				// 					["Finger-Friendly Design", "https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/"],
+				// 					["Size matters! Accessibility and Touch Targets", "https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc"],
+				// 					["Optimal Size and Spacing for Mobile Buttons", "https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/"],
+				// 				]
+				// 			},
+				// 		},
 						
-					]
-				},
+				// 	]
+				// },
 				{
 					name: "Design Systems",
 					description: {
