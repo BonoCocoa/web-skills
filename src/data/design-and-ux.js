@@ -3,34 +3,34 @@ export const designAndUXCollection = {
 	areas: [
 		{
 			skills: [
-				{
-					name: "Color Theory",
-					description: {
-						text: "Learn about color theory and how you can make your own color schemes.",
-						links: [
-							["All you need to know about colors in UI Design", "https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522"],
-							["The Role of Color in UX", "https://www.toptal.com/designers/ux/color-in-ux"],
-							["10 Questions of Color Theory", "https://medium.muz.li/10-questions-of-color-theory-that-will-make-you-a-better-ux-designer-b5244c1341a6"],
-							["Wikipedia - Color Theory", "https://en.wikipedia.org/wiki/Color_theory"],
-							["The Meaning of Color", "https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/"],
-							["50 Gorgeous Color Schemes", "https://visme.co/blog/website-color-schemes/"],
-						]
-					},
-					skills: [
-						{
-							name: "Color Wheel",
-							description: {
-								text: "Learn how to use the color wheel when making a color scheme.",
-								links: [
-									["Color Theory: Brief Guide For Designers", "https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa"],
-									["Color theory and the color wheel", "https://www.canva.com/colors/color-wheel/"],
-									["The fundamentals of understanding color theory", "https://99designs.dk/blog/tips/the-7-step-guide-to-understanding-color-theory/"],
-									["Adobe - Color wheel", "https://color.adobe.com/"],
-								]
-							},
-						}
-					]
-				},
+				// {
+				// 	name: "Color Theory",
+				// 	description: {
+				// 		text: "Learn about color theory and how you can make your own color schemes.",
+				// 		links: [
+				// 			["All you need to know about colors in UI Design", "https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522"],
+				// 			["The Role of Color in UX", "https://www.toptal.com/designers/ux/color-in-ux"],
+				// 			["10 Questions of Color Theory", "https://medium.muz.li/10-questions-of-color-theory-that-will-make-you-a-better-ux-designer-b5244c1341a6"],
+				// 			["Wikipedia - Color Theory", "https://en.wikipedia.org/wiki/Color_theory"],
+				// 			["The Meaning of Color", "https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/"],
+				// 			["50 Gorgeous Color Schemes", "https://visme.co/blog/website-color-schemes/"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Color Wheel",
+				// 			description: {
+				// 				text: "Learn how to use the color wheel when making a color scheme.",
+				// 				links: [
+				// 					["Color Theory: Brief Guide For Designers", "https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa"],
+				// 					["Color theory and the color wheel", "https://www.canva.com/colors/color-wheel/"],
+				// 					["The fundamentals of understanding color theory", "https://99designs.dk/blog/tips/the-7-step-guide-to-understanding-color-theory/"],
+				// 					["Adobe - Color wheel", "https://color.adobe.com/"],
+				// 				]
+				// 			},
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Typography",
 					description: {
@@ -215,74 +215,74 @@ export const designAndUXCollection = {
 						]
 					},
 				},
-				{
-					name: "Mobile First",
-					description: {
-						text: "Learn about designing for mobile first and why it is important.",
-						links: [
-							["Complete guide to mobile first design", "https://www.justinmind.com/blog/complete-guide-to-mobile-first-design/"],
-							["What is Mobile First Design?", "https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00"],
-							["A Hands-On Guide to Mobile-First Responsive Design", "https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/"],
-							["Mobile First Design", "https://designshack.net/articles/mobile/mobilefirst/"],
-						]
-					},
-					skills: [
-						{
-							name: "Hit Targets",
-							description: {
-								text: "Learn about hit targets can why they should not be neglected.",
-								links: [
-									["Finger-Friendly Design", "https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/"],
-									["Size matters! Accessibility and Touch Targets", "https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc"],
-									["Optimal Size and Spacing for Mobile Buttons", "https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/"],
-								]
-							},
-						},
+				// {
+				// 	name: "Mobile First",
+				// 	description: {
+				// 		text: "Learn about designing for mobile first and why it is important.",
+				// 		links: [
+				// 			["Complete guide to mobile first design", "https://www.justinmind.com/blog/complete-guide-to-mobile-first-design/"],
+				// 			["What is Mobile First Design?", "https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00"],
+				// 			["A Hands-On Guide to Mobile-First Responsive Design", "https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/"],
+				// 			["Mobile First Design", "https://designshack.net/articles/mobile/mobilefirst/"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Hit Targets",
+				// 			description: {
+				// 				text: "Learn about hit targets can why they should not be neglected.",
+				// 				links: [
+				// 					["Finger-Friendly Design", "https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/"],
+				// 					["Size matters! Accessibility and Touch Targets", "https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc"],
+				// 					["Optimal Size and Spacing for Mobile Buttons", "https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/"],
+				// 				]
+				// 			},
+				// 		},
 						
-					]
-				},
-				{
-					name: "Design Systems",
-					description: {
-						text: "Learn what design systems are and get familiar with some.",
-						links: [
-							["A guide to design systems", "https://www.invisionapp.com/inside-design/guide-to-design-systems/"],
-							["What the heck is a design system?", "https://uxdesign.cc/what-the-heck-is-a-design-system-c89a8ea73b0d"],
-							["Everything you need to know about Design Systems", "https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969"],
-							["What is a Design System?", "https://medium.muz.li/what-is-a-design-system-1e43d19e7696"],
-							["What's a Design System", "https://dev.to/graphqleditor/what-s-design-system-and-why-you-need-one-31fh"],
-						]
-					},
-					skills: [
-						{
-							name: "Material Design",
-							description: {
-								text: "Learn about material design and get familiar with the core principles.",
-								links: [
-									["Google - Material Design", "https://material.io/design/"],
-									["Google - Material Components", "https://material.io/components/"],
-									["Google - Material Develop", "https://material.io/develop/web/"],
-									["Google - Material Tutorial", "https://material.io/collections/developer-tutorials/#web"],
-									["Wikipedia - Material Design", "https://en.wikipedia.org/wiki/Material_Design"],
-								]
-							},
-						},
-						{
-							name: "Fluent Design",
-							description: {
-								text: "Learn about fluent design and get familiar with the core principles.",
-								links: [
-									["Microsoft - Fluent Design System", "https://www.microsoft.com/design/fluent/#/web"],
-									["Microsoft - Fluent UI Toolkit", "https://www.microsoft.com/design/fluent/toolkits/"],
-									["Wikipedia - Fluent Design System", "https://en.wikipedia.org/wiki/Fluent_Design_System"],
-									["Fluent: Design Behind the Design", "https://medium.com/microsoft-design/fluent-design-behind-the-design-973028062fcc"],
-									["Iconic Icons: Designing the World of Windows", "https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416"],
-									["Evolving the Microsoft Fluent Design System", "https://medium.com/microsoft-design/evolving-the-microsoft-fluent-design-system-9b37fb890c82"],
-								]
-							},
-						}
-					]
-				},
+				// 	]
+				// },
+				// {
+				// 	name: "Design Systems",
+				// 	description: {
+				// 		text: "Learn what design systems are and get familiar with some.",
+				// 		links: [
+				// 			["A guide to design systems", "https://www.invisionapp.com/inside-design/guide-to-design-systems/"],
+				// 			["What the heck is a design system?", "https://uxdesign.cc/what-the-heck-is-a-design-system-c89a8ea73b0d"],
+				// 			["Everything you need to know about Design Systems", "https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969"],
+				// 			["What is a Design System?", "https://medium.muz.li/what-is-a-design-system-1e43d19e7696"],
+				// 			["What's a Design System", "https://dev.to/graphqleditor/what-s-design-system-and-why-you-need-one-31fh"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Material Design",
+				// 			description: {
+				// 				text: "Learn about material design and get familiar with the core principles.",
+				// 				links: [
+				// 					["Google - Material Design", "https://material.io/design/"],
+				// 					["Google - Material Components", "https://material.io/components/"],
+				// 					["Google - Material Develop", "https://material.io/develop/web/"],
+				// 					["Google - Material Tutorial", "https://material.io/collections/developer-tutorials/#web"],
+				// 					["Wikipedia - Material Design", "https://en.wikipedia.org/wiki/Material_Design"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Fluent Design",
+				// 			description: {
+				// 				text: "Learn about fluent design and get familiar with the core principles.",
+				// 				links: [
+				// 					["Microsoft - Fluent Design System", "https://www.microsoft.com/design/fluent/#/web"],
+				// 					["Microsoft - Fluent UI Toolkit", "https://www.microsoft.com/design/fluent/toolkits/"],
+				// 					["Wikipedia - Fluent Design System", "https://en.wikipedia.org/wiki/Fluent_Design_System"],
+				// 					["Fluent: Design Behind the Design", "https://medium.com/microsoft-design/fluent-design-behind-the-design-973028062fcc"],
+				// 					["Iconic Icons: Designing the World of Windows", "https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416"],
+				// 					["Evolving the Microsoft Fluent Design System", "https://medium.com/microsoft-design/evolving-the-microsoft-fluent-design-system-9b37fb890c82"],
+				// 				]
+				// 			},
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Accessibility",
 					description: {

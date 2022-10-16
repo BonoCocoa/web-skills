@@ -259,8 +259,8 @@
         <!-- - [Waterfall Development](#waterfall-development) -->
       <!-- - [Test Driven Development](#test-driven-development) -->
 - [➤ Design & UX](#-design--ux)
-  - [Color Theory](#color-theory)
-    - [Color Wheel](#color-wheel)
+  <!-- - [Color Theory](#color-theory) -->
+  <!-- - [Color Wheel](#color-wheel) -->
   - [Typography](#typography)
     - [Font Size](#font-size)
     - [Line Spacing](#line-spacing)
@@ -274,11 +274,11 @@
   - [Error Handling](#error-handling)
   - [Loading](#loading)
   - [The Golden Ratio](#the-golden-ratio)
-  - [Mobile First](#mobile-first)
-    - [Hit Targets](#hit-targets)
-  - [Design Systems](#design-systems)
-    - [Material Design](#material-design)
-    - [Fluent Design](#fluent-design)
+      <!-- - [Mobile First](#mobile-first) -->
+        <!-- - [Hit Targets](#hit-targets) -->
+    <!-- - [Design Systems](#design-systems) -->
+      <!-- - [Material Design](#material-design) -->
+      <!-- - [Fluent Design](#fluent-design) -->
   - [Accessibility](#accessibility)
   - [Best Practices](#best-practices-4)
 - [➤ The Modern Web](#-the-modern-web)
@@ -2333,7 +2333,7 @@ Learn about test driven development and when to use it.
 
 ## ➤ Design & UX
 
-### Color Theory
+<!-- ### Color Theory
 
 Learn about color theory and how you can make your own color schemes.
 
@@ -2342,16 +2342,16 @@ Learn about color theory and how you can make your own color schemes.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.muz.li" alt="Logo" /> 10 Questions of Color Theory](https://medium.muz.li/10-questions-of-color-theory-that-will-make-you-a-better-ux-designer-b5244c1341a6)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Color Theory](https://en.wikipedia.org/wiki/Color_theory)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> The Meaning of Color](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvisme.co" alt="Logo" /> 50 Gorgeous Color Schemes](https://visme.co/blog/website-color-schemes/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvisme.co" alt="Logo" /> 50 Gorgeous Color Schemes](https://visme.co/blog/website-color-schemes/) -->
 
-#### Color Wheel
+<!-- #### Color Wheel
 
 Learn how to use the color wheel when making a color scheme.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxplanet.org" alt="Logo" /> Color Theory: Brief Guide For Designers](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.canva.com" alt="Logo" /> Color theory and the color wheel](https://www.canva.com/colors/color-wheel/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2F99designs.dk" alt="Logo" /> The fundamentals of understanding color theory](https://99designs.dk/blog/tips/the-7-step-guide-to-understanding-color-theory/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcolor.adobe.com" alt="Logo" /> Adobe - Color wheel](https://color.adobe.com/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcolor.adobe.com" alt="Logo" /> Adobe - Color wheel](https://color.adobe.com/) -->
 
 ### Typography
 
@@ -2494,24 +2494,24 @@ Learn how the golden ratio can help you when choose measurements for your design
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwpamelia.com" alt="Logo" /> Golden Ratio in Design](https://wpamelia.com/golden-ratio/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.format.com" alt="Logo" /> How To Use The Golden Ratio In Design](https://www.format.com/magazine/resources/design/golden-ratio-in-design)
 
-### Mobile First
+<!-- ### Mobile First
 
 Learn about designing for mobile first and why it is important.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.justinmind.com" alt="Logo" /> Complete guide to mobile first design](https://www.justinmind.com/blog/complete-guide-to-mobile-first-design/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> What is Mobile First Design?](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.uxpin.com" alt="Logo" /> A Hands-On Guide to Mobile-First Responsive Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdesignshack.net" alt="Logo" /> Mobile First Design](https://designshack.net/articles/mobile/mobilefirst/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdesignshack.net" alt="Logo" /> Mobile First Design](https://designshack.net/articles/mobile/mobilefirst/) -->
 
-#### Hit Targets
+<!-- #### Hit Targets
 
 Learn about hit targets can why they should not be neglected.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> Finger-Friendly Design](https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Size matters! Accessibility and Touch Targets](https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxmovement.com" alt="Logo" /> Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxmovement.com" alt="Logo" /> Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/) -->
 
-### Design Systems
+<!-- ### Design Systems
 
 Learn what design systems are and get familiar with some.
 
@@ -2519,9 +2519,9 @@ Learn what design systems are and get familiar with some.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxdesign.cc" alt="Logo" /> What the heck is a design system?](https://uxdesign.cc/what-the-heck-is-a-design-system-c89a8ea73b0d)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fuxdesign.cc" alt="Logo" /> Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.muz.li" alt="Logo" /> What is a Design System?](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> What's a Design System](https://dev.to/graphqleditor/what-s-design-system-and-why-you-need-one-31fh)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> What's a Design System](https://dev.to/graphqleditor/what-s-design-system-and-why-you-need-one-31fh) -->
 
-#### Material Design
+<!-- #### Material Design
 
 Learn about material design and get familiar with the core principles.
 
@@ -2529,9 +2529,9 @@ Learn about material design and get familiar with the core principles.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmaterial.io" alt="Logo" /> Google - Material Components](https://material.io/components/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmaterial.io" alt="Logo" /> Google - Material Develop](https://material.io/develop/web/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmaterial.io" alt="Logo" /> Google - Material Tutorial](https://material.io/collections/developer-tutorials/#web)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Material Design](https://en.wikipedia.org/wiki/Material_Design)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Material Design](https://en.wikipedia.org/wiki/Material_Design) -->
 
-#### Fluent Design
+<!-- #### Fluent Design
 
 Learn about fluent design and get familiar with the core principles.
 
@@ -2540,7 +2540,7 @@ Learn about fluent design and get familiar with the core principles.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Fluent Design System](https://en.wikipedia.org/wiki/Fluent_Design_System)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Fluent: Design Behind the Design](https://medium.com/microsoft-design/fluent-design-behind-the-design-973028062fcc)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Iconic Icons: Designing the World of Windows](https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Evolving the Microsoft Fluent Design System](https://medium.com/microsoft-design/evolving-the-microsoft-fluent-design-system-9b37fb890c82)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Evolving the Microsoft Fluent Design System](https://medium.com/microsoft-design/evolving-the-microsoft-fluent-design-system-9b37fb890c82) -->
 
 ### Accessibility
 
