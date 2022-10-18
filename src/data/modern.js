@@ -274,21 +274,21 @@ export const modernCollection = {
 				// 		]
 				// 	},
 				// },
-				{
-					name: "Web Assembly",
-					description: {
-						text: "Learn about Web Assembly and how it opens up the playing field for new types of web apps.",
-						links: [
-							["MDN - WebAssembly Concepts", "https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts"],
-							["MDN - WebAssembly", "https://developer.mozilla.org/en-US/docs/WebAssembly"],
-							["dev.to - Why the heck is everyone talking about WebAssembly?", "https://dev.to/captainsafia/why-the-heck-is-everyone-talking-about-webassembly-455a"],
-							["Introduction to Web Assembly", "https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-web-assembly-6cb6466a3478"],
-							["Google Codelabs - An Introduction to Web Assembly", "https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0"],
-							["How We Used WebAssembly To Speed Up Our Web App By 20X", "https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/"],
-							["Google Devs - WebAssembly", "https://developers.google.com/web/updates/2019/02/hotpath-with-wasm"],
-						]
-					},
-				},
+				// {
+				// 	name: "Web Assembly",
+				// 	description: {
+				// 		text: "Learn about Web Assembly and how it opens up the playing field for new types of web apps.",
+				// 		links: [
+				// 			["MDN - WebAssembly Concepts", "https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts"],
+				// 			["MDN - WebAssembly", "https://developer.mozilla.org/en-US/docs/WebAssembly"],
+				// 			["dev.to - Why the heck is everyone talking about WebAssembly?", "https://dev.to/captainsafia/why-the-heck-is-everyone-talking-about-webassembly-455a"],
+				// 			["Introduction to Web Assembly", "https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-web-assembly-6cb6466a3478"],
+				// 			["Google Codelabs - An Introduction to Web Assembly", "https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0"],
+				// 			["How We Used WebAssembly To Speed Up Our Web App By 20X", "https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/"],
+				// 			["Google Devs - WebAssembly", "https://developers.google.com/web/updates/2019/02/hotpath-with-wasm"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Beacon",
 					description: {

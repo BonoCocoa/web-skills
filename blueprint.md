@@ -2361,7 +2361,7 @@ Learn about the Scrollsnapping API and how it can help you provide an intuitive 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebkit.org" alt="Logo" /> The scroll-snap-\* Properties](https://webkit.org/demos/scroll-snap/index.html) -->
 
-### Web Assembly
+<!-- ### Web Assembly
 
 Learn about Web Assembly and how it opens up the playing field for new types of web apps.
 
@@ -2371,7 +2371,7 @@ Learn about Web Assembly and how it opens up the playing field for new types of 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Introduction to Web Assembly](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-web-assembly-6cb6466a3478)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodelabs.developers.google.com" alt="Logo" /> Google Codelabs - An Introduction to Web Assembly](https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> How We Used WebAssembly To Speed Up Our Web App By 20X](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm) -->
 
 ### Beacon
 
