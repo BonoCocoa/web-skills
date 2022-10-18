@@ -362,19 +362,19 @@ export const databasesCollection = {
 						// 		]
 						// 	},
 						// },
-						{
-							name: "Peer-To-Peer",
-							description: {
-								text: "Learn about the peer-to-peer model.",
-								links: [
-									["Wikipedia - Peer-to-peer", "https://en.wikipedia.org/wiki/Peer-to-peer"],
-									["Youtube - What is a Peer to Peer Network? ", "https://www.youtube.com/watch?v=ie-qRQIQT4I"],
-									["What's a Peer-to-Peer (P2P) Network?", "https://www.computerworld.com/article/2588287/networking-peer-to-peer-network.html"],
-									["Peer-to-peer (P2P)", "https://searchnetworking.techtarget.com/definition/peer-to-peer"],
-									["Make a P2P connection in 10 minutes", "https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32"],
-								]
-							},
-						},
+						// {
+						// 	name: "Peer-To-Peer",
+						// 	description: {
+						// 		text: "Learn about the peer-to-peer model.",
+						// 		links: [
+						// 			["Wikipedia - Peer-to-peer", "https://en.wikipedia.org/wiki/Peer-to-peer"],
+						// 			["Youtube - What is a Peer to Peer Network? ", "https://www.youtube.com/watch?v=ie-qRQIQT4I"],
+						// 			["What's a Peer-to-Peer (P2P) Network?", "https://www.computerworld.com/article/2588287/networking-peer-to-peer-network.html"],
+						// 			["Peer-to-peer (P2P)", "https://searchnetworking.techtarget.com/definition/peer-to-peer"],
+						// 			["Make a P2P connection in 10 minutes", "https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32"],
+						// 		]
+						// 	},
+						// },
 					]
 				},
 				{

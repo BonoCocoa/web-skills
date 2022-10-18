@@ -384,8 +384,8 @@
   - [Servers](#servers)
   - [Architectural Models](#architectural-models)
     - [Client-Server](#client-server)
-    <!-- - [Proxy Server](#proxy-server) -->
-    - [Peer-To-Peer](#peer-to-peer)
+      <!-- - [Proxy Server](#proxy-server) -->
+      <!-- - [Peer-To-Peer](#peer-to-peer) -->
   - [Middleware](#middleware)
   - [Request-Reply Protocol](#request-reply-protocol)
     - [UDP](#udp)
@@ -3546,7 +3546,7 @@ Learn about the proxy-server model.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatis.techtarget.com" alt="Logo" /> Proxy Server Definition](https://whatis.techtarget.com/definition/proxy-server)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.itpro.co.uk" alt="Logo" /> What is a proxy server?](https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server) -->
 
-#### Peer-To-Peer
+<!-- #### Peer-To-Peer
 
 Learn about the peer-to-peer model.
 
@@ -3554,7 +3554,7 @@ Learn about the peer-to-peer model.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - What is a Peer to Peer Network? ](https://www.youtube.com/watch?v=ie-qRQIQT4I)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.computerworld.com" alt="Logo" /> What's a Peer-to-Peer (P2P) Network?](https://www.computerworld.com/article/2588287/networking-peer-to-peer-network.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsearchnetworking.techtarget.com" alt="Logo" /> Peer-to-peer (P2P)](https://searchnetworking.techtarget.com/definition/peer-to-peer)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> Make a P2P connection in 10 minutes](https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> Make a P2P connection in 10 minutes](https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32) -->
 
 ### Middleware
 
