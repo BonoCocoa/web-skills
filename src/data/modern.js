@@ -339,18 +339,18 @@ export const modernCollection = {
 				// 		]
 				// 	}
 				// },
-				{
-					name: "Gamepad API",
-					description: {
-						text: "Learn how the Gamepad API can help you integrate with various controllers such as an x-box or playstation controller",
-						links: [
-							["MDN - Using the Gamepad API", "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API"],
-							["MDN - Gamepad API", "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API"],
-							["luser - Gamepad Test", "http://luser.github.io/gamepadtest/"],
-							["MDN - Implementing controls using the Gamepad API", "https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API"],
-						]
-					}
-				},
+				// {
+				// 	name: "Gamepad API",
+				// 	description: {
+				// 		text: "Learn how the Gamepad API can help you integrate with various controllers such as an x-box or playstation controller",
+				// 		links: [
+				// 			["MDN - Using the Gamepad API", "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API"],
+				// 			["MDN - Gamepad API", "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API"],
+				// 			["luser - Gamepad Test", "http://luser.github.io/gamepadtest/"],
+				// 			["MDN - Implementing controls using the Gamepad API", "https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API"],
+				// 		]
+				// 	}
+				// },
 				{
 					name: "Speech Recognition",
 					description: {

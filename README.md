@@ -307,8 +307,8 @@
   - [Beacon](#beacon)
   - [Clipboard](#clipboard)
   - [Share](#share)
-  <!-- - [Performance API](#performance-api) -->
-  - [Gamepad API](#gamepad-api)
+    <!-- - [Performance API](#performance-api) -->
+    <!-- - [Gamepad API](#gamepad-api) -->
   - [Speech Recognition](#speech-recognition)
   - [Interaction Media Queries](#interaction-media-queries)
   - [Browser Extensions](#browser-extensions)
@@ -2822,14 +2822,14 @@ Learn about the Performance API and how it can help you monitor the performance 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Performance Specifications](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API#Specifications)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Performance Timeline](https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline) -->
 
-### Gamepad API
+<!-- ### Gamepad API
 
 Learn how the Gamepad API can help you integrate with various controllers such as an x-box or playstation controller
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Using the Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fluser.github.io" alt="Logo" /> luser - Gamepad Test](http://luser.github.io/gamepadtest/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Implementing controls using the Gamepad API](https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Implementing controls using the Gamepad API](https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API) -->
 
 ### Speech Recognition
 
