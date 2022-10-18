@@ -377,19 +377,19 @@ export const databasesCollection = {
 						// },
 					]
 				},
-				{
-					name: "Middleware",
-					description: {
-						text: "Learn about middleware.",
-						links: [
-							["Wikipedia - Middleware", "https://en.wikipedia.org/wiki/Middleware"],
-							["Middleware Definition", "https://searchapparchitecture.techtarget.com/definition/middleware"],
-							["Quora - Why is Middleware important?", "https://www.quora.com/Why-is-Middleware-important"],
-							["What is middleware?", "https://www.redhat.com/en/topics/middleware/what-is-middleware"],
-							["What is Middleware? Technology’s Go-to Middleman", "https://www.talend.com/resources/what-is-middleware/"],
-						]
-					},
-				},
+				// {
+				// 	name: "Middleware",
+				// 	description: {
+				// 		text: "Learn about middleware.",
+				// 		links: [
+				// 			["Wikipedia - Middleware", "https://en.wikipedia.org/wiki/Middleware"],
+				// 			["Middleware Definition", "https://searchapparchitecture.techtarget.com/definition/middleware"],
+				// 			["Quora - Why is Middleware important?", "https://www.quora.com/Why-is-Middleware-important"],
+				// 			["What is middleware?", "https://www.redhat.com/en/topics/middleware/what-is-middleware"],
+				// 			["What is Middleware? Technology’s Go-to Middleman", "https://www.talend.com/resources/what-is-middleware/"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Request-Reply Protocol",
 					description: {

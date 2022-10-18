@@ -384,9 +384,9 @@
   - [Servers](#servers)
   - [Architectural Models](#architectural-models)
     - [Client-Server](#client-server)
-      <!-- - [Proxy Server](#proxy-server) -->
-      <!-- - [Peer-To-Peer](#peer-to-peer) -->
-  - [Middleware](#middleware)
+    <!-- - [Proxy Server](#proxy-server) -->
+    <!-- - [Peer-To-Peer](#peer-to-peer) -->
+    <!-- - [Middleware](#middleware) -->
   - [Request-Reply Protocol](#request-reply-protocol)
     - [UDP](#udp)
     - [TCP](#tcp)
@@ -3556,7 +3556,7 @@ Learn about the peer-to-peer model.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsearchnetworking.techtarget.com" alt="Logo" /> Peer-to-peer (P2P)](https://searchnetworking.techtarget.com/definition/peer-to-peer)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> Make a P2P connection in 10 minutes](https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32) -->
 
-### Middleware
+<!-- ### Middleware
 
 Learn about middleware.
 
@@ -3564,7 +3564,7 @@ Learn about middleware.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsearchapparchitecture.techtarget.com" alt="Logo" /> Middleware Definition](https://searchapparchitecture.techtarget.com/definition/middleware)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.quora.com" alt="Logo" /> Quora - Why is Middleware important?](https://www.quora.com/Why-is-Middleware-important)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.redhat.com" alt="Logo" /> What is middleware?](https://www.redhat.com/en/topics/middleware/what-is-middleware)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.talend.com" alt="Logo" /> What is Middleware? Technology’s Go-to Middleman](https://www.talend.com/resources/what-is-middleware/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.talend.com" alt="Logo" /> What is Middleware? Technology’s Go-to Middleman](https://www.talend.com/resources/what-is-middleware/) -->
 
 ### Request-Reply Protocol
 
