@@ -81,19 +81,19 @@ export const modernCollection = {
 				// 		},
 				// 	]
 				// },
-				{
-					name: "Speech Synthesis",
-					description: {
-						text: "Learn how the speech synthesis API can help you converting text to speech.",
-						links: [
-							["Google Devs - Web apps that talk", "https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API"],
-							["MDN - window.speechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis"],
-							["MDN - SpeechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis"],
-							["W3C - Web Speech API", "https://w3c.github.io/speech-api"],
-							["The Speech Synthesis API", "https://flaviocopes.com/speech-synthesis-api/"],
-						]
-					},
-				},
+				// {
+				// 	name: "Speech Synthesis",
+				// 	description: {
+				// 		text: "Learn how the speech synthesis API can help you converting text to speech.",
+				// 		links: [
+				// 			["Google Devs - Web apps that talk", "https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API"],
+				// 			["MDN - window.speechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis"],
+				// 			["MDN - SpeechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis"],
+				// 			["W3C - Web Speech API", "https://w3c.github.io/speech-api"],
+				// 			["The Speech Synthesis API", "https://flaviocopes.com/speech-synthesis-api/"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Web Sockets",
 					description: {
