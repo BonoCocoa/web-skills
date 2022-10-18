@@ -561,19 +561,19 @@ export const modernCollection = {
 				// 		]
 				// 	},
 				// },
-				{
-					name: "Network Information API",
-					description: {
-						text: "Learn how the Network Information API proposal can give you information about the state of the network.",
-						links: [
-							["MDN - Network Information API", "https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API"],
-							["Addy Osmani - Adaptive Serving", "https://addyosmani.com/blog/adaptive-serving/"],
-							["W3C - Network Information API", "https://wicg.github.io/netinfo/"],
-							["Network Information API Sample", "https://googlechrome.github.io/samples/network-information/"],
-							["What Web Can Do Today - Network Type & Speed", "https://whatwebcando.today/network-type-speed.html"],
-						]
-					},
-				},
+				// {
+				// 	name: "Network Information API",
+				// 	description: {
+				// 		text: "Learn how the Network Information API proposal can give you information about the state of the network.",
+				// 		links: [
+				// 			["MDN - Network Information API", "https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API"],
+				// 			["Addy Osmani - Adaptive Serving", "https://addyosmani.com/blog/adaptive-serving/"],
+				// 			["W3C - Network Information API", "https://wicg.github.io/netinfo/"],
+				// 			["Network Information API Sample", "https://googlechrome.github.io/samples/network-information/"],
+				// 			["What Web Can Do Today - Network Type & Speed", "https://whatwebcando.today/network-type-speed.html"],
+				// 		]
+				// 	},
+				// },
 				// SMS Receiver API - https://web.dev/sms-receiver-api-announcement/
 				// Badging API - https://web.dev/badging-api/
 				// Contacts API - https://web.dev/contact-picker/

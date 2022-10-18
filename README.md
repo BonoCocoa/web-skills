@@ -320,12 +320,12 @@
   - [Web Authentication API](#web-authentication-api)
     - [Credentials Manager API](#credentials-manager-api)
   - [Native File System](#native-file-system)
-      <!-- - [Shape Detection](#shape-detection) -->
-      <!-- - [Web Bluetooth](#web-bluetooth) -->
-        <!-- - [Web USB](#web-usb) -->
-      <!-- - [Web XR](#web-xr) -->
-    <!-- - [Presentation](#presentation) -->
-  - [Network Information API](#network-information-api)
+    <!-- - [Shape Detection](#shape-detection) -->
+    <!-- - [Web Bluetooth](#web-bluetooth) -->
+    <!-- - [Web USB](#web-usb) -->
+    <!-- - [Web XR](#web-xr) -->
+      <!-- - [Presentation](#presentation) -->
+    <!-- - [Network Information API](#network-information-api) -->
 - [➤ Algorithms & Data structures](#-algorithms--data-structures)
   - [Data structures](#data-structures)
   - [Arrays](#arrays)
@@ -2991,7 +2991,7 @@ Learn how the Presentation API proposal enables your web app to use the presenta
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Present web pages to secondary attached displays](https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fw3c.github.io" alt="Logo" /> W3C - Presentation API](https://w3c.github.io/presentation-api) -->
 
-### Network Information API
+<!-- ### Network Information API
 
 Learn how the Network Information API proposal can give you information about the state of the network.
 
@@ -2999,7 +2999,7 @@ Learn how the Network Information API proposal can give you information about th
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Faddyosmani.com" alt="Logo" /> Addy Osmani - Adaptive Serving](https://addyosmani.com/blog/adaptive-serving/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwicg.github.io" alt="Logo" /> W3C - Network Information API](https://wicg.github.io/netinfo/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgooglechrome.github.io" alt="Logo" /> Network Information API Sample](https://googlechrome.github.io/samples/network-information/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Network Type & Speed](https://whatwebcando.today/network-type-speed.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Network Type & Speed](https://whatwebcando.today/network-type-speed.html) -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#algorithms--data-structures)
 
