@@ -2490,7 +2490,7 @@ Learn about the Houdini project and get excited about the future of CSS.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> W3C - CSS Houdini Wiki](https://github.com/w3c/css-houdini-drafts/wiki)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Houdini's Animation Worklet](https://developers.google.com/web/updates/2018/10/animation-worklet)
 
-### Project Fugu
+<!-- ### Project Fugu
 
 Learn about Project Fugu project and get excited about the future of the Web.
 
@@ -2499,7 +2499,7 @@ Learn about Project Fugu project and get excited about the future of the Web.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fbugs.chromium.org" alt="Logo" /> Chromium Bugs - Fugu](https://bugs.chromium.org/p/chromium/issues/list?q=proj-fugu)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Unlocking new capabilities for the web](https://developers.google.com/web/updates/capabilities)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Unlocking New Capabilities for the Web](https://www.youtube.com/watch?v=GSiUzuB-PoI)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fchromium.googlesource.com" alt="Logo" /> Controlling Access to Powerful Web Platform Features](https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fchromium.googlesource.com" alt="Logo" /> Controlling Access to Powerful Web Platform Features](https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md) -->
 
 ### Web Authentication API
 

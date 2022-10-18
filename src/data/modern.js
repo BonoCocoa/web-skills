@@ -442,20 +442,20 @@ export const modernCollection = {
 						]
 					}
 				},
-				{
-					name: "Project Fugu",
-					description: {
-						text: "Learn about Project Fugu project and get excited about the future of the Web.",
-						links: [
-							["Our commitment to a more capable web", "https://blog.chromium.org/2018/11/our-commitment-to-more-capable-web.html"],
-							["Web Capabilities (Fugu)", "https://www.chromium.org/teams/web-capabilities-fugu"],
-							["Chromium Bugs - Fugu", "https://bugs.chromium.org/p/chromium/issues/list?q=proj-fugu"],
-							["Google Devs - Unlocking new capabilities for the web", "https://developers.google.com/web/updates/capabilities"],
-							["Youtube - Unlocking New Capabilities for the Web", "https://www.youtube.com/watch?v=GSiUzuB-PoI"],
-							["Controlling Access to Powerful Web Platform Features", "https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md"],
-						]
-					},
-				},
+				// {
+				// 	name: "Project Fugu",
+				// 	description: {
+				// 		text: "Learn about Project Fugu project and get excited about the future of the Web.",
+				// 		links: [
+				// 			["Our commitment to a more capable web", "https://blog.chromium.org/2018/11/our-commitment-to-more-capable-web.html"],
+				// 			["Web Capabilities (Fugu)", "https://www.chromium.org/teams/web-capabilities-fugu"],
+				// 			["Chromium Bugs - Fugu", "https://bugs.chromium.org/p/chromium/issues/list?q=proj-fugu"],
+				// 			["Google Devs - Unlocking new capabilities for the web", "https://developers.google.com/web/updates/capabilities"],
+				// 			["Youtube - Unlocking New Capabilities for the Web", "https://www.youtube.com/watch?v=GSiUzuB-PoI"],
+				// 			["Controlling Access to Powerful Web Platform Features", "https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Web Authentication API",
 					description: {
