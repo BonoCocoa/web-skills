@@ -282,12 +282,12 @@
   - [Accessibility](#accessibility)
   - [Best Practices](#best-practices-4)
 - [➤ The Modern Web](#-the-modern-web)
-  - [Streams](#streams)
+  <!-- - [Streams](#streams)
     - [Media Streams](#media-streams)
     - [Media Recorder](#media-recorder)
     - [Web RTC](#web-rtc)
     - [Screen Capture](#screen-capture)
-    - [Generators](#generators)
+    - [Generators](#generators) -->
   - [Speech Synthesis](#speech-synthesis)
   - [Web Sockets](#web-sockets)
   - [Geolocation](#geolocation)
@@ -2568,7 +2568,7 @@ Learn about some of the best practices when designing.
 
 ## ➤ The Modern Web
 
-### Streams
+<!-- ### Streams
 
 Learn about streams and how they can help you effeciently transporting data.
 
@@ -2624,7 +2624,7 @@ Learn how to use generator functions to define iterative algorithms by writing f
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - yield\*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - JavaScript Visualized: Generators and Iterators](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> javascript.info - Generators](https://javascript.info/generators)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Medium - A Simple Guide to Understanding Javascript Generators](https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Medium - A Simple Guide to Understanding Javascript Generators](https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950) -->
 
 ### Speech Synthesis
 

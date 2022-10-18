@@ -3,84 +3,84 @@ export const modernCollection = {
 	areas: [
 		{
 			skills: [
-				{
-					name: "Streams",
-					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
-						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
-						]
-					},
-					skills: [
-						{
-							name: "Media Streams",
-							description: {
-								text: "Learn about media streams and how it is possible to get a stream to device specific hardware such as the camera or microphone.",
-								links: [
-									["MDN - Media Streams API", "https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API"],
-									["MDN - Image Capture API", "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Image_Capture_API"],
-									["MDN - mediaDevices.getUserMedia()", "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia"],
-									["W3C - Media Capture and Streams", "https://w3c.github.io/mediacapture-main/#dom-mediastream"],
-								]
-							}
-						},
-						{
-							name: "Media Recorder",
-							description: {
-								text: "Learn how to use the media recorder API to record media streams.",
-								links: [
-									["MDN - MediaStream Recording API", "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API"],
-									["Media Recorder API Demo", "https://addpipe.com/media-recorder-api-demo/"],
-									["WTC - MediaStream Recording", "https://www.w3.org/TR/mediastream-recording/"],
-									["What Web Can Do Today - Recording Media", "https://whatwebcando.today/recording.html"],
-								]
-							},
-						},
-						{
-							name: "Web RTC",
-							description: {
-								text: "Learn how to use Web RTC for establishing real-time communication.",
-								links: [
-									["MDN - WebRTC API", "https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API"],
-									["WebRTC - Getting Started", "https://webrtc.org/start/"],
-									["WebRTC samples", "https://webrtc.github.io/samples/"],
-									["Wikipedia - WebRTC", "https://en.wikipedia.org/wiki/WebRTC"],
-									["What Web Can Do Today - WebRTC", "https://whatwebcando.today/realtime.html"],
-								]
-							}
-						},
-						{
-							name: "Screen Capture",
-							description: {
-								text: "Learn how to use the Screen Capture API for recording the screen.",
-								links: [
-									["MDN - Screen Capture API", "https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API"],
-									["dev.to - Intro to Screen Capture API", "https://dev.to/al_khovansky/intro-to-screen-capture-api-scanning-qr-codes-bgi"],
-									["W3C - Screen Capture", "https://www.w3.org/TR/screen-capture/"],
-								]
-							},
-						},
-						{
-							name: "Generators",
-							description: {
-								text: "Learn how to use generator functions to define iterative algorithms by writing functions whose execution is not continuous.",
-								links: [
-									["MDN - Iterators and generators", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"],
-									["Functional JavaScript - Streams", "https://blog.jeremyfairbank.com/javascript/functional-javascript-streams-2/"],
-									["Understanding Generators with Examples", "https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5"],
-									["MDN - function*", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*"],
-									["MDN - yield*", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*"],
-									["dev.to - JavaScript Visualized: Generators and Iterators", "https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36"],
-									["javascript.info - Generators", "https://javascript.info/generators"],
-									["Medium - A Simple Guide to Understanding Javascript Generators", "https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950"],
-								]
-							},
-						},
-					]
-				},
+				// {
+				// 	name: "Streams",
+				// 	description: {
+				// 		text: "Learn about streams and how they can help you effeciently transporting data.",
+				// 		links: [
+				// 			["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
+				// 			["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
+				// 			["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
+				// 			["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Media Streams",
+				// 			description: {
+				// 				text: "Learn about media streams and how it is possible to get a stream to device specific hardware such as the camera or microphone.",
+				// 				links: [
+				// 					["MDN - Media Streams API", "https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API"],
+				// 					["MDN - Image Capture API", "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Image_Capture_API"],
+				// 					["MDN - mediaDevices.getUserMedia()", "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia"],
+				// 					["W3C - Media Capture and Streams", "https://w3c.github.io/mediacapture-main/#dom-mediastream"],
+				// 				]
+				// 			}
+				// 		},
+				// 		{
+				// 			name: "Media Recorder",
+				// 			description: {
+				// 				text: "Learn how to use the media recorder API to record media streams.",
+				// 				links: [
+				// 					["MDN - MediaStream Recording API", "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API"],
+				// 					["Media Recorder API Demo", "https://addpipe.com/media-recorder-api-demo/"],
+				// 					["WTC - MediaStream Recording", "https://www.w3.org/TR/mediastream-recording/"],
+				// 					["What Web Can Do Today - Recording Media", "https://whatwebcando.today/recording.html"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Web RTC",
+				// 			description: {
+				// 				text: "Learn how to use Web RTC for establishing real-time communication.",
+				// 				links: [
+				// 					["MDN - WebRTC API", "https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API"],
+				// 					["WebRTC - Getting Started", "https://webrtc.org/start/"],
+				// 					["WebRTC samples", "https://webrtc.github.io/samples/"],
+				// 					["Wikipedia - WebRTC", "https://en.wikipedia.org/wiki/WebRTC"],
+				// 					["What Web Can Do Today - WebRTC", "https://whatwebcando.today/realtime.html"],
+				// 				]
+				// 			}
+				// 		},
+				// 		{
+				// 			name: "Screen Capture",
+				// 			description: {
+				// 				text: "Learn how to use the Screen Capture API for recording the screen.",
+				// 				links: [
+				// 					["MDN - Screen Capture API", "https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API"],
+				// 					["dev.to - Intro to Screen Capture API", "https://dev.to/al_khovansky/intro-to-screen-capture-api-scanning-qr-codes-bgi"],
+				// 					["W3C - Screen Capture", "https://www.w3.org/TR/screen-capture/"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Generators",
+				// 			description: {
+				// 				text: "Learn how to use generator functions to define iterative algorithms by writing functions whose execution is not continuous.",
+				// 				links: [
+				// 					["MDN - Iterators and generators", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"],
+				// 					["Functional JavaScript - Streams", "https://blog.jeremyfairbank.com/javascript/functional-javascript-streams-2/"],
+				// 					["Understanding Generators with Examples", "https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5"],
+				// 					["MDN - function*", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*"],
+				// 					["MDN - yield*", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*"],
+				// 					["dev.to - JavaScript Visualized: Generators and Iterators", "https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36"],
+				// 					["javascript.info - Generators", "https://javascript.info/generators"],
+				// 					["Medium - A Simple Guide to Understanding Javascript Generators", "https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950"],
+				// 				]
+				// 			},
+				// 		},
+				// 	]
+				// },
 				{
 					name: "Speech Synthesis",
 					description: {
