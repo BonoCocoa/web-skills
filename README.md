@@ -213,12 +213,12 @@
     - [Usability Testing](#usability-testing)
     - [White Box Testing](#white-box-testing)
     - [Black Box Testing](#black-box-testing)
-    - [Automated Testing](#automated-testing)
+    <!-- - [Automated Testing](#automated-testing) -->
     - [Manual Testing](#manual-testing)
   - [Continuous integration](#continuous-integration)
   - [A/B Testing](#ab-testing)
   - [Test Runners](#test-runners)
-    - [Karma](#karma)
+    <!-- - [Karma](#karma) -->
     - [Mocha](#mocha)
     - [Jasmine](#jasmine)
     - [Cypress](#cypress)
@@ -282,16 +282,16 @@
   - [Accessibility](#accessibility)
   - [Best Practices](#best-practices-4)
 - [➤ The Modern Web](#-the-modern-web)
-  - [Streams](#streams)
+  <!-- - [Streams](#streams)
     - [Media Streams](#media-streams)
     - [Media Recorder](#media-recorder)
     - [Web RTC](#web-rtc)
     - [Screen Capture](#screen-capture)
-    - [Generators](#generators)
-  - [Speech Synthesis](#speech-synthesis)
+    - [Generators](#generators) -->
+  <!-- - [Speech Synthesis](#speech-synthesis) -->
   - [Web Sockets](#web-sockets)
-  - [Geolocation](#geolocation)
-  - [Device orientation & motion](#device-orientation--motion)
+    <!-- - [Geolocation](#geolocation) -->
+    <!-- - [Device orientation & motion](#device-orientation--motion) -->
   - [Fullscreen](#fullscreen)
   - [Variable Fonts](#variable-fonts)
   - [HTTP/2](#http2)
@@ -302,30 +302,30 @@
     - [Intersection Observer](#intersection-observer)
     - [Resize Observer](#resize-observer)
     - [Performance Observer](#performance-observer)
-  - [Scrollsnapping](#scrollsnapping)
-  - [Web Assembly](#web-assembly)
+        <!-- - [Scrollsnapping](#scrollsnapping) -->
+      <!-- - [Web Assembly](#web-assembly) -->
   - [Beacon](#beacon)
   - [Clipboard](#clipboard)
   - [Share](#share)
-  - [Performance API](#performance-api)
-  - [Gamepad API](#gamepad-api)
+    <!-- - [Performance API](#performance-api) -->
+    <!-- - [Gamepad API](#gamepad-api) -->
   - [Speech Recognition](#speech-recognition)
   - [Interaction Media Queries](#interaction-media-queries)
-  - [Browser Extensions](#browser-extensions)
-  - [Pointer Lock API](#pointer-lock-api)
+    <!-- - [Browser Extensions](#browser-extensions) -->
+    <!-- - [Pointer Lock API](#pointer-lock-api) -->
   - [Picture In Picture](#picture-in-picture)
   - [Proxies](#proxies)
   - [Houdini](#houdini)
-  - [Project Fugu](#project-fugu)
+  <!-- - [Project Fugu](#project-fugu) -->
   - [Web Authentication API](#web-authentication-api)
     - [Credentials Manager API](#credentials-manager-api)
   - [Native File System](#native-file-system)
-      <!-- - [Shape Detection](#shape-detection) -->
-      <!-- - [Web Bluetooth](#web-bluetooth) -->
-        <!-- - [Web USB](#web-usb) -->
-      <!-- - [Web XR](#web-xr) -->
-    <!-- - [Presentation](#presentation) -->
-  - [Network Information API](#network-information-api)
+    <!-- - [Shape Detection](#shape-detection) -->
+    <!-- - [Web Bluetooth](#web-bluetooth) -->
+    <!-- - [Web USB](#web-usb) -->
+    <!-- - [Web XR](#web-xr) -->
+      <!-- - [Presentation](#presentation) -->
+    <!-- - [Network Information API](#network-information-api) -->
 - [➤ Algorithms & Data structures](#-algorithms--data-structures)
   - [Data structures](#data-structures)
   - [Arrays](#arrays)
@@ -364,9 +364,9 @@
     - [SQL](#sql)
     - [MySQL](#mysql)
     - [PostgreSQL](#postgresql)
-  - [Non-relational Databases](#non-relational-databases)
+    <!-- - [Non-relational Databases](#non-relational-databases)
     - [Redis](#redis)
-    - [MongoDB](#mongodb)
+    - [MongoDB](#mongodb) -->
   - [Data Modelling](#data-modelling)
     - [ER Diagram](#er-diagram)
     - [Keys](#keys)
@@ -384,9 +384,9 @@
   - [Servers](#servers)
   - [Architectural Models](#architectural-models)
     - [Client-Server](#client-server)
-    - [Proxy Server](#proxy-server)
-    - [Peer-To-Peer](#peer-to-peer)
-  - [Middleware](#middleware)
+    <!-- - [Proxy Server](#proxy-server) -->
+    <!-- - [Peer-To-Peer](#peer-to-peer) -->
+    <!-- - [Middleware](#middleware) -->
   - [Request-Reply Protocol](#request-reply-protocol)
     - [UDP](#udp)
     - [TCP](#tcp)
@@ -1988,12 +1988,12 @@ Learn about black box testing and how a test can be carried out without looking 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> What is Black Box Testing?](https://www.guru99.com/black-box-testing.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> Black Box Testing](http://softwaretestingfundamentals.com/black-box-testing/)
 
-#### Automated Testing
+<!-- #### Automated Testing
 
 Learn about automated testing and when it should be applied.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsmartbear.com" alt="Logo" /> What is Automated Testing?](https://smartbear.com/learn/automated-testing/what-is-automated-testing/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Automated Testing Tutorial](https://www.guru99.com/automation-testing.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Automated Testing Tutorial](https://www.guru99.com/automation-testing.html) -->
 
 #### Manual Testing
 
@@ -2028,12 +2028,12 @@ Learn about test runners and how they can help running tests.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.udacity.com" alt="Logo" /> Udacity - Javascript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> JavaScript Unit Testing Frameworks](https://www.guru99.com/javascript-unit-testing-frameworks.html)
 
-#### Karma
+<!-- #### Karma
 
 Learn about the Karma test runner.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fkarma-runner.github.io" alt="Logo" /> Karma](https://karma-runner.github.io/latest/index.html)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Getting started with Karma and Mocha](https://medium.com/@jazcodes/getting-started-with-karma-and-mocha-for-automated-browser-tests-5ebb6cd02edf)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Getting started with Karma and Mocha](https://medium.com/@jazcodes/getting-started-with-karma-and-mocha-for-automated-browser-tests-5ebb6cd02edf) -->
 
 #### Mocha
 
@@ -2568,7 +2568,7 @@ Learn about some of the best practices when designing.
 
 ## ➤ The Modern Web
 
-### Streams
+<!-- ### Streams
 
 Learn about streams and how they can help you effeciently transporting data.
 
@@ -2624,9 +2624,9 @@ Learn how to use generator functions to define iterative algorithms by writing f
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - yield\*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - JavaScript Visualized: Generators and Iterators](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> javascript.info - Generators](https://javascript.info/generators)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Medium - A Simple Guide to Understanding Javascript Generators](https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Medium - A Simple Guide to Understanding Javascript Generators](https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950) -->
 
-### Speech Synthesis
+<!-- ### Speech Synthesis
 
 Learn how the speech synthesis API can help you converting text to speech.
 
@@ -2634,7 +2634,7 @@ Learn how the speech synthesis API can help you converting text to speech.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - window.speechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fw3c.github.io" alt="Logo" /> W3C - Web Speech API](https://w3c.github.io/speech-api)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fflaviocopes.com" alt="Logo" /> The Speech Synthesis API](https://flaviocopes.com/speech-synthesis-api/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fflaviocopes.com" alt="Logo" /> The Speech Synthesis API](https://flaviocopes.com/speech-synthesis-api/) -->
 
 ### Web Sockets
 
@@ -2645,16 +2645,16 @@ Learn about web sockets and how you can push data to your web app.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.html5rocks.com" alt="Logo" /> HTML5 Rocks - Introducing WebSockets](https://www.html5rocks.com/en/tutorials/websockets/basics/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> WHATWG - Web sockets](https://html.spec.whatwg.org/multipage/web-sockets.html)
 
-### Geolocation
+<!-- ### Geolocation
 
 Learn how to ask the user for permission to the location.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Falligator.io" alt="Logo" /> Alligrator - Using the Geolocation API](https://alligator.io/js/geolocation-api/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Maps Platform - Displaying User Position on Maps](https://developers.google.com/maps/documentation/javascript/geolocation)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Geolocation](https://whatwebcando.today/geolocation.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Geolocation](https://whatwebcando.today/geolocation.html) -->
 
-### Device orientation & motion
+<!-- ### Device orientation & motion
 
 Learn how to measure the orientation and motion of the device.
 
@@ -2664,7 +2664,7 @@ Learn how to measure the orientation and motion of the device.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Device Position](https://whatwebcando.today/device-position.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Generic Sensor API](https://www.w3.org/TR/generic-sensor/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Sensor APIs](https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Sensors For The Web](https://developers.google.com/web/updates/2017/09/sensors-for-the-web)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Sensors For The Web](https://developers.google.com/web/updates/2017/09/sensors-for-the-web) -->
 
 ### Fullscreen
 
@@ -2762,7 +2762,7 @@ Learn how the Performance Observer API can help you get information about the pe
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - PerformanceObserver](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Efficient Access to Performance Data](https://developers.google.com/web/updates/2016/06/performance-observer)
 
-### Scrollsnapping
+<!-- ### Scrollsnapping
 
 Learn about the Scrollsnapping API and how it can help you provide an intuitive experience when scrolling.
 
@@ -2770,9 +2770,9 @@ Learn about the Scrollsnapping API and how it can help you provide an intuitive 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Introducing CSS Scroll Snap Points](https://css-tricks.com/introducing-css-scroll-snap-points/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Well-Controlled Scrolling with CSS Scroll Snap](https://developers.google.com/web/updates/2018/07/css-scroll-snap)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebkit.org" alt="Logo" /> The scroll-snap-\* Properties](https://webkit.org/demos/scroll-snap/index.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebkit.org" alt="Logo" /> The scroll-snap-\* Properties](https://webkit.org/demos/scroll-snap/index.html) -->
 
-### Web Assembly
+<!-- ### Web Assembly
 
 Learn about Web Assembly and how it opens up the playing field for new types of web apps.
 
@@ -2782,7 +2782,7 @@ Learn about Web Assembly and how it opens up the playing field for new types of 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Introduction to Web Assembly](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-web-assembly-6cb6466a3478)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodelabs.developers.google.com" alt="Logo" /> Google Codelabs - An Introduction to Web Assembly](https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> How We Used WebAssembly To Speed Up Our Web App By 20X](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm) -->
 
 ### Beacon
 
@@ -2811,7 +2811,7 @@ Learn how the Web Share API can help users sharing your web app.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.arnellebalane.com" alt="Logo" /> The Web Share API](https://blog.arnellebalane.com/the-web-share-api-2cbb3e6cf007)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - How to implement the Web Share API with a fallback](https://dev.to/daviddalbusco/how-to-implement-the-web-share-api-with-a-fallback-b3)
 
-### Performance API
+<!-- ### Performance API
 
 Learn about the Performance API and how it can help you monitor the performance of the device.
 
@@ -2820,16 +2820,16 @@ Learn about the Performance API and how it can help you monitor the performance 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Breaking Down the Performance API](https://css-tricks.com/breaking-performance-api/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Assessing Loading Performance](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Performance Specifications](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API#Specifications)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Performance Timeline](https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Performance Timeline](https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline) -->
 
-### Gamepad API
+<!-- ### Gamepad API
 
 Learn how the Gamepad API can help you integrate with various controllers such as an x-box or playstation controller
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Using the Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fluser.github.io" alt="Logo" /> luser - Gamepad Test](http://luser.github.io/gamepadtest/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Implementing controls using the Gamepad API](https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Implementing controls using the Gamepad API](https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API) -->
 
 ### Speech Recognition
 
@@ -2853,22 +2853,22 @@ Learn how to use Interaction Media Queries to optimize the user experience for t
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Interaction Media Features](https://www.w3.org/TR/mediaqueries-4/#mf-interaction)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Pointing Device Adaptation](https://whatwebcando.today/pointer-adaptation.html)
 
-### Browser Extensions
+<!-- ### Browser Extensions
 
 Learn how to build browser extensions to enhance the functionality of your browser.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.chrome.com" alt="Logo" /> Chrome - What are extensions?](https://developer.chrome.com/extensions)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.chrome.com" alt="Logo" /> Chrome - Getting Started with Extensions](https://developer.chrome.com/extensions/getstarted)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Google Chrome Extensions](https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Google Chrome Extensions](https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B) -->
 
-### Pointer Lock API
+<!-- ### Pointer Lock API
 
 Learn how to use the Pointer Lock API to get the raw mouse movement and lock the target of mouse events to a single element.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Pointer Lock API](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Pointer Lock](https://www.w3.org/TR/pointerlock/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdzone.com" alt="Logo" /> Use the Pointer Lock API to Restrict Mouse Movement](https://dzone.com/articles/html5-use-pointer-lock-api)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdzone.com" alt="Logo" /> Use the Pointer Lock API to Restrict Mouse Movement](https://dzone.com/articles/html5-use-pointer-lock-api) -->
 
 ### Picture In Picture
 
@@ -2901,7 +2901,7 @@ Learn about the Houdini project and get excited about the future of CSS.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> W3C - CSS Houdini Wiki](https://github.com/w3c/css-houdini-drafts/wiki)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Houdini's Animation Worklet](https://developers.google.com/web/updates/2018/10/animation-worklet)
 
-### Project Fugu
+<!-- ### Project Fugu
 
 Learn about Project Fugu project and get excited about the future of the Web.
 
@@ -2910,7 +2910,7 @@ Learn about Project Fugu project and get excited about the future of the Web.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fbugs.chromium.org" alt="Logo" /> Chromium Bugs - Fugu](https://bugs.chromium.org/p/chromium/issues/list?q=proj-fugu)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Unlocking new capabilities for the web](https://developers.google.com/web/updates/capabilities)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Unlocking New Capabilities for the Web](https://www.youtube.com/watch?v=GSiUzuB-PoI)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fchromium.googlesource.com" alt="Logo" /> Controlling Access to Powerful Web Platform Features](https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fchromium.googlesource.com" alt="Logo" /> Controlling Access to Powerful Web Platform Features](https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md) -->
 
 ### Web Authentication API
 
@@ -2991,7 +2991,7 @@ Learn how the Presentation API proposal enables your web app to use the presenta
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Present web pages to secondary attached displays](https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fw3c.github.io" alt="Logo" /> W3C - Presentation API](https://w3c.github.io/presentation-api) -->
 
-### Network Information API
+<!-- ### Network Information API
 
 Learn how the Network Information API proposal can give you information about the state of the network.
 
@@ -2999,7 +2999,7 @@ Learn how the Network Information API proposal can give you information about th
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Faddyosmani.com" alt="Logo" /> Addy Osmani - Adaptive Serving](https://addyosmani.com/blog/adaptive-serving/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwicg.github.io" alt="Logo" /> W3C - Network Information API](https://wicg.github.io/netinfo/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgooglechrome.github.io" alt="Logo" /> Network Information API Sample](https://googlechrome.github.io/samples/network-information/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Network Type & Speed](https://whatwebcando.today/network-type-speed.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Network Type & Speed](https://whatwebcando.today/network-type-speed.html) -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#algorithms--data-structures)
 
@@ -3330,7 +3330,7 @@ Learn about the open-source relational database management system called Postgre
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fwww.postgresqltutorial.com" alt="Logo" /> PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fpostgresguide.com" alt="Logo" /> Postgres Guide](http://postgresguide.com/)
 
-### Non-relational Databases
+<!-- ### Non-relational Databases
 
 Learn about non-relational databases and how to use them.
 
@@ -3360,7 +3360,7 @@ Learn about the open-source non-relational database management system called Mon
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdocs.mongodb.com" alt="Logo" /> MongoDB - Documentation](https://docs.mongodb.com/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Funiversity.mongodb.com" alt="Logo" /> MongoDB - University](https://university.mongodb.com/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Tutorialspoint - MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/index.htm)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE) -->
 
 ### Data Modelling
 
@@ -3536,7 +3536,7 @@ Learn about the client-server model.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.techopedia.com" alt="Logo" /> Client-Server Model](https://www.techopedia.com/definition/18321/client-server-model)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.sciencedirect.com" alt="Logo" /> Learn more about Client-Server Model](https://www.sciencedirect.com/topics/computer-science/client-server-model)
 
-#### Proxy Server
+<!-- #### Proxy Server
 
 Learn about the proxy-server model.
 
@@ -3544,9 +3544,9 @@ Learn about the proxy-server model.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - What is a Proxy Server?](https://www.youtube.com/watch?v=5cPIukqXe5w)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.varonis.com" alt="Logo" /> What is a Proxy Server and How Does it Work?](https://www.varonis.com/blog/what-is-a-proxy-server/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatis.techtarget.com" alt="Logo" /> Proxy Server Definition](https://whatis.techtarget.com/definition/proxy-server)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.itpro.co.uk" alt="Logo" /> What is a proxy server?](https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.itpro.co.uk" alt="Logo" /> What is a proxy server?](https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server) -->
 
-#### Peer-To-Peer
+<!-- #### Peer-To-Peer
 
 Learn about the peer-to-peer model.
 
@@ -3554,9 +3554,9 @@ Learn about the peer-to-peer model.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - What is a Peer to Peer Network? ](https://www.youtube.com/watch?v=ie-qRQIQT4I)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.computerworld.com" alt="Logo" /> What's a Peer-to-Peer (P2P) Network?](https://www.computerworld.com/article/2588287/networking-peer-to-peer-network.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsearchnetworking.techtarget.com" alt="Logo" /> Peer-to-peer (P2P)](https://searchnetworking.techtarget.com/definition/peer-to-peer)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> Make a P2P connection in 10 minutes](https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> Make a P2P connection in 10 minutes](https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32) -->
 
-### Middleware
+<!-- ### Middleware
 
 Learn about middleware.
 
@@ -3564,7 +3564,7 @@ Learn about middleware.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsearchapparchitecture.techtarget.com" alt="Logo" /> Middleware Definition](https://searchapparchitecture.techtarget.com/definition/middleware)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.quora.com" alt="Logo" /> Quora - Why is Middleware important?](https://www.quora.com/Why-is-Middleware-important)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.redhat.com" alt="Logo" /> What is middleware?](https://www.redhat.com/en/topics/middleware/what-is-middleware)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.talend.com" alt="Logo" /> What is Middleware? Technology’s Go-to Middleman](https://www.talend.com/resources/what-is-middleware/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.talend.com" alt="Logo" /> What is Middleware? Technology’s Go-to Middleman](https://www.talend.com/resources/what-is-middleware/) -->
 
 ### Request-Reply Protocol
 

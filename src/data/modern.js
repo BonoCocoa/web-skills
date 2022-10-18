@@ -3,97 +3,97 @@ export const modernCollection = {
 	areas: [
 		{
 			skills: [
-				{
-					name: "Streams",
-					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
-						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
-						]
-					},
-					skills: [
-						{
-							name: "Media Streams",
-							description: {
-								text: "Learn about media streams and how it is possible to get a stream to device specific hardware such as the camera or microphone.",
-								links: [
-									["MDN - Media Streams API", "https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API"],
-									["MDN - Image Capture API", "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Image_Capture_API"],
-									["MDN - mediaDevices.getUserMedia()", "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia"],
-									["W3C - Media Capture and Streams", "https://w3c.github.io/mediacapture-main/#dom-mediastream"],
-								]
-							}
-						},
-						{
-							name: "Media Recorder",
-							description: {
-								text: "Learn how to use the media recorder API to record media streams.",
-								links: [
-									["MDN - MediaStream Recording API", "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API"],
-									["Media Recorder API Demo", "https://addpipe.com/media-recorder-api-demo/"],
-									["WTC - MediaStream Recording", "https://www.w3.org/TR/mediastream-recording/"],
-									["What Web Can Do Today - Recording Media", "https://whatwebcando.today/recording.html"],
-								]
-							},
-						},
-						{
-							name: "Web RTC",
-							description: {
-								text: "Learn how to use Web RTC for establishing real-time communication.",
-								links: [
-									["MDN - WebRTC API", "https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API"],
-									["WebRTC - Getting Started", "https://webrtc.org/start/"],
-									["WebRTC samples", "https://webrtc.github.io/samples/"],
-									["Wikipedia - WebRTC", "https://en.wikipedia.org/wiki/WebRTC"],
-									["What Web Can Do Today - WebRTC", "https://whatwebcando.today/realtime.html"],
-								]
-							}
-						},
-						{
-							name: "Screen Capture",
-							description: {
-								text: "Learn how to use the Screen Capture API for recording the screen.",
-								links: [
-									["MDN - Screen Capture API", "https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API"],
-									["dev.to - Intro to Screen Capture API", "https://dev.to/al_khovansky/intro-to-screen-capture-api-scanning-qr-codes-bgi"],
-									["W3C - Screen Capture", "https://www.w3.org/TR/screen-capture/"],
-								]
-							},
-						},
-						{
-							name: "Generators",
-							description: {
-								text: "Learn how to use generator functions to define iterative algorithms by writing functions whose execution is not continuous.",
-								links: [
-									["MDN - Iterators and generators", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"],
-									["Functional JavaScript - Streams", "https://blog.jeremyfairbank.com/javascript/functional-javascript-streams-2/"],
-									["Understanding Generators with Examples", "https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5"],
-									["MDN - function*", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*"],
-									["MDN - yield*", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*"],
-									["dev.to - JavaScript Visualized: Generators and Iterators", "https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36"],
-									["javascript.info - Generators", "https://javascript.info/generators"],
-									["Medium - A Simple Guide to Understanding Javascript Generators", "https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950"],
-								]
-							},
-						},
-					]
-				},
-				{
-					name: "Speech Synthesis",
-					description: {
-						text: "Learn how the speech synthesis API can help you converting text to speech.",
-						links: [
-							["Google Devs - Web apps that talk", "https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API"],
-							["MDN - window.speechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis"],
-							["MDN - SpeechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis"],
-							["W3C - Web Speech API", "https://w3c.github.io/speech-api"],
-							["The Speech Synthesis API", "https://flaviocopes.com/speech-synthesis-api/"],
-						]
-					},
-				},
+				// {
+				// 	name: "Streams",
+				// 	description: {
+				// 		text: "Learn about streams and how they can help you effeciently transporting data.",
+				// 		links: [
+				// 			["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
+				// 			["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
+				// 			["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
+				// 			["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Media Streams",
+				// 			description: {
+				// 				text: "Learn about media streams and how it is possible to get a stream to device specific hardware such as the camera or microphone.",
+				// 				links: [
+				// 					["MDN - Media Streams API", "https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API"],
+				// 					["MDN - Image Capture API", "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Image_Capture_API"],
+				// 					["MDN - mediaDevices.getUserMedia()", "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia"],
+				// 					["W3C - Media Capture and Streams", "https://w3c.github.io/mediacapture-main/#dom-mediastream"],
+				// 				]
+				// 			}
+				// 		},
+				// 		{
+				// 			name: "Media Recorder",
+				// 			description: {
+				// 				text: "Learn how to use the media recorder API to record media streams.",
+				// 				links: [
+				// 					["MDN - MediaStream Recording API", "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API"],
+				// 					["Media Recorder API Demo", "https://addpipe.com/media-recorder-api-demo/"],
+				// 					["WTC - MediaStream Recording", "https://www.w3.org/TR/mediastream-recording/"],
+				// 					["What Web Can Do Today - Recording Media", "https://whatwebcando.today/recording.html"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Web RTC",
+				// 			description: {
+				// 				text: "Learn how to use Web RTC for establishing real-time communication.",
+				// 				links: [
+				// 					["MDN - WebRTC API", "https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API"],
+				// 					["WebRTC - Getting Started", "https://webrtc.org/start/"],
+				// 					["WebRTC samples", "https://webrtc.github.io/samples/"],
+				// 					["Wikipedia - WebRTC", "https://en.wikipedia.org/wiki/WebRTC"],
+				// 					["What Web Can Do Today - WebRTC", "https://whatwebcando.today/realtime.html"],
+				// 				]
+				// 			}
+				// 		},
+				// 		{
+				// 			name: "Screen Capture",
+				// 			description: {
+				// 				text: "Learn how to use the Screen Capture API for recording the screen.",
+				// 				links: [
+				// 					["MDN - Screen Capture API", "https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API"],
+				// 					["dev.to - Intro to Screen Capture API", "https://dev.to/al_khovansky/intro-to-screen-capture-api-scanning-qr-codes-bgi"],
+				// 					["W3C - Screen Capture", "https://www.w3.org/TR/screen-capture/"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Generators",
+				// 			description: {
+				// 				text: "Learn how to use generator functions to define iterative algorithms by writing functions whose execution is not continuous.",
+				// 				links: [
+				// 					["MDN - Iterators and generators", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"],
+				// 					["Functional JavaScript - Streams", "https://blog.jeremyfairbank.com/javascript/functional-javascript-streams-2/"],
+				// 					["Understanding Generators with Examples", "https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5"],
+				// 					["MDN - function*", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*"],
+				// 					["MDN - yield*", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*"],
+				// 					["dev.to - JavaScript Visualized: Generators and Iterators", "https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36"],
+				// 					["javascript.info - Generators", "https://javascript.info/generators"],
+				// 					["Medium - A Simple Guide to Understanding Javascript Generators", "https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950"],
+				// 				]
+				// 			},
+				// 		},
+				// 	]
+				// },
+				// {
+				// 	name: "Speech Synthesis",
+				// 	description: {
+				// 		text: "Learn how the speech synthesis API can help you converting text to speech.",
+				// 		links: [
+				// 			["Google Devs - Web apps that talk", "https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API"],
+				// 			["MDN - window.speechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis"],
+				// 			["MDN - SpeechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis"],
+				// 			["W3C - Web Speech API", "https://w3c.github.io/speech-api"],
+				// 			["The Speech Synthesis API", "https://flaviocopes.com/speech-synthesis-api/"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Web Sockets",
 					description: {
@@ -106,33 +106,33 @@ export const modernCollection = {
 						]
 					}
 				},
-				{
-					name: "Geolocation",
-					description: {
-						text: "Learn how to ask the user for permission to the location.",
-						links: [
-							["MDN - Geolocation API", "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API"],
-							["Alligrator - Using the Geolocation API", "https://alligator.io/js/geolocation-api/"],
-							["Google Maps Platform - Displaying User Position on Maps", "https://developers.google.com/maps/documentation/javascript/geolocation"],
-							["What Web Can Do Today - Geolocation", "https://whatwebcando.today/geolocation.html"],
-						]
-					},
-				},
-				{
-					name: "Device orientation & motion",
-					description: {
-						text: "Learn how to measure the orientation and motion of the device.",
-						links: [
-							["MDN - Detecting device orientation", "https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation"],
-							["W3C - DeviceOrientation Event Specification", "https://www.w3.org/TR/orientation-event/"],
-							["HTML5 Rocks - Introduction", "https://www.html5rocks.com/en/tutorials/device/orientation/index.html"],
-							["What Web Can Do Today - Device Position", "https://whatwebcando.today/device-position.html"],
-							["W3C - Generic Sensor API", "https://www.w3.org/TR/generic-sensor/"],
-							["MDN - Sensor APIs", "https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs"],
-							["Google Devs - Sensors For The Web", "https://developers.google.com/web/updates/2017/09/sensors-for-the-web"],
-						]
-					},
-				},
+				// {
+				// 	name: "Geolocation",
+				// 	description: {
+				// 		text: "Learn how to ask the user for permission to the location.",
+				// 		links: [
+				// 			["MDN - Geolocation API", "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API"],
+				// 			["Alligrator - Using the Geolocation API", "https://alligator.io/js/geolocation-api/"],
+				// 			["Google Maps Platform - Displaying User Position on Maps", "https://developers.google.com/maps/documentation/javascript/geolocation"],
+				// 			["What Web Can Do Today - Geolocation", "https://whatwebcando.today/geolocation.html"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Device orientation & motion",
+				// 	description: {
+				// 		text: "Learn how to measure the orientation and motion of the device.",
+				// 		links: [
+				// 			["MDN - Detecting device orientation", "https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation"],
+				// 			["W3C - DeviceOrientation Event Specification", "https://www.w3.org/TR/orientation-event/"],
+				// 			["HTML5 Rocks - Introduction", "https://www.html5rocks.com/en/tutorials/device/orientation/index.html"],
+				// 			["What Web Can Do Today - Device Position", "https://whatwebcando.today/device-position.html"],
+				// 			["W3C - Generic Sensor API", "https://www.w3.org/TR/generic-sensor/"],
+				// 			["MDN - Sensor APIs", "https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs"],
+				// 			["Google Devs - Sensors For The Web", "https://developers.google.com/web/updates/2017/09/sensors-for-the-web"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Fullscreen",
 					description: {
@@ -261,34 +261,34 @@ export const modernCollection = {
 						}
 					]
 				},
-				{
-					name: "Scrollsnapping",
-					description: {
-						text: "Learn about the Scrollsnapping API and how it can help you provide an intuitive experience when scrolling.",
-						links: [
-							["CSS Tricks - Practical CSS Scroll Snapping", "https://css-tricks.com/practical-css-scroll-snapping/"],
-							["CSS Tricks - Introducing CSS Scroll Snap Points", "https://css-tricks.com/introducing-css-scroll-snap-points/"],
-							["Google Devs - Well-Controlled Scrolling with CSS Scroll Snap", "https://developers.google.com/web/updates/2018/07/css-scroll-snap"],
-							["MDN - CSS Scroll Snap", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap"],
-							["The scroll-snap-* Properties", "https://webkit.org/demos/scroll-snap/index.html"],
-						]
-					},
-				},
-				{
-					name: "Web Assembly",
-					description: {
-						text: "Learn about Web Assembly and how it opens up the playing field for new types of web apps.",
-						links: [
-							["MDN - WebAssembly Concepts", "https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts"],
-							["MDN - WebAssembly", "https://developer.mozilla.org/en-US/docs/WebAssembly"],
-							["dev.to - Why the heck is everyone talking about WebAssembly?", "https://dev.to/captainsafia/why-the-heck-is-everyone-talking-about-webassembly-455a"],
-							["Introduction to Web Assembly", "https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-web-assembly-6cb6466a3478"],
-							["Google Codelabs - An Introduction to Web Assembly", "https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0"],
-							["How We Used WebAssembly To Speed Up Our Web App By 20X", "https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/"],
-							["Google Devs - WebAssembly", "https://developers.google.com/web/updates/2019/02/hotpath-with-wasm"],
-						]
-					},
-				},
+				// {
+				// 	name: "Scrollsnapping",
+				// 	description: {
+				// 		text: "Learn about the Scrollsnapping API and how it can help you provide an intuitive experience when scrolling.",
+				// 		links: [
+				// 			["CSS Tricks - Practical CSS Scroll Snapping", "https://css-tricks.com/practical-css-scroll-snapping/"],
+				// 			["CSS Tricks - Introducing CSS Scroll Snap Points", "https://css-tricks.com/introducing-css-scroll-snap-points/"],
+				// 			["Google Devs - Well-Controlled Scrolling with CSS Scroll Snap", "https://developers.google.com/web/updates/2018/07/css-scroll-snap"],
+				// 			["MDN - CSS Scroll Snap", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap"],
+				// 			["The scroll-snap-* Properties", "https://webkit.org/demos/scroll-snap/index.html"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Web Assembly",
+				// 	description: {
+				// 		text: "Learn about Web Assembly and how it opens up the playing field for new types of web apps.",
+				// 		links: [
+				// 			["MDN - WebAssembly Concepts", "https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts"],
+				// 			["MDN - WebAssembly", "https://developer.mozilla.org/en-US/docs/WebAssembly"],
+				// 			["dev.to - Why the heck is everyone talking about WebAssembly?", "https://dev.to/captainsafia/why-the-heck-is-everyone-talking-about-webassembly-455a"],
+				// 			["Introduction to Web Assembly", "https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-web-assembly-6cb6466a3478"],
+				// 			["Google Codelabs - An Introduction to Web Assembly", "https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0"],
+				// 			["How We Used WebAssembly To Speed Up Our Web App By 20X", "https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/"],
+				// 			["Google Devs - WebAssembly", "https://developers.google.com/web/updates/2019/02/hotpath-with-wasm"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Beacon",
 					description: {
@@ -325,32 +325,32 @@ export const modernCollection = {
 						]
 					}
 				},
-				{
-					name: "Performance API",
-					description: {
-						text: "Learn about the Performance API and how it can help you monitor the performance of the device.",
-						links: [
-							["MDN - Performance", "https://developer.mozilla.org/en-US/docs/Web/API/Performance"],
-							["MDN - performance.measure()", "https://developer.mozilla.org/en-US/docs/Web/API/Performance/measure"],
-							["CSS Tricks - Breaking Down the Performance API", "https://css-tricks.com/breaking-performance-api/"],
-							["Google Devs - Assessing Loading Performance", "https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/"],
-							["MDN - Performance Specifications", "https://developer.mozilla.org/en-US/docs/Web/API/Performance_API#Specifications"],
-							["MDN - Performance Timeline", "https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline"],
-						]
-					}
-				},
-				{
-					name: "Gamepad API",
-					description: {
-						text: "Learn how the Gamepad API can help you integrate with various controllers such as an x-box or playstation controller",
-						links: [
-							["MDN - Using the Gamepad API", "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API"],
-							["MDN - Gamepad API", "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API"],
-							["luser - Gamepad Test", "http://luser.github.io/gamepadtest/"],
-							["MDN - Implementing controls using the Gamepad API", "https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API"],
-						]
-					}
-				},
+				// {
+				// 	name: "Performance API",
+				// 	description: {
+				// 		text: "Learn about the Performance API and how it can help you monitor the performance of the device.",
+				// 		links: [
+				// 			["MDN - Performance", "https://developer.mozilla.org/en-US/docs/Web/API/Performance"],
+				// 			["MDN - performance.measure()", "https://developer.mozilla.org/en-US/docs/Web/API/Performance/measure"],
+				// 			["CSS Tricks - Breaking Down the Performance API", "https://css-tricks.com/breaking-performance-api/"],
+				// 			["Google Devs - Assessing Loading Performance", "https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/"],
+				// 			["MDN - Performance Specifications", "https://developer.mozilla.org/en-US/docs/Web/API/Performance_API#Specifications"],
+				// 			["MDN - Performance Timeline", "https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline"],
+				// 		]
+				// 	}
+				// },
+				// {
+				// 	name: "Gamepad API",
+				// 	description: {
+				// 		text: "Learn how the Gamepad API can help you integrate with various controllers such as an x-box or playstation controller",
+				// 		links: [
+				// 			["MDN - Using the Gamepad API", "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API"],
+				// 			["MDN - Gamepad API", "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API"],
+				// 			["luser - Gamepad Test", "http://luser.github.io/gamepadtest/"],
+				// 			["MDN - Implementing controls using the Gamepad API", "https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API"],
+				// 		]
+				// 	}
+				// },
 				{
 					name: "Speech Recognition",
 					description: {
@@ -379,29 +379,29 @@ export const modernCollection = {
 						]
 					},
 				},
-				{
-					name: "Browser Extensions",
-					description: {
-						text: "Learn how to build browser extensions to enhance the functionality of your browser.",
-						links: [
-							["MDN - Browser Extensions", "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions"],
-							["Chrome - What are extensions?", "https://developer.chrome.com/extensions"],
-							["Chrome - Getting Started with Extensions", "https://developer.chrome.com/extensions/getstarted"],
-							["Youtube - Google Chrome Extensions", "https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B"],
-						]
-					},
-				},
-				{
-					name: "Pointer Lock API",
-					description: {
-						text: "Learn how to use the Pointer Lock API to get the raw mouse movement and lock the target of mouse events to a single element.",
-						links: [
-							["MDN - Pointer Lock API", "https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API"],
-							["W3C - Pointer Lock", "https://www.w3.org/TR/pointerlock/"],
-							["Use the Pointer Lock API to Restrict Mouse Movement", "https://dzone.com/articles/html5-use-pointer-lock-api"],
-						]
-					},
-				},
+				// {
+				// 	name: "Browser Extensions",
+				// 	description: {
+				// 		text: "Learn how to build browser extensions to enhance the functionality of your browser.",
+				// 		links: [
+				// 			["MDN - Browser Extensions", "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions"],
+				// 			["Chrome - What are extensions?", "https://developer.chrome.com/extensions"],
+				// 			["Chrome - Getting Started with Extensions", "https://developer.chrome.com/extensions/getstarted"],
+				// 			["Youtube - Google Chrome Extensions", "https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Pointer Lock API",
+				// 	description: {
+				// 		text: "Learn how to use the Pointer Lock API to get the raw mouse movement and lock the target of mouse events to a single element.",
+				// 		links: [
+				// 			["MDN - Pointer Lock API", "https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API"],
+				// 			["W3C - Pointer Lock", "https://www.w3.org/TR/pointerlock/"],
+				// 			["Use the Pointer Lock API to Restrict Mouse Movement", "https://dzone.com/articles/html5-use-pointer-lock-api"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Picture In Picture",
 					description: {
@@ -442,20 +442,20 @@ export const modernCollection = {
 						]
 					}
 				},
-				{
-					name: "Project Fugu",
-					description: {
-						text: "Learn about Project Fugu project and get excited about the future of the Web.",
-						links: [
-							["Our commitment to a more capable web", "https://blog.chromium.org/2018/11/our-commitment-to-more-capable-web.html"],
-							["Web Capabilities (Fugu)", "https://www.chromium.org/teams/web-capabilities-fugu"],
-							["Chromium Bugs - Fugu", "https://bugs.chromium.org/p/chromium/issues/list?q=proj-fugu"],
-							["Google Devs - Unlocking new capabilities for the web", "https://developers.google.com/web/updates/capabilities"],
-							["Youtube - Unlocking New Capabilities for the Web", "https://www.youtube.com/watch?v=GSiUzuB-PoI"],
-							["Controlling Access to Powerful Web Platform Features", "https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md"],
-						]
-					},
-				},
+				// {
+				// 	name: "Project Fugu",
+				// 	description: {
+				// 		text: "Learn about Project Fugu project and get excited about the future of the Web.",
+				// 		links: [
+				// 			["Our commitment to a more capable web", "https://blog.chromium.org/2018/11/our-commitment-to-more-capable-web.html"],
+				// 			["Web Capabilities (Fugu)", "https://www.chromium.org/teams/web-capabilities-fugu"],
+				// 			["Chromium Bugs - Fugu", "https://bugs.chromium.org/p/chromium/issues/list?q=proj-fugu"],
+				// 			["Google Devs - Unlocking new capabilities for the web", "https://developers.google.com/web/updates/capabilities"],
+				// 			["Youtube - Unlocking New Capabilities for the Web", "https://www.youtube.com/watch?v=GSiUzuB-PoI"],
+				// 			["Controlling Access to Powerful Web Platform Features", "https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Web Authentication API",
 					description: {
@@ -561,19 +561,19 @@ export const modernCollection = {
 				// 		]
 				// 	},
 				// },
-				{
-					name: "Network Information API",
-					description: {
-						text: "Learn how the Network Information API proposal can give you information about the state of the network.",
-						links: [
-							["MDN - Network Information API", "https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API"],
-							["Addy Osmani - Adaptive Serving", "https://addyosmani.com/blog/adaptive-serving/"],
-							["W3C - Network Information API", "https://wicg.github.io/netinfo/"],
-							["Network Information API Sample", "https://googlechrome.github.io/samples/network-information/"],
-							["What Web Can Do Today - Network Type & Speed", "https://whatwebcando.today/network-type-speed.html"],
-						]
-					},
-				},
+				// {
+				// 	name: "Network Information API",
+				// 	description: {
+				// 		text: "Learn how the Network Information API proposal can give you information about the state of the network.",
+				// 		links: [
+				// 			["MDN - Network Information API", "https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API"],
+				// 			["Addy Osmani - Adaptive Serving", "https://addyosmani.com/blog/adaptive-serving/"],
+				// 			["W3C - Network Information API", "https://wicg.github.io/netinfo/"],
+				// 			["Network Information API Sample", "https://googlechrome.github.io/samples/network-information/"],
+				// 			["What Web Can Do Today - Network Type & Speed", "https://whatwebcando.today/network-type-speed.html"],
+				// 		]
+				// 	},
+				// },
 				// SMS Receiver API - https://web.dev/sms-receiver-api-announcement/
 				// Badging API - https://web.dev/badging-api/
 				// Contacts API - https://web.dev/contact-picker/

@@ -73,49 +73,49 @@ export const databasesCollection = {
 						}
 					]
 				},
-				{
-					name: "Non-relational Databases",
-					description: {
-						text: "Learn about non-relational databases and how to use them.",
-						links: [
-							["What Is A Non Relational Database", "https://www.mongodb.com/scale/what-is-a-non-relational-database"],
-							["Wikipedia - NoSQL", "https://en.wikipedia.org/wiki/NoSQL"],
-							["dev.to - Relational SQL vs. Non-Relational NoSQL Databases", "https://dev.to/trevoirwilliams/relational-sql-vs-non-relational-nosql-databases-hi5"],
-							["Non-relational data and NoSQL", "https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data"],
-							["Non-Relational Database", "https://www.techopedia.com/definition/25218/non-relational-database"],
-						]
-					},
-					skills: [
-						{
-							name: "Redis",
-							description: {
-								text: "Learn about the open-source non-relational database management system called Redis.",
-								links: [
-									["Redis", "https://redis.io/"],
-									["Try Redis", "http://try.redis.io/"],
-									["Wikipedia - Redis", "https://en.wikipedia.org/wiki/Redis"],
-									["An introduction to Redis data types and abstractions", "https://redis.io/topics/data-types-intro"],
-									["Redis - Documentation", "https://redis.io/documentation"],
-									["Redis: What and Why?", "https://codeburst.io/redis-what-and-why-d52b6829813"],
-									["Tutorialspoint - Redis Tutorial", "https://www.tutorialspoint.com/redis/index.htm"],
-								]
-							},
-						},
-						{
-							name: "MongoDB",
-							description: {
-								text: "Learn about the open-source non-relational database management system called MongoDB.",
-								links: [
-									["MongoDB", "https://www.mongodb.com/"],
-									["MongoDB - Documentation", "https://docs.mongodb.com/"],
-									["MongoDB - University", "https://university.mongodb.com/"],
-									["Tutorialspoint - MongoDB Tutorial", "https://www.tutorialspoint.com/mongodb/index.htm"],
-									["Youtube - MongoDB In 30 Minutes", "https://www.youtube.com/watch?v=pWbMrx5rVBE"],
-								]
-							},
-						}
-					]
-				},
+				// {
+				// 	name: "Non-relational Databases",
+				// 	description: {
+				// 		text: "Learn about non-relational databases and how to use them.",
+				// 		links: [
+				// 			["What Is A Non Relational Database", "https://www.mongodb.com/scale/what-is-a-non-relational-database"],
+				// 			["Wikipedia - NoSQL", "https://en.wikipedia.org/wiki/NoSQL"],
+				// 			["dev.to - Relational SQL vs. Non-Relational NoSQL Databases", "https://dev.to/trevoirwilliams/relational-sql-vs-non-relational-nosql-databases-hi5"],
+				// 			["Non-relational data and NoSQL", "https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data"],
+				// 			["Non-Relational Database", "https://www.techopedia.com/definition/25218/non-relational-database"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Redis",
+				// 			description: {
+				// 				text: "Learn about the open-source non-relational database management system called Redis.",
+				// 				links: [
+				// 					["Redis", "https://redis.io/"],
+				// 					["Try Redis", "http://try.redis.io/"],
+				// 					["Wikipedia - Redis", "https://en.wikipedia.org/wiki/Redis"],
+				// 					["An introduction to Redis data types and abstractions", "https://redis.io/topics/data-types-intro"],
+				// 					["Redis - Documentation", "https://redis.io/documentation"],
+				// 					["Redis: What and Why?", "https://codeburst.io/redis-what-and-why-d52b6829813"],
+				// 					["Tutorialspoint - Redis Tutorial", "https://www.tutorialspoint.com/redis/index.htm"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "MongoDB",
+				// 			description: {
+				// 				text: "Learn about the open-source non-relational database management system called MongoDB.",
+				// 				links: [
+				// 					["MongoDB", "https://www.mongodb.com/"],
+				// 					["MongoDB - Documentation", "https://docs.mongodb.com/"],
+				// 					["MongoDB - University", "https://university.mongodb.com/"],
+				// 					["Tutorialspoint - MongoDB Tutorial", "https://www.tutorialspoint.com/mongodb/index.htm"],
+				// 					["Youtube - MongoDB In 30 Minutes", "https://www.youtube.com/watch?v=pWbMrx5rVBE"],
+				// 				]
+				// 			},
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Data Modelling",
 					description: {
@@ -349,47 +349,47 @@ export const databasesCollection = {
 								]
 							},
 						},
-						{
-							name: "Proxy Server",
-							description: {
-								text: "Learn about the proxy-server model.",
-								links: [
-									["Wikipedia - Proxy Server", "https://en.wikipedia.org/wiki/Proxy_server"],
-									["Youtube - What is a Proxy Server?", "https://www.youtube.com/watch?v=5cPIukqXe5w"],
-									["What is a Proxy Server and How Does it Work?", "https://www.varonis.com/blog/what-is-a-proxy-server/"],
-									["Proxy Server Definition", "https://whatis.techtarget.com/definition/proxy-server"],
-									["What is a proxy server?", "https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server"],
-								]
-							},
-						},
-						{
-							name: "Peer-To-Peer",
-							description: {
-								text: "Learn about the peer-to-peer model.",
-								links: [
-									["Wikipedia - Peer-to-peer", "https://en.wikipedia.org/wiki/Peer-to-peer"],
-									["Youtube - What is a Peer to Peer Network? ", "https://www.youtube.com/watch?v=ie-qRQIQT4I"],
-									["What's a Peer-to-Peer (P2P) Network?", "https://www.computerworld.com/article/2588287/networking-peer-to-peer-network.html"],
-									["Peer-to-peer (P2P)", "https://searchnetworking.techtarget.com/definition/peer-to-peer"],
-									["Make a P2P connection in 10 minutes", "https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32"],
-								]
-							},
-						},
+						// {
+						// 	name: "Proxy Server",
+						// 	description: {
+						// 		text: "Learn about the proxy-server model.",
+						// 		links: [
+						// 			["Wikipedia - Proxy Server", "https://en.wikipedia.org/wiki/Proxy_server"],
+						// 			["Youtube - What is a Proxy Server?", "https://www.youtube.com/watch?v=5cPIukqXe5w"],
+						// 			["What is a Proxy Server and How Does it Work?", "https://www.varonis.com/blog/what-is-a-proxy-server/"],
+						// 			["Proxy Server Definition", "https://whatis.techtarget.com/definition/proxy-server"],
+						// 			["What is a proxy server?", "https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server"],
+						// 		]
+						// 	},
+						// },
+						// {
+						// 	name: "Peer-To-Peer",
+						// 	description: {
+						// 		text: "Learn about the peer-to-peer model.",
+						// 		links: [
+						// 			["Wikipedia - Peer-to-peer", "https://en.wikipedia.org/wiki/Peer-to-peer"],
+						// 			["Youtube - What is a Peer to Peer Network? ", "https://www.youtube.com/watch?v=ie-qRQIQT4I"],
+						// 			["What's a Peer-to-Peer (P2P) Network?", "https://www.computerworld.com/article/2588287/networking-peer-to-peer-network.html"],
+						// 			["Peer-to-peer (P2P)", "https://searchnetworking.techtarget.com/definition/peer-to-peer"],
+						// 			["Make a P2P connection in 10 minutes", "https://dev.to/carloslfu/make-a-p2p-connection-in-10-minutes-4b32"],
+						// 		]
+						// 	},
+						// },
 					]
 				},
-				{
-					name: "Middleware",
-					description: {
-						text: "Learn about middleware.",
-						links: [
-							["Wikipedia - Middleware", "https://en.wikipedia.org/wiki/Middleware"],
-							["Middleware Definition", "https://searchapparchitecture.techtarget.com/definition/middleware"],
-							["Quora - Why is Middleware important?", "https://www.quora.com/Why-is-Middleware-important"],
-							["What is middleware?", "https://www.redhat.com/en/topics/middleware/what-is-middleware"],
-							["What is Middleware? Technology’s Go-to Middleman", "https://www.talend.com/resources/what-is-middleware/"],
-						]
-					},
-				},
+				// {
+				// 	name: "Middleware",
+				// 	description: {
+				// 		text: "Learn about middleware.",
+				// 		links: [
+				// 			["Wikipedia - Middleware", "https://en.wikipedia.org/wiki/Middleware"],
+				// 			["Middleware Definition", "https://searchapparchitecture.techtarget.com/definition/middleware"],
+				// 			["Quora - Why is Middleware important?", "https://www.quora.com/Why-is-Middleware-important"],
+				// 			["What is middleware?", "https://www.redhat.com/en/topics/middleware/what-is-middleware"],
+				// 			["What is Middleware? Technology’s Go-to Middleman", "https://www.talend.com/resources/what-is-middleware/"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Request-Reply Protocol",
 					description: {
