@@ -3121,7 +3121,7 @@ Learn about the client-server model.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.techopedia.com" alt="Logo" /> Client-Server Model](https://www.techopedia.com/definition/18321/client-server-model)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.sciencedirect.com" alt="Logo" /> Learn more about Client-Server Model](https://www.sciencedirect.com/topics/computer-science/client-server-model)
 
-#### Proxy Server
+<!-- #### Proxy Server
 
 Learn about the proxy-server model.
 
@@ -3129,7 +3129,7 @@ Learn about the proxy-server model.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - What is a Proxy Server?](https://www.youtube.com/watch?v=5cPIukqXe5w)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.varonis.com" alt="Logo" /> What is a Proxy Server and How Does it Work?](https://www.varonis.com/blog/what-is-a-proxy-server/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatis.techtarget.com" alt="Logo" /> Proxy Server Definition](https://whatis.techtarget.com/definition/proxy-server)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.itpro.co.uk" alt="Logo" /> What is a proxy server?](https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.itpro.co.uk" alt="Logo" /> What is a proxy server?](https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server) -->
 
 #### Peer-To-Peer
 

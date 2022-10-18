@@ -349,19 +349,19 @@ export const databasesCollection = {
 								]
 							},
 						},
-						{
-							name: "Proxy Server",
-							description: {
-								text: "Learn about the proxy-server model.",
-								links: [
-									["Wikipedia - Proxy Server", "https://en.wikipedia.org/wiki/Proxy_server"],
-									["Youtube - What is a Proxy Server?", "https://www.youtube.com/watch?v=5cPIukqXe5w"],
-									["What is a Proxy Server and How Does it Work?", "https://www.varonis.com/blog/what-is-a-proxy-server/"],
-									["Proxy Server Definition", "https://whatis.techtarget.com/definition/proxy-server"],
-									["What is a proxy server?", "https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server"],
-								]
-							},
-						},
+						// {
+						// 	name: "Proxy Server",
+						// 	description: {
+						// 		text: "Learn about the proxy-server model.",
+						// 		links: [
+						// 			["Wikipedia - Proxy Server", "https://en.wikipedia.org/wiki/Proxy_server"],
+						// 			["Youtube - What is a Proxy Server?", "https://www.youtube.com/watch?v=5cPIukqXe5w"],
+						// 			["What is a Proxy Server and How Does it Work?", "https://www.varonis.com/blog/what-is-a-proxy-server/"],
+						// 			["Proxy Server Definition", "https://whatis.techtarget.com/definition/proxy-server"],
+						// 			["What is a proxy server?", "https://www.itpro.co.uk/server-storage/30246/what-is-a-proxy-server"],
+						// 		]
+						// 	},
+						// },
 						{
 							name: "Peer-To-Peer",
 							description: {
