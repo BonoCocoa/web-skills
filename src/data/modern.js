@@ -379,18 +379,18 @@ export const modernCollection = {
 						]
 					},
 				},
-				{
-					name: "Browser Extensions",
-					description: {
-						text: "Learn how to build browser extensions to enhance the functionality of your browser.",
-						links: [
-							["MDN - Browser Extensions", "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions"],
-							["Chrome - What are extensions?", "https://developer.chrome.com/extensions"],
-							["Chrome - Getting Started with Extensions", "https://developer.chrome.com/extensions/getstarted"],
-							["Youtube - Google Chrome Extensions", "https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B"],
-						]
-					},
-				},
+				// {
+				// 	name: "Browser Extensions",
+				// 	description: {
+				// 		text: "Learn how to build browser extensions to enhance the functionality of your browser.",
+				// 		links: [
+				// 			["MDN - Browser Extensions", "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions"],
+				// 			["Chrome - What are extensions?", "https://developer.chrome.com/extensions"],
+				// 			["Chrome - Getting Started with Extensions", "https://developer.chrome.com/extensions/getstarted"],
+				// 			["Youtube - Google Chrome Extensions", "https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Pointer Lock API",
 					description: {

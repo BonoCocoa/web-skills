@@ -2442,14 +2442,14 @@ Learn how to use Interaction Media Queries to optimize the user experience for t
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Interaction Media Features](https://www.w3.org/TR/mediaqueries-4/#mf-interaction)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Pointing Device Adaptation](https://whatwebcando.today/pointer-adaptation.html)
 
-### Browser Extensions
+<!-- ### Browser Extensions
 
 Learn how to build browser extensions to enhance the functionality of your browser.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.chrome.com" alt="Logo" /> Chrome - What are extensions?](https://developer.chrome.com/extensions)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.chrome.com" alt="Logo" /> Chrome - Getting Started with Extensions](https://developer.chrome.com/extensions/getstarted)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Google Chrome Extensions](https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Google Chrome Extensions](https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B) -->
 
 ### Pointer Lock API
 
