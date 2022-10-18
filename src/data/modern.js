@@ -391,17 +391,17 @@ export const modernCollection = {
 				// 		]
 				// 	},
 				// },
-				{
-					name: "Pointer Lock API",
-					description: {
-						text: "Learn how to use the Pointer Lock API to get the raw mouse movement and lock the target of mouse events to a single element.",
-						links: [
-							["MDN - Pointer Lock API", "https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API"],
-							["W3C - Pointer Lock", "https://www.w3.org/TR/pointerlock/"],
-							["Use the Pointer Lock API to Restrict Mouse Movement", "https://dzone.com/articles/html5-use-pointer-lock-api"],
-						]
-					},
-				},
+				// {
+				// 	name: "Pointer Lock API",
+				// 	description: {
+				// 		text: "Learn how to use the Pointer Lock API to get the raw mouse movement and lock the target of mouse events to a single element.",
+				// 		links: [
+				// 			["MDN - Pointer Lock API", "https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API"],
+				// 			["W3C - Pointer Lock", "https://www.w3.org/TR/pointerlock/"],
+				// 			["Use the Pointer Lock API to Restrict Mouse Movement", "https://dzone.com/articles/html5-use-pointer-lock-api"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Picture In Picture",
 					description: {

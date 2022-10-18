@@ -2451,13 +2451,13 @@ Learn how to build browser extensions to enhance the functionality of your brows
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.chrome.com" alt="Logo" /> Chrome - Getting Started with Extensions](https://developer.chrome.com/extensions/getstarted)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Google Chrome Extensions](https://www.youtube.com/view_play_list?p=CA101D6A85FE9D4B) -->
 
-### Pointer Lock API
+<!-- ### Pointer Lock API
 
 Learn how to use the Pointer Lock API to get the raw mouse movement and lock the target of mouse events to a single element.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Pointer Lock API](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Pointer Lock](https://www.w3.org/TR/pointerlock/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdzone.com" alt="Logo" /> Use the Pointer Lock API to Restrict Mouse Movement](https://dzone.com/articles/html5-use-pointer-lock-api)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdzone.com" alt="Logo" /> Use the Pointer Lock API to Restrict Mouse Movement](https://dzone.com/articles/html5-use-pointer-lock-api) -->
 
 ### Picture In Picture
 
