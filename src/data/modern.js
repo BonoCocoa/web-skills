@@ -325,20 +325,20 @@ export const modernCollection = {
 						]
 					}
 				},
-				{
-					name: "Performance API",
-					description: {
-						text: "Learn about the Performance API and how it can help you monitor the performance of the device.",
-						links: [
-							["MDN - Performance", "https://developer.mozilla.org/en-US/docs/Web/API/Performance"],
-							["MDN - performance.measure()", "https://developer.mozilla.org/en-US/docs/Web/API/Performance/measure"],
-							["CSS Tricks - Breaking Down the Performance API", "https://css-tricks.com/breaking-performance-api/"],
-							["Google Devs - Assessing Loading Performance", "https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/"],
-							["MDN - Performance Specifications", "https://developer.mozilla.org/en-US/docs/Web/API/Performance_API#Specifications"],
-							["MDN - Performance Timeline", "https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline"],
-						]
-					}
-				},
+				// {
+				// 	name: "Performance API",
+				// 	description: {
+				// 		text: "Learn about the Performance API and how it can help you monitor the performance of the device.",
+				// 		links: [
+				// 			["MDN - Performance", "https://developer.mozilla.org/en-US/docs/Web/API/Performance"],
+				// 			["MDN - performance.measure()", "https://developer.mozilla.org/en-US/docs/Web/API/Performance/measure"],
+				// 			["CSS Tricks - Breaking Down the Performance API", "https://css-tricks.com/breaking-performance-api/"],
+				// 			["Google Devs - Assessing Loading Performance", "https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/"],
+				// 			["MDN - Performance Specifications", "https://developer.mozilla.org/en-US/docs/Web/API/Performance_API#Specifications"],
+				// 			["MDN - Performance Timeline", "https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline"],
+				// 		]
+				// 	}
+				// },
 				{
 					name: "Gamepad API",
 					description: {

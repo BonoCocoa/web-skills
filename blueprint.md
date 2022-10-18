@@ -2400,7 +2400,7 @@ Learn how the Web Share API can help users sharing your web app.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.arnellebalane.com" alt="Logo" /> The Web Share API](https://blog.arnellebalane.com/the-web-share-api-2cbb3e6cf007)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - How to implement the Web Share API with a fallback](https://dev.to/daviddalbusco/how-to-implement-the-web-share-api-with-a-fallback-b3)
 
-### Performance API
+<!-- ### Performance API
 
 Learn about the Performance API and how it can help you monitor the performance of the device.
 
@@ -2409,7 +2409,7 @@ Learn about the Performance API and how it can help you monitor the performance 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Breaking Down the Performance API](https://css-tricks.com/breaking-performance-api/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Assessing Loading Performance](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Performance Specifications](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API#Specifications)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Performance Timeline](https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Performance Timeline](https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline) -->
 
 ### Gamepad API
 
