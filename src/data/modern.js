@@ -118,21 +118,21 @@ export const modernCollection = {
 				// 		]
 				// 	},
 				// },
-				{
-					name: "Device orientation & motion",
-					description: {
-						text: "Learn how to measure the orientation and motion of the device.",
-						links: [
-							["MDN - Detecting device orientation", "https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation"],
-							["W3C - DeviceOrientation Event Specification", "https://www.w3.org/TR/orientation-event/"],
-							["HTML5 Rocks - Introduction", "https://www.html5rocks.com/en/tutorials/device/orientation/index.html"],
-							["What Web Can Do Today - Device Position", "https://whatwebcando.today/device-position.html"],
-							["W3C - Generic Sensor API", "https://www.w3.org/TR/generic-sensor/"],
-							["MDN - Sensor APIs", "https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs"],
-							["Google Devs - Sensors For The Web", "https://developers.google.com/web/updates/2017/09/sensors-for-the-web"],
-						]
-					},
-				},
+				// {
+				// 	name: "Device orientation & motion",
+				// 	description: {
+				// 		text: "Learn how to measure the orientation and motion of the device.",
+				// 		links: [
+				// 			["MDN - Detecting device orientation", "https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation"],
+				// 			["W3C - DeviceOrientation Event Specification", "https://www.w3.org/TR/orientation-event/"],
+				// 			["HTML5 Rocks - Introduction", "https://www.html5rocks.com/en/tutorials/device/orientation/index.html"],
+				// 			["What Web Can Do Today - Device Position", "https://whatwebcando.today/device-position.html"],
+				// 			["W3C - Generic Sensor API", "https://www.w3.org/TR/generic-sensor/"],
+				// 			["MDN - Sensor APIs", "https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs"],
+				// 			["Google Devs - Sensors For The Web", "https://developers.google.com/web/updates/2017/09/sensors-for-the-web"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Fullscreen",
 					description: {
@@ -261,19 +261,19 @@ export const modernCollection = {
 						}
 					]
 				},
-				{
-					name: "Scrollsnapping",
-					description: {
-						text: "Learn about the Scrollsnapping API and how it can help you provide an intuitive experience when scrolling.",
-						links: [
-							["CSS Tricks - Practical CSS Scroll Snapping", "https://css-tricks.com/practical-css-scroll-snapping/"],
-							["CSS Tricks - Introducing CSS Scroll Snap Points", "https://css-tricks.com/introducing-css-scroll-snap-points/"],
-							["Google Devs - Well-Controlled Scrolling with CSS Scroll Snap", "https://developers.google.com/web/updates/2018/07/css-scroll-snap"],
-							["MDN - CSS Scroll Snap", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap"],
-							["The scroll-snap-* Properties", "https://webkit.org/demos/scroll-snap/index.html"],
-						]
-					},
-				},
+				// {
+				// 	name: "Scrollsnapping",
+				// 	description: {
+				// 		text: "Learn about the Scrollsnapping API and how it can help you provide an intuitive experience when scrolling.",
+				// 		links: [
+				// 			["CSS Tricks - Practical CSS Scroll Snapping", "https://css-tricks.com/practical-css-scroll-snapping/"],
+				// 			["CSS Tricks - Introducing CSS Scroll Snap Points", "https://css-tricks.com/introducing-css-scroll-snap-points/"],
+				// 			["Google Devs - Well-Controlled Scrolling with CSS Scroll Snap", "https://developers.google.com/web/updates/2018/07/css-scroll-snap"],
+				// 			["MDN - CSS Scroll Snap", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap"],
+				// 			["The scroll-snap-* Properties", "https://webkit.org/demos/scroll-snap/index.html"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Web Assembly",
 					description: {

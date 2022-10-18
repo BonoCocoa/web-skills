@@ -290,8 +290,8 @@
     - [Generators](#generators) -->
   <!-- - [Speech Synthesis](#speech-synthesis) -->
   - [Web Sockets](#web-sockets)
-  <!-- - [Geolocation](#geolocation) -->
-  - [Device orientation & motion](#device-orientation--motion)
+    <!-- - [Geolocation](#geolocation) -->
+    <!-- - [Device orientation & motion](#device-orientation--motion) -->
   - [Fullscreen](#fullscreen)
   - [Variable Fonts](#variable-fonts)
   - [HTTP/2](#http2)
@@ -302,7 +302,7 @@
     - [Intersection Observer](#intersection-observer)
     - [Resize Observer](#resize-observer)
     - [Performance Observer](#performance-observer)
-  - [Scrollsnapping](#scrollsnapping)
+    <!-- - [Scrollsnapping](#scrollsnapping) -->
   - [Web Assembly](#web-assembly)
   - [Beacon](#beacon)
   - [Clipboard](#clipboard)
@@ -2654,7 +2654,7 @@ Learn how to ask the user for permission to the location.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Maps Platform - Displaying User Position on Maps](https://developers.google.com/maps/documentation/javascript/geolocation)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Geolocation](https://whatwebcando.today/geolocation.html) -->
 
-### Device orientation & motion
+<!-- ### Device orientation & motion
 
 Learn how to measure the orientation and motion of the device.
 
@@ -2664,7 +2664,7 @@ Learn how to measure the orientation and motion of the device.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Device Position](https://whatwebcando.today/device-position.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Generic Sensor API](https://www.w3.org/TR/generic-sensor/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Sensor APIs](https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Sensors For The Web](https://developers.google.com/web/updates/2017/09/sensors-for-the-web)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Sensors For The Web](https://developers.google.com/web/updates/2017/09/sensors-for-the-web) -->
 
 ### Fullscreen
 
@@ -2762,7 +2762,7 @@ Learn how the Performance Observer API can help you get information about the pe
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - PerformanceObserver](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Efficient Access to Performance Data](https://developers.google.com/web/updates/2016/06/performance-observer)
 
-### Scrollsnapping
+<!-- ### Scrollsnapping
 
 Learn about the Scrollsnapping API and how it can help you provide an intuitive experience when scrolling.
 
@@ -2770,7 +2770,7 @@ Learn about the Scrollsnapping API and how it can help you provide an intuitive 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Introducing CSS Scroll Snap Points](https://css-tricks.com/introducing-css-scroll-snap-points/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Well-Controlled Scrolling with CSS Scroll Snap](https://developers.google.com/web/updates/2018/07/css-scroll-snap)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebkit.org" alt="Logo" /> The scroll-snap-\* Properties](https://webkit.org/demos/scroll-snap/index.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebkit.org" alt="Logo" /> The scroll-snap-\* Properties](https://webkit.org/demos/scroll-snap/index.html) -->
 
 ### Web Assembly
 
