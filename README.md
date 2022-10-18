@@ -290,7 +290,7 @@
     - [Generators](#generators) -->
   <!-- - [Speech Synthesis](#speech-synthesis) -->
   - [Web Sockets](#web-sockets)
-  - [Geolocation](#geolocation)
+  <!-- - [Geolocation](#geolocation) -->
   - [Device orientation & motion](#device-orientation--motion)
   - [Fullscreen](#fullscreen)
   - [Variable Fonts](#variable-fonts)
@@ -2645,14 +2645,14 @@ Learn about web sockets and how you can push data to your web app.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.html5rocks.com" alt="Logo" /> HTML5 Rocks - Introducing WebSockets](https://www.html5rocks.com/en/tutorials/websockets/basics/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> WHATWG - Web sockets](https://html.spec.whatwg.org/multipage/web-sockets.html)
 
-### Geolocation
+<!-- ### Geolocation
 
 Learn how to ask the user for permission to the location.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Falligator.io" alt="Logo" /> Alligrator - Using the Geolocation API](https://alligator.io/js/geolocation-api/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Maps Platform - Displaying User Position on Maps](https://developers.google.com/maps/documentation/javascript/geolocation)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Geolocation](https://whatwebcando.today/geolocation.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Geolocation](https://whatwebcando.today/geolocation.html) -->
 
 ### Device orientation & motion
 

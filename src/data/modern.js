@@ -106,18 +106,18 @@ export const modernCollection = {
 						]
 					}
 				},
-				{
-					name: "Geolocation",
-					description: {
-						text: "Learn how to ask the user for permission to the location.",
-						links: [
-							["MDN - Geolocation API", "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API"],
-							["Alligrator - Using the Geolocation API", "https://alligator.io/js/geolocation-api/"],
-							["Google Maps Platform - Displaying User Position on Maps", "https://developers.google.com/maps/documentation/javascript/geolocation"],
-							["What Web Can Do Today - Geolocation", "https://whatwebcando.today/geolocation.html"],
-						]
-					},
-				},
+				// {
+				// 	name: "Geolocation",
+				// 	description: {
+				// 		text: "Learn how to ask the user for permission to the location.",
+				// 		links: [
+				// 			["MDN - Geolocation API", "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API"],
+				// 			["Alligrator - Using the Geolocation API", "https://alligator.io/js/geolocation-api/"],
+				// 			["Google Maps Platform - Displaying User Position on Maps", "https://developers.google.com/maps/documentation/javascript/geolocation"],
+				// 			["What Web Can Do Today - Geolocation", "https://whatwebcando.today/geolocation.html"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "Device orientation & motion",
 					description: {
