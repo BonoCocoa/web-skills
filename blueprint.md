@@ -2915,7 +2915,7 @@ Learn about the open-source relational database management system called Postgre
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fwww.postgresqltutorial.com" alt="Logo" /> PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fpostgresguide.com" alt="Logo" /> Postgres Guide](http://postgresguide.com/)
 
-### Non-relational Databases
+<!-- ### Non-relational Databases
 
 Learn about non-relational databases and how to use them.
 
@@ -2945,7 +2945,7 @@ Learn about the open-source non-relational database management system called Mon
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdocs.mongodb.com" alt="Logo" /> MongoDB - Documentation](https://docs.mongodb.com/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Funiversity.mongodb.com" alt="Logo" /> MongoDB - University](https://university.mongodb.com/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Tutorialspoint - MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/index.htm)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE) -->
 
 ### Data Modelling
 

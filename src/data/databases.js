@@ -73,49 +73,49 @@ export const databasesCollection = {
 						}
 					]
 				},
-				{
-					name: "Non-relational Databases",
-					description: {
-						text: "Learn about non-relational databases and how to use them.",
-						links: [
-							["What Is A Non Relational Database", "https://www.mongodb.com/scale/what-is-a-non-relational-database"],
-							["Wikipedia - NoSQL", "https://en.wikipedia.org/wiki/NoSQL"],
-							["dev.to - Relational SQL vs. Non-Relational NoSQL Databases", "https://dev.to/trevoirwilliams/relational-sql-vs-non-relational-nosql-databases-hi5"],
-							["Non-relational data and NoSQL", "https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data"],
-							["Non-Relational Database", "https://www.techopedia.com/definition/25218/non-relational-database"],
-						]
-					},
-					skills: [
-						{
-							name: "Redis",
-							description: {
-								text: "Learn about the open-source non-relational database management system called Redis.",
-								links: [
-									["Redis", "https://redis.io/"],
-									["Try Redis", "http://try.redis.io/"],
-									["Wikipedia - Redis", "https://en.wikipedia.org/wiki/Redis"],
-									["An introduction to Redis data types and abstractions", "https://redis.io/topics/data-types-intro"],
-									["Redis - Documentation", "https://redis.io/documentation"],
-									["Redis: What and Why?", "https://codeburst.io/redis-what-and-why-d52b6829813"],
-									["Tutorialspoint - Redis Tutorial", "https://www.tutorialspoint.com/redis/index.htm"],
-								]
-							},
-						},
-						{
-							name: "MongoDB",
-							description: {
-								text: "Learn about the open-source non-relational database management system called MongoDB.",
-								links: [
-									["MongoDB", "https://www.mongodb.com/"],
-									["MongoDB - Documentation", "https://docs.mongodb.com/"],
-									["MongoDB - University", "https://university.mongodb.com/"],
-									["Tutorialspoint - MongoDB Tutorial", "https://www.tutorialspoint.com/mongodb/index.htm"],
-									["Youtube - MongoDB In 30 Minutes", "https://www.youtube.com/watch?v=pWbMrx5rVBE"],
-								]
-							},
-						}
-					]
-				},
+				// {
+				// 	name: "Non-relational Databases",
+				// 	description: {
+				// 		text: "Learn about non-relational databases and how to use them.",
+				// 		links: [
+				// 			["What Is A Non Relational Database", "https://www.mongodb.com/scale/what-is-a-non-relational-database"],
+				// 			["Wikipedia - NoSQL", "https://en.wikipedia.org/wiki/NoSQL"],
+				// 			["dev.to - Relational SQL vs. Non-Relational NoSQL Databases", "https://dev.to/trevoirwilliams/relational-sql-vs-non-relational-nosql-databases-hi5"],
+				// 			["Non-relational data and NoSQL", "https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data"],
+				// 			["Non-Relational Database", "https://www.techopedia.com/definition/25218/non-relational-database"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Redis",
+				// 			description: {
+				// 				text: "Learn about the open-source non-relational database management system called Redis.",
+				// 				links: [
+				// 					["Redis", "https://redis.io/"],
+				// 					["Try Redis", "http://try.redis.io/"],
+				// 					["Wikipedia - Redis", "https://en.wikipedia.org/wiki/Redis"],
+				// 					["An introduction to Redis data types and abstractions", "https://redis.io/topics/data-types-intro"],
+				// 					["Redis - Documentation", "https://redis.io/documentation"],
+				// 					["Redis: What and Why?", "https://codeburst.io/redis-what-and-why-d52b6829813"],
+				// 					["Tutorialspoint - Redis Tutorial", "https://www.tutorialspoint.com/redis/index.htm"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "MongoDB",
+				// 			description: {
+				// 				text: "Learn about the open-source non-relational database management system called MongoDB.",
+				// 				links: [
+				// 					["MongoDB", "https://www.mongodb.com/"],
+				// 					["MongoDB - Documentation", "https://docs.mongodb.com/"],
+				// 					["MongoDB - University", "https://university.mongodb.com/"],
+				// 					["Tutorialspoint - MongoDB Tutorial", "https://www.tutorialspoint.com/mongodb/index.htm"],
+				// 					["Youtube - MongoDB In 30 Minutes", "https://www.youtube.com/watch?v=pWbMrx5rVBE"],
+				// 				]
+				// 			},
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Data Modelling",
 					description: {
