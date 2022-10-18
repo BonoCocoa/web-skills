@@ -1625,12 +1625,12 @@ Learn about test runners and how they can help running tests.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.udacity.com" alt="Logo" /> Udacity - Javascript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> JavaScript Unit Testing Frameworks](https://www.guru99.com/javascript-unit-testing-frameworks.html)
 
-#### Karma
+<!-- #### Karma
 
 Learn about the Karma test runner.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fkarma-runner.github.io" alt="Logo" /> Karma](https://karma-runner.github.io/latest/index.html)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Getting started with Karma and Mocha](https://medium.com/@jazcodes/getting-started-with-karma-and-mocha-for-automated-browser-tests-5ebb6cd02edf)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Getting started with Karma and Mocha](https://medium.com/@jazcodes/getting-started-with-karma-and-mocha-for-automated-browser-tests-5ebb6cd02edf) -->
 
 #### Mocha
 

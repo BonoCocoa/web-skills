@@ -168,16 +168,16 @@ export const testingCollection = {
 						]
 					},
 					skills: [
-						{
-							name: "Karma",
-							description: {
-								text: "Learn about the Karma test runner.",
-								links: [
-									["Karma", "https://karma-runner.github.io/latest/index.html"],
-									["Getting started with Karma and Mocha", "https://medium.com/@jazcodes/getting-started-with-karma-and-mocha-for-automated-browser-tests-5ebb6cd02edf"],
-								]
-							}
-						},
+						// {
+						// 	name: "Karma",
+						// 	description: {
+						// 		text: "Learn about the Karma test runner.",
+						// 		links: [
+						// 			["Karma", "https://karma-runner.github.io/latest/index.html"],
+						// 			["Getting started with Karma and Mocha", "https://medium.com/@jazcodes/getting-started-with-karma-and-mocha-for-automated-browser-tests-5ebb6cd02edf"],
+						// 		]
+						// 	}
+						// },
 						{
 							name: "Mocha",
 							description: {
