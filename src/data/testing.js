@@ -111,16 +111,16 @@ export const testingCollection = {
 								]
 							},
 						},
-						{
-							name: "Automated Testing",
-							description: {
-								text: "Learn about automated testing and when it should be applied.",
-								links: [
-									["What is Automated Testing?", "https://smartbear.com/learn/automated-testing/what-is-automated-testing/"],
-									["Automated Testing Tutorial", "https://www.guru99.com/automation-testing.html"],
-								]
-							},
-						},
+						// {
+						// 	name: "Automated Testing",
+						// 	description: {
+						// 		text: "Learn about automated testing and when it should be applied.",
+						// 		links: [
+						// 			["What is Automated Testing?", "https://smartbear.com/learn/automated-testing/what-is-automated-testing/"],
+						// 			["Automated Testing Tutorial", "https://www.guru99.com/automation-testing.html"],
+						// 		]
+						// 	},
+						// },
 						{
 							name: "Manual Testing",
 							description: {

@@ -213,7 +213,7 @@
     - [Usability Testing](#usability-testing)
     - [White Box Testing](#white-box-testing)
     - [Black Box Testing](#black-box-testing)
-    - [Automated Testing](#automated-testing)
+    <!-- - [Automated Testing](#automated-testing) -->
     - [Manual Testing](#manual-testing)
   - [Continuous integration](#continuous-integration)
   - [A/B Testing](#ab-testing)
@@ -1988,12 +1988,12 @@ Learn about black box testing and how a test can be carried out without looking 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> What is Black Box Testing?](https://www.guru99.com/black-box-testing.html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> Black Box Testing](http://softwaretestingfundamentals.com/black-box-testing/)
 
-#### Automated Testing
+<!-- #### Automated Testing
 
 Learn about automated testing and when it should be applied.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsmartbear.com" alt="Logo" /> What is Automated Testing?](https://smartbear.com/learn/automated-testing/what-is-automated-testing/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Automated Testing Tutorial](https://www.guru99.com/automation-testing.html)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Automated Testing Tutorial](https://www.guru99.com/automation-testing.html) -->
 
 #### Manual Testing
 
