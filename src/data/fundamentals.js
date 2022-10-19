@@ -52,18 +52,18 @@ export const fundamentalsCollection = {
 						]
 					},
 					skills: [
-						{
-							name: "Discoverable Content",
-							description: {
-								text: "Learn how to structure your HTML in a way that provides a rich experience when sharing it online.",
-								links: [
-									["Google Web - Social Discovery", "https://developers.google.com/web/fundamentals/discovery/social-discovery"],
-									["Google Search - Search Features", "https://developers.google.com/search/docs/guides/search-features"],
-									["Google Search - Structured Data", "https://developers.google.com/search/docs/guides/intro-structured-data"],
-									["web.dev - Easily discoverable", "https://web.dev/discoverable"]
-								]
-							}
-						}
+						// {
+						// 	name: "Discoverable Content",
+						// 	description: {
+						// 		text: "Learn how to structure your HTML in a way that provides a rich experience when sharing it online.",
+						// 		links: [
+						// 			["Google Web - Social Discovery", "https://developers.google.com/web/fundamentals/discovery/social-discovery"],
+						// 			["Google Search - Search Features", "https://developers.google.com/search/docs/guides/search-features"],
+						// 			["Google Search - Structured Data", "https://developers.google.com/search/docs/guides/intro-structured-data"],
+						// 			["web.dev - Easily discoverable", "https://web.dev/discoverable"]
+						// 		]
+						// 	}
+						// }
 					]
 				},
 				{

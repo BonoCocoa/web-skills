@@ -32,7 +32,7 @@
     - [Basic Tags](#basic-tags)
   - [Forms](#forms)
   - [SEO](#seo)
-    - [Discoverable Content](#discoverable-content)
+    <!-- - [Discoverable Content](#discoverable-content) -->
   - [Svg](#svg)
   - [Best Practices](#best-practices)
   - [CSS](#css)
@@ -114,10 +114,10 @@
     - [Shadow Parts](#shadow-parts)
     - [Slots](#slots)
   - [Best practices](#best-practices)
-  - [Constructible Stylesheets](#constructible-stylesheets)
-  - [Form Participation](#form-participation)
+  <!-- - [Constructible Stylesheets](#constructible-stylesheets) -->
+  <!-- - [Form Participation](#form-participation) -->
 - [➤ Progressive Webapps](#-progressive-webapps)
-  - [API's](#apis)
+  <!-- - [API's](#apis)
   - [Storage](#storage)
   - [Routing](#routing)
     - [History API](#history-api)
@@ -173,7 +173,7 @@
   - [Audits](#audits-1)
   - [Performance budgets](#performance-budgets)
   - [Lighthouse](#lighthouse)
-  - [Chrome DevTools](#chrome-devtools)
+  - [Chrome DevTools](#chrome-devtools) -->
 - [➤ Build tools](#-build-tools)
   - [Package Managers](#package-managers)
     - [NPM](#npm)
@@ -481,14 +481,14 @@ Learn how to make your content search-friendly.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - SEO audits](https://web.dev/lighthouse-seo)
 
-#### Discoverable Content
+<!-- #### Discoverable Content
 
 Learn how to structure your HTML in a way that provides a rich experience when sharing it online.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Web - Social Discovery](https://developers.google.com/web/fundamentals/discovery/social-discovery)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - Search Features](https://developers.google.com/search/docs/guides/search-features)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Easily discoverable](https://web.dev/discoverable)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Easily discoverable](https://web.dev/discoverable) -->
 
 ### Svg
 
@@ -1193,7 +1193,7 @@ Get familiar with best practices when it comes to building Web Components.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> mateusortiz - Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Making Web Components for Different Contexts](https://dev.to/equinusocio/making-web-components-for-different-contexts-25ed)
 
-### Constructible Stylesheets
+<!-- ### Constructible Stylesheets
 
 Learn how the Constructible Stylesheets proposal enables reusable styles when using shadow dom.
 
@@ -1202,9 +1202,9 @@ Learn how the Constructible Stylesheets proposal enables reusable styles when us
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Why Would Anyone Use Constructible Stylesheets](https://dev.to/westbrook/why-would-anyone-use-constructible-stylesheets-anyways-19ng)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Benjamin Farrel - Adopt a Design System](https://medium.com/swlh/adopt-a-design-system-inside-your-web-components-with-constructable-stylesheets-dd24649261e)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> WICG - Constructable Stylesheet Objects](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.chromestatus.com" alt="Logo" /> Chrome Status - Constructible Stylesheets](https://www.chromestatus.com/feature/5394843094220800)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.chromestatus.com" alt="Logo" /> Chrome Status - Constructible Stylesheets](https://www.chromestatus.com/feature/5394843094220800) -->
 
-### Form Participation
+<!-- ### Form Participation
 
 Learn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.
 
@@ -1215,11 +1215,11 @@ Learn how the Form Participation API proposal enables elements, other than built
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - More capable form controls](https://web.dev/more-capable-form-controls/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> W3C - Creating a form-associated custom element](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#progressive-webapps)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#progressive-webapps) -->
 
 ## ➤ Progressive Webapps
 
-### API's
+<!-- ### API's
 
 ### Storage
 
@@ -1690,7 +1690,7 @@ Learn about the Chrome DevTools and how it can be used to audit your web app.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Inspect animations](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcalibreapp.com" alt="Logo" /> Investigate animation performance with DevTools](https://calibreapp.com/blog/investigate-animation-performance-with-devtools/)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-tools)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-tools) -->
 
 ## ➤ Build tools
 
