@@ -820,11 +820,11 @@ Learn how the Form Participation API proposal enables elements, other than built
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - More capable form controls](https://web.dev/more-capable-form-controls/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> W3C - Creating a form-associated custom element](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example) -->
 
-## Progressive Webapps
+<!-- ## Progressive Webapps
 
 ### API's
 
-<!-- ### Storage
+### Storage
 
 Learn how to store data for your web app.
 
