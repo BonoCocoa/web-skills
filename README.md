@@ -114,8 +114,8 @@
     - [Shadow Parts](#shadow-parts)
     - [Slots](#slots)
   - [Best practices](#best-practices)
-  <!-- - [Constructible Stylesheets](#constructible-stylesheets) -->
-  <!-- - [Form Participation](#form-participation) -->
+    <!-- - [Constructible Stylesheets](#constructible-stylesheets) -->
+    <!-- - [Form Participation](#form-participation) -->
 - [➤ Progressive Webapps](#-progressive-webapps)
   <!-- - [API's](#apis)
   - [Storage](#storage)
@@ -384,9 +384,9 @@
   - [Servers](#servers)
   - [Architectural Models](#architectural-models)
     - [Client-Server](#client-server)
-    <!-- - [Proxy Server](#proxy-server) -->
-    <!-- - [Peer-To-Peer](#peer-to-peer) -->
-    <!-- - [Middleware](#middleware) -->
+      <!-- - [Proxy Server](#proxy-server) -->
+      <!-- - [Peer-To-Peer](#peer-to-peer) -->
+      <!-- - [Middleware](#middleware) -->
   - [Request-Reply Protocol](#request-reply-protocol)
     - [UDP](#udp)
     - [TCP](#tcp)
@@ -1213,9 +1213,9 @@ Learn how the Form Participation API proposal enables elements, other than built
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> web-platform-tests - Form Participation](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Form-associated custom elements](https://developers.google.com/web/updates/2019/09/nic77#form-associated_custom_elements)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - More capable form controls](https://web.dev/more-capable-form-controls/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> W3C - Creating a form-associated custom element](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> W3C - Creating a form-associated custom element](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example) -->
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#progressive-webapps) -->
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#progressive-webapps)
 
 ## ➤ Progressive Webapps
 

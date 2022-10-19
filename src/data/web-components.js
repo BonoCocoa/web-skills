@@ -83,7 +83,7 @@ export const webcomponentsCollection = {
 							["dev.to - Making Web Components for Different Contexts", "https://dev.to/equinusocio/making-web-components-for-different-contexts-25ed"]
 						]
 					}
-				},
+				}//,
 				// {
 				// 	name: "Constructible Stylesheets",
 				// 	description: {
