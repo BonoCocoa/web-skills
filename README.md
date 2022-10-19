@@ -117,7 +117,7 @@
   <!-- - [Constructible Stylesheets](#constructible-stylesheets) -->
   <!-- - [Form Participation](#form-participation) -->
 - [➤ Progressive Webapps](#-progressive-webapps)
-  - [API's](#apis)
+  <!-- - [API's](#apis)
   - [Storage](#storage)
   - [Routing](#routing)
     - [History API](#history-api)
@@ -173,7 +173,7 @@
   - [Audits](#audits-1)
   - [Performance budgets](#performance-budgets)
   - [Lighthouse](#lighthouse)
-  - [Chrome DevTools](#chrome-devtools)
+  - [Chrome DevTools](#chrome-devtools) -->
 - [➤ Build tools](#-build-tools)
   - [Package Managers](#package-managers)
     - [NPM](#npm)
@@ -1193,7 +1193,7 @@ Get familiar with best practices when it comes to building Web Components.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> mateusortiz - Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Making Web Components for Different Contexts](https://dev.to/equinusocio/making-web-components-for-different-contexts-25ed)
 
-### Constructible Stylesheets
+<!-- ### Constructible Stylesheets
 
 Learn how the Constructible Stylesheets proposal enables reusable styles when using shadow dom.
 
@@ -1202,7 +1202,7 @@ Learn how the Constructible Stylesheets proposal enables reusable styles when us
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Why Would Anyone Use Constructible Stylesheets](https://dev.to/westbrook/why-would-anyone-use-constructible-stylesheets-anyways-19ng)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Benjamin Farrel - Adopt a Design System](https://medium.com/swlh/adopt-a-design-system-inside-your-web-components-with-constructable-stylesheets-dd24649261e)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> WICG - Constructable Stylesheet Objects](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.chromestatus.com" alt="Logo" /> Chrome Status - Constructible Stylesheets](https://www.chromestatus.com/feature/5394843094220800)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.chromestatus.com" alt="Logo" /> Chrome Status - Constructible Stylesheets](https://www.chromestatus.com/feature/5394843094220800) -->
 
 <!-- ### Form Participation
 
@@ -1219,7 +1219,7 @@ Learn how the Form Participation API proposal enables elements, other than built
 
 ## ➤ Progressive Webapps
 
-### API's
+<!-- ### API's
 
 ### Storage
 
@@ -1690,7 +1690,7 @@ Learn about the Chrome DevTools and how it can be used to audit your web app.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Inspect animations](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcalibreapp.com" alt="Logo" /> Investigate animation performance with DevTools](https://calibreapp.com/blog/investigate-animation-performance-with-devtools/)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-tools)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-tools) -->
 
 ## ➤ Build tools
 
