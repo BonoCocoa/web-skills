@@ -1,7 +1,7 @@
 import {fundamentalsCollection} from "./data/fundamentals.js";
 import {webcomponentsCollection} from "./data/web-components.js";
 import {accessibilityCollection} from "./data/accessibility.js";
-import {pwaCollection} from "./data/pwa.js";
+// import {pwaCollection} from "./data/pwa.js";
 import {architectureCollection} from "./data/architecture-and-paradigmes.js";
 import {buildtoolsCollection} from "./data/build-tools.js";
 import {testingCollection} from "./data/testing.js";
@@ -19,7 +19,7 @@ export const collections = [
 	fundamentalsCollection,
 	accessibilityCollection,
 	webcomponentsCollection,
-	pwaCollection,
+	// pwaCollection,
 	buildtoolsCollection,
 	frameworksAndLibrariesCollection,
 	testingCollection,
