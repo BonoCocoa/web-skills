@@ -32,7 +32,7 @@
     - [Basic Tags](#basic-tags)
   - [Forms](#forms)
   - [SEO](#seo)
-    - [Discoverable Content](#discoverable-content)
+    <!-- - [Discoverable Content](#discoverable-content) -->
   - [Svg](#svg)
   - [Best Practices](#best-practices)
   - [CSS](#css)
@@ -114,8 +114,8 @@
     - [Shadow Parts](#shadow-parts)
     - [Slots](#slots)
   - [Best practices](#best-practices)
-  - [Constructible Stylesheets](#constructible-stylesheets)
-  - [Form Participation](#form-participation)
+  <!-- - [Constructible Stylesheets](#constructible-stylesheets) -->
+  <!-- - [Form Participation](#form-participation) -->
 - [➤ Progressive Webapps](#-progressive-webapps)
   - [API's](#apis)
   - [Storage](#storage)
@@ -481,14 +481,14 @@ Learn how to make your content search-friendly.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - SEO audits](https://web.dev/lighthouse-seo)
 
-#### Discoverable Content
+<!-- #### Discoverable Content
 
 Learn how to structure your HTML in a way that provides a rich experience when sharing it online.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Web - Social Discovery](https://developers.google.com/web/fundamentals/discovery/social-discovery)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - Search Features](https://developers.google.com/search/docs/guides/search-features)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Easily discoverable](https://web.dev/discoverable)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Easily discoverable](https://web.dev/discoverable) -->
 
 ### Svg
 
@@ -1204,7 +1204,7 @@ Learn how the Constructible Stylesheets proposal enables reusable styles when us
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> WICG - Constructable Stylesheet Objects](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.chromestatus.com" alt="Logo" /> Chrome Status - Constructible Stylesheets](https://www.chromestatus.com/feature/5394843094220800)
 
-### Form Participation
+<!-- ### Form Participation
 
 Learn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.
 
@@ -1215,7 +1215,7 @@ Learn how the Form Participation API proposal enables elements, other than built
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - More capable form controls](https://web.dev/more-capable-form-controls/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> W3C - Creating a form-associated custom element](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#progressive-webapps)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#progressive-webapps) -->
 
 ## ➤ Progressive Webapps
 

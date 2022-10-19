@@ -84,34 +84,34 @@ export const webcomponentsCollection = {
 						]
 					}
 				},
-				{
-					name: "Constructible Stylesheets",
-					description: {
-						text: "Learn how the Constructible Stylesheets proposal enables reusable styles when using shadow dom.",
-						links: [
-							["Google Devs - Constructable Stylesheets", "https://developers.google.com/web/updates/2019/02/constructable-stylesheets"],
-							["W3C - Constructable Stylesheet Objects", "https://wicg.github.io/construct-stylesheets/"],
-							["dev.to - Why Would Anyone Use Constructible Stylesheets", "https://dev.to/westbrook/why-would-anyone-use-constructible-stylesheets-anyways-19ng"],
-							["Benjamin Farrel - Adopt a Design System", "https://medium.com/swlh/adopt-a-design-system-inside-your-web-components-with-constructable-stylesheets-dd24649261e"],
-							["WICG - Constructable Stylesheet Objects", "https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md"],
-							["Chrome Status - Constructible Stylesheets", "https://www.chromestatus.com/feature/5394843094220800"]
-						]
-					}
-				},
-				{
-					name: "Form Participation",
-					description: {
-						text: "Learn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.",
-						links: [
-							["Form Participation API Explained", "https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit"],
-							["Chrome Status - Form-associated custom elements", "https://www.chromestatus.com/features/4708990554472448"],
-							["web-platform-tests - Form Participation", "https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated"],
-							["Google Devs - Form-associated custom elements", "https://developers.google.com/web/updates/2019/09/nic77#form-associated_custom_elements"],
-							["web.dev - More capable form controls", "https://web.dev/more-capable-form-controls/"],
-							["W3C - Creating a form-associated custom element", "https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example"],
-						]
-					}
-				}
+				// {
+				// 	name: "Constructible Stylesheets",
+				// 	description: {
+				// 		text: "Learn how the Constructible Stylesheets proposal enables reusable styles when using shadow dom.",
+				// 		links: [
+				// 			["Google Devs - Constructable Stylesheets", "https://developers.google.com/web/updates/2019/02/constructable-stylesheets"],
+				// 			["W3C - Constructable Stylesheet Objects", "https://wicg.github.io/construct-stylesheets/"],
+				// 			["dev.to - Why Would Anyone Use Constructible Stylesheets", "https://dev.to/westbrook/why-would-anyone-use-constructible-stylesheets-anyways-19ng"],
+				// 			["Benjamin Farrel - Adopt a Design System", "https://medium.com/swlh/adopt-a-design-system-inside-your-web-components-with-constructable-stylesheets-dd24649261e"],
+				// 			["WICG - Constructable Stylesheet Objects", "https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md"],
+				// 			["Chrome Status - Constructible Stylesheets", "https://www.chromestatus.com/feature/5394843094220800"]
+				// 		]
+				// 	}
+				// },
+				// {
+				// 	name: "Form Participation",
+				// 	description: {
+				// 		text: "Learn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.",
+				// 		links: [
+				// 			["Form Participation API Explained", "https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit"],
+				// 			["Chrome Status - Form-associated custom elements", "https://www.chromestatus.com/features/4708990554472448"],
+				// 			["web-platform-tests - Form Participation", "https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated"],
+				// 			["Google Devs - Form-associated custom elements", "https://developers.google.com/web/updates/2019/09/nic77#form-associated_custom_elements"],
+				// 			["web.dev - More capable form controls", "https://web.dev/more-capable-form-controls/"],
+				// 			["W3C - Creating a form-associated custom element", "https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example"],
+				// 		]
+				// 	}
+				// }
 			]
 		}
 	]
