@@ -24,17 +24,17 @@ export const buildtoolsCollection = {
 									["An Absolute Beginner's Guide to Using npm", "https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/"],
 								]
 							},
-						},
-						{
-							name: "Yarn",
-							description: {
-								text: "Learn about Yarn and how it can be used to manage dependencies.",
-								links: [
-									["Yarnpkg - Getting Started", "https://yarnpkg.com/en/docs/getting-started"],
-									["Facebook Engineering - Yarn", "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/"],
-								]
-							},
-						}
+						}//,
+						// {
+						// 	name: "Yarn",
+						// 	description: {
+						// 		text: "Learn about Yarn and how it can be used to manage dependencies.",
+						// 		links: [
+						// 			["Yarnpkg - Getting Started", "https://yarnpkg.com/en/docs/getting-started"],
+						// 			["Facebook Engineering - Yarn", "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/"],
+						// 		]
+						// 	},
+						// }
 					]
 				},
 				{
