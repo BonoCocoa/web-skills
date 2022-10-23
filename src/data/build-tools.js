@@ -37,62 +37,62 @@ export const buildtoolsCollection = {
 						// }
 					]
 				},
-				{
-					name: "Module Bundlers",
-					description: {
-						text: "Learn about module bundler and how they can help bundling your code.",
-						links: [
-							["dev.to - What is a module bundler?", "https://dev.to/tanhauhau/what-is-module-bundler-and-how-does-it-work-3gp2"],
-							["Freecodecamp - Let’s learn how module bundlers work", "https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/"],
-							["JavaScript Bundlers, a Comparison", "https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364"],
-						]
-					},
-					skills: [
-						{
-							name: "Rollup",
-							description: {
-								text: "Learn how you can use Rollup to bundle your code.",
-								links: [
-									["Rollup - Introduction", "https://rollupjs.org/guide/en/"],
-									["How to Bundle JavaScript With Rollup", "https://lengstorf.com/learn-rollup-js/"],
-								]
-							},
-						},
-						{
-							name: "Webpack",
-							description: {
-								text: "Learn how you can use Webpack to bundle your code.",
-								links: [
-									["Webpack - Getting Started", "https://webpack.js.org/guides/getting-started/"],
-									["Webpack: A Gentle Introduction to the Module Bundler", "https://auth0.com/blog/webpack-a-gentle-introduction/"],
-								]
-							},
-						},
-						{
-							name: "Parcel",
-							description: {
-								text: "Learn how you can use Parcel to bundle your code.",
-								links: [
-									["Parcel - Getting Started", "https://parceljs.org/getting_started.html"],
-									["Parcel, a simpler webpack", "https://flaviocopes.com/parcel/"]
-								]
-							},
-						},
-						{
-							name: "Snowpack",
-							description: {
-								text: "Learn how Snowpack can replace the traditional app bundler during development.",
-								links: [
-									["Snowpack", "https://www.snowpack.dev/"],
-									["Snowpack - Quickstart", "https://www.snowpack.dev/#quickstart"],
-									["Github - Snowpack", "https://github.com/pikapkg/snowpack"],
-									["Pika - About", "https://www.pika.dev/about/"],
-									["A Future Without Webpack", "https://www.pika.dev/blog/pika-web-a-future-without-webpack/"],
-								]
-							},
-						}
-					]
-				},
+				// {
+				// 	name: "Module Bundlers",
+				// 	description: {
+				// 		text: "Learn about module bundler and how they can help bundling your code.",
+				// 		links: [
+				// 			["dev.to - What is a module bundler?", "https://dev.to/tanhauhau/what-is-module-bundler-and-how-does-it-work-3gp2"],
+				// 			["Freecodecamp - Let’s learn how module bundlers work", "https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/"],
+				// 			["JavaScript Bundlers, a Comparison", "https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Rollup",
+				// 			description: {
+				// 				text: "Learn how you can use Rollup to bundle your code.",
+				// 				links: [
+				// 					["Rollup - Introduction", "https://rollupjs.org/guide/en/"],
+				// 					["How to Bundle JavaScript With Rollup", "https://lengstorf.com/learn-rollup-js/"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Webpack",
+				// 			description: {
+				// 				text: "Learn how you can use Webpack to bundle your code.",
+				// 				links: [
+				// 					["Webpack - Getting Started", "https://webpack.js.org/guides/getting-started/"],
+				// 					["Webpack: A Gentle Introduction to the Module Bundler", "https://auth0.com/blog/webpack-a-gentle-introduction/"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Parcel",
+				// 			description: {
+				// 				text: "Learn how you can use Parcel to bundle your code.",
+				// 				links: [
+				// 					["Parcel - Getting Started", "https://parceljs.org/getting_started.html"],
+				// 					["Parcel, a simpler webpack", "https://flaviocopes.com/parcel/"]
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Snowpack",
+				// 			description: {
+				// 				text: "Learn how Snowpack can replace the traditional app bundler during development.",
+				// 				links: [
+				// 					["Snowpack", "https://www.snowpack.dev/"],
+				// 					["Snowpack - Quickstart", "https://www.snowpack.dev/#quickstart"],
+				// 					["Github - Snowpack", "https://github.com/pikapkg/snowpack"],
+				// 					["Pika - About", "https://www.pika.dev/about/"],
+				// 					["A Future Without Webpack", "https://www.pika.dev/blog/pika-web-a-future-without-webpack/"],
+				// 				]
+				// 			},
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Linters and formatters",
 					description: {

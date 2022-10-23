@@ -177,12 +177,12 @@
 - [➤ Build tools](#-build-tools)
   - [Package Managers](#package-managers)
     - [NPM](#npm)
-    <!-- - [Yarn](#yarn) -->
-  - [Module Bundlers](#module-bundlers)
-    - [Rollup](#rollup)
-    - [Webpack](#webpack)
-    - [Parcel](#parcel)
-    - [Snowpack](#snowpack)
+        <!-- - [Yarn](#yarn) -->
+      <!-- - [Module Bundlers](#module-bundlers) -->
+        <!-- - [Rollup](#rollup) -->
+        <!-- - [Webpack](#webpack) -->
+        <!-- - [Parcel](#parcel) -->
+        <!-- - [Snowpack](#snowpack) -->
   - [Linters and formatters](#linters-and-formatters)
     - [Prettier](#prettier)
     - [ESLint](#eslint)
@@ -1717,7 +1717,7 @@ Learn about Yarn and how it can be used to manage dependencies.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fyarnpkg.com" alt="Logo" /> Yarnpkg - Getting Started](https://yarnpkg.com/en/docs/getting-started)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fengineering.fb.com" alt="Logo" /> Facebook Engineering - Yarn](https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/) -->
 
-### Module Bundlers
+<!-- ### Module Bundlers
 
 Learn about module bundler and how they can help bundling your code.
 
@@ -1754,7 +1754,7 @@ Learn how Snowpack can replace the traditional app bundler during development.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.snowpack.dev" alt="Logo" /> Snowpack - Quickstart](https://www.snowpack.dev/#quickstart)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Snowpack](https://github.com/pikapkg/snowpack)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.pika.dev" alt="Logo" /> Pika - About](https://www.pika.dev/about/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.pika.dev" alt="Logo" /> A Future Without Webpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.pika.dev" alt="Logo" /> A Future Without Webpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack/) -->
 
 ### Linters and formatters
 
