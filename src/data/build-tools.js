@@ -187,41 +187,41 @@ export const buildtoolsCollection = {
 						}
 					]
 				},
-				{
-					name: "CSS Pre-processors",
-					description: {
-						text: "Learn about CSS pre-processors and why we need them.",
-						links: [
-							["MDN - CSS preprocessor", "https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor"],
-							["Advantages of Using a Preprocessor", "https://medium.com/swlh/advantages-of-using-a-preprocessor-sass-in-css-eb7310179944"],
-							["Deconfusing Pre- and Post-processing", "https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3"],
-						]
-					},
-					skills: [
-						{
-							name: "SASS",
-							description: {
-								text: "Learn about SASS and how you can use it to simplify your styles.",
-								links: [
-									["SASS - Guide", "https://sass-lang.com/guide"],
-									["10 Reasons to Use a CSS Preprocessor in 2018", "https://raygun.com/blog/10-reasons-css-preprocessor/"],
-								]
-							}
-						},
-						{
-							name: "PostCSS",
-							description: {
-								text: "Learn about PostCSS and how you can use its ecosystem of plugins to extend your CSS build pipeline.",
-								links: [
-									["PostCSS", "https://postcss.org/"],
-									["What is PostCSS?", "https://www.sitepoint.com/an-introduction-to-postcss/"],
-									["Introduction to PostCSS", "https://flaviocopes.com/postcss/"],
-									["Getting started with PostCSS in 2019", "https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725/"]
-								]
-							}
-						}
-					]
-				},
+				// {
+				// 	name: "CSS Pre-processors",
+				// 	description: {
+				// 		text: "Learn about CSS pre-processors and why we need them.",
+				// 		links: [
+				// 			["MDN - CSS preprocessor", "https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor"],
+				// 			["Advantages of Using a Preprocessor", "https://medium.com/swlh/advantages-of-using-a-preprocessor-sass-in-css-eb7310179944"],
+				// 			["Deconfusing Pre- and Post-processing", "https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "SASS",
+				// 			description: {
+				// 				text: "Learn about SASS and how you can use it to simplify your styles.",
+				// 				links: [
+				// 					["SASS - Guide", "https://sass-lang.com/guide"],
+				// 					["10 Reasons to Use a CSS Preprocessor in 2018", "https://raygun.com/blog/10-reasons-css-preprocessor/"],
+				// 				]
+				// 			}
+				// 		},
+				// 		{
+				// 			name: "PostCSS",
+				// 			description: {
+				// 				text: "Learn about PostCSS and how you can use its ecosystem of plugins to extend your CSS build pipeline.",
+				// 				links: [
+				// 					["PostCSS", "https://postcss.org/"],
+				// 					["What is PostCSS?", "https://www.sitepoint.com/an-introduction-to-postcss/"],
+				// 					["Introduction to PostCSS", "https://flaviocopes.com/postcss/"],
+				// 					["Getting started with PostCSS in 2019", "https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725/"]
+				// 				]
+				// 			}
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Node.js",
 					description: {

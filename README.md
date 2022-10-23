@@ -191,9 +191,9 @@
   - [Transpilers](#transpilers)
     - [Babel](#babel)
     - [Typescript](#typescript)
-  - [CSS Pre-processors](#css-pre-processors)
-    - [SASS](#sass)
-    - [PostCSS](#postcss)
+      <!-- - [CSS Pre-processors](#css-pre-processors) -->
+        <!-- - [SASS](#sass) -->
+        <!-- - [PostCSS](#postcss) -->
   - [Node.js](#nodejs)
 - [➤ Frameworks & Libraries](#-frameworks--libraries)
   - [lit-element](#lit-element)
@@ -1820,7 +1820,7 @@ Learn how to use Typescript and how it can help making your code typesafe.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Typescript: Why should one use i?](https://medium.com/tech-tajawal/typescript-why-should-one-use-it-a539faa92010)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Why TypeScript is the best way to write Front-end in 2019](https://medium.com/@jtomaszewski/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164)
 
-### CSS Pre-processors
+<!-- ### CSS Pre-processors
 
 Learn about CSS pre-processors and why we need them.
 
@@ -1842,7 +1842,7 @@ Learn about PostCSS and how you can use its ecosystem of plugins to extend your 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fpostcss.org" alt="Logo" /> PostCSS](https://postcss.org/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.sitepoint.com" alt="Logo" /> What is PostCSS?](https://www.sitepoint.com/an-introduction-to-postcss/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fflaviocopes.com" alt="Logo" /> Introduction to PostCSS](https://flaviocopes.com/postcss/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.logrocket.com" alt="Logo" /> Getting started with PostCSS in 2019](https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725/)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.logrocket.com" alt="Logo" /> Getting started with PostCSS in 2019](https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725/) -->
 
 ### Node.js
 
