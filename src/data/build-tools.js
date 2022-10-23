@@ -24,75 +24,75 @@ export const buildtoolsCollection = {
 									["An Absolute Beginner's Guide to Using npm", "https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/"],
 								]
 							},
-						},
-						{
-							name: "Yarn",
-							description: {
-								text: "Learn about Yarn and how it can be used to manage dependencies.",
-								links: [
-									["Yarnpkg - Getting Started", "https://yarnpkg.com/en/docs/getting-started"],
-									["Facebook Engineering - Yarn", "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/"],
-								]
-							},
-						}
+						}//,
+						// {
+						// 	name: "Yarn",
+						// 	description: {
+						// 		text: "Learn about Yarn and how it can be used to manage dependencies.",
+						// 		links: [
+						// 			["Yarnpkg - Getting Started", "https://yarnpkg.com/en/docs/getting-started"],
+						// 			["Facebook Engineering - Yarn", "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/"],
+						// 		]
+						// 	},
+						// }
 					]
 				},
-				{
-					name: "Module Bundlers",
-					description: {
-						text: "Learn about module bundler and how they can help bundling your code.",
-						links: [
-							["dev.to - What is a module bundler?", "https://dev.to/tanhauhau/what-is-module-bundler-and-how-does-it-work-3gp2"],
-							["Freecodecamp - Let’s learn how module bundlers work", "https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/"],
-							["JavaScript Bundlers, a Comparison", "https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364"],
-						]
-					},
-					skills: [
-						{
-							name: "Rollup",
-							description: {
-								text: "Learn how you can use Rollup to bundle your code.",
-								links: [
-									["Rollup - Introduction", "https://rollupjs.org/guide/en/"],
-									["How to Bundle JavaScript With Rollup", "https://lengstorf.com/learn-rollup-js/"],
-								]
-							},
-						},
-						{
-							name: "Webpack",
-							description: {
-								text: "Learn how you can use Webpack to bundle your code.",
-								links: [
-									["Webpack - Getting Started", "https://webpack.js.org/guides/getting-started/"],
-									["Webpack: A Gentle Introduction to the Module Bundler", "https://auth0.com/blog/webpack-a-gentle-introduction/"],
-								]
-							},
-						},
-						{
-							name: "Parcel",
-							description: {
-								text: "Learn how you can use Parcel to bundle your code.",
-								links: [
-									["Parcel - Getting Started", "https://parceljs.org/getting_started.html"],
-									["Parcel, a simpler webpack", "https://flaviocopes.com/parcel/"]
-								]
-							},
-						},
-						{
-							name: "Snowpack",
-							description: {
-								text: "Learn how Snowpack can replace the traditional app bundler during development.",
-								links: [
-									["Snowpack", "https://www.snowpack.dev/"],
-									["Snowpack - Quickstart", "https://www.snowpack.dev/#quickstart"],
-									["Github - Snowpack", "https://github.com/pikapkg/snowpack"],
-									["Pika - About", "https://www.pika.dev/about/"],
-									["A Future Without Webpack", "https://www.pika.dev/blog/pika-web-a-future-without-webpack/"],
-								]
-							},
-						}
-					]
-				},
+				// {
+				// 	name: "Module Bundlers",
+				// 	description: {
+				// 		text: "Learn about module bundler and how they can help bundling your code.",
+				// 		links: [
+				// 			["dev.to - What is a module bundler?", "https://dev.to/tanhauhau/what-is-module-bundler-and-how-does-it-work-3gp2"],
+				// 			["Freecodecamp - Let’s learn how module bundlers work", "https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/"],
+				// 			["JavaScript Bundlers, a Comparison", "https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "Rollup",
+				// 			description: {
+				// 				text: "Learn how you can use Rollup to bundle your code.",
+				// 				links: [
+				// 					["Rollup - Introduction", "https://rollupjs.org/guide/en/"],
+				// 					["How to Bundle JavaScript With Rollup", "https://lengstorf.com/learn-rollup-js/"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Webpack",
+				// 			description: {
+				// 				text: "Learn how you can use Webpack to bundle your code.",
+				// 				links: [
+				// 					["Webpack - Getting Started", "https://webpack.js.org/guides/getting-started/"],
+				// 					["Webpack: A Gentle Introduction to the Module Bundler", "https://auth0.com/blog/webpack-a-gentle-introduction/"],
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Parcel",
+				// 			description: {
+				// 				text: "Learn how you can use Parcel to bundle your code.",
+				// 				links: [
+				// 					["Parcel - Getting Started", "https://parceljs.org/getting_started.html"],
+				// 					["Parcel, a simpler webpack", "https://flaviocopes.com/parcel/"]
+				// 				]
+				// 			},
+				// 		},
+				// 		{
+				// 			name: "Snowpack",
+				// 			description: {
+				// 				text: "Learn how Snowpack can replace the traditional app bundler during development.",
+				// 				links: [
+				// 					["Snowpack", "https://www.snowpack.dev/"],
+				// 					["Snowpack - Quickstart", "https://www.snowpack.dev/#quickstart"],
+				// 					["Github - Snowpack", "https://github.com/pikapkg/snowpack"],
+				// 					["Pika - About", "https://www.pika.dev/about/"],
+				// 					["A Future Without Webpack", "https://www.pika.dev/blog/pika-web-a-future-without-webpack/"],
+				// 				]
+				// 			},
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Linters and formatters",
 					description: {
@@ -187,41 +187,41 @@ export const buildtoolsCollection = {
 						}
 					]
 				},
-				{
-					name: "CSS Pre-processors",
-					description: {
-						text: "Learn about CSS pre-processors and why we need them.",
-						links: [
-							["MDN - CSS preprocessor", "https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor"],
-							["Advantages of Using a Preprocessor", "https://medium.com/swlh/advantages-of-using-a-preprocessor-sass-in-css-eb7310179944"],
-							["Deconfusing Pre- and Post-processing", "https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3"],
-						]
-					},
-					skills: [
-						{
-							name: "SASS",
-							description: {
-								text: "Learn about SASS and how you can use it to simplify your styles.",
-								links: [
-									["SASS - Guide", "https://sass-lang.com/guide"],
-									["10 Reasons to Use a CSS Preprocessor in 2018", "https://raygun.com/blog/10-reasons-css-preprocessor/"],
-								]
-							}
-						},
-						{
-							name: "PostCSS",
-							description: {
-								text: "Learn about PostCSS and how you can use its ecosystem of plugins to extend your CSS build pipeline.",
-								links: [
-									["PostCSS", "https://postcss.org/"],
-									["What is PostCSS?", "https://www.sitepoint.com/an-introduction-to-postcss/"],
-									["Introduction to PostCSS", "https://flaviocopes.com/postcss/"],
-									["Getting started with PostCSS in 2019", "https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725/"]
-								]
-							}
-						}
-					]
-				},
+				// {
+				// 	name: "CSS Pre-processors",
+				// 	description: {
+				// 		text: "Learn about CSS pre-processors and why we need them.",
+				// 		links: [
+				// 			["MDN - CSS preprocessor", "https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor"],
+				// 			["Advantages of Using a Preprocessor", "https://medium.com/swlh/advantages-of-using-a-preprocessor-sass-in-css-eb7310179944"],
+				// 			["Deconfusing Pre- and Post-processing", "https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3"],
+				// 		]
+				// 	},
+				// 	skills: [
+				// 		{
+				// 			name: "SASS",
+				// 			description: {
+				// 				text: "Learn about SASS and how you can use it to simplify your styles.",
+				// 				links: [
+				// 					["SASS - Guide", "https://sass-lang.com/guide"],
+				// 					["10 Reasons to Use a CSS Preprocessor in 2018", "https://raygun.com/blog/10-reasons-css-preprocessor/"],
+				// 				]
+				// 			}
+				// 		},
+				// 		{
+				// 			name: "PostCSS",
+				// 			description: {
+				// 				text: "Learn about PostCSS and how you can use its ecosystem of plugins to extend your CSS build pipeline.",
+				// 				links: [
+				// 					["PostCSS", "https://postcss.org/"],
+				// 					["What is PostCSS?", "https://www.sitepoint.com/an-introduction-to-postcss/"],
+				// 					["Introduction to PostCSS", "https://flaviocopes.com/postcss/"],
+				// 					["Getting started with PostCSS in 2019", "https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725/"]
+				// 				]
+				// 			}
+				// 		}
+				// 	]
+				// },
 				{
 					name: "Node.js",
 					description: {
