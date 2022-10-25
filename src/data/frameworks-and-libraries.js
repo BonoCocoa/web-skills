@@ -59,17 +59,17 @@ export const frameworksAndLibrariesCollection = {
 				// 		]
 				// 	},
 				// },
-				{
-					name: "Stencil",
-					description: {
-						text: "Learn how Stencil can be used for generating small, fast web components.",
-						links: [
-							["Stencil", "https://stenciljs.com/"],
-							["Alligator - Getting Started With Stencil", "https://alligator.io/stencil/getting-started/"],
-							["How to Build Reusable Web Components Using Stenciljs", "https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d"],
-						]
-					},
-				},
+				// {
+				// 	name: "Stencil",
+				// 	description: {
+				// 		text: "Learn how Stencil can be used for generating small, fast web components.",
+				// 		links: [
+				// 			["Stencil", "https://stenciljs.com/"],
+				// 			["Alligator - Getting Started With Stencil", "https://alligator.io/stencil/getting-started/"],
+				// 			["How to Build Reusable Web Components Using Stenciljs", "https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d"],
+				// 		]
+				// 	},
+				// },
 			]
 		}
 	]
