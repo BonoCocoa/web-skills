@@ -200,7 +200,7 @@
   - [Vue](#vue)
   - [React](#react)
   - [Angular](#angular)
-  - [Svelte](#svelte)
+  <!-- - [Svelte](#svelte) -->
   - [Stencil](#stencil)
 - [➤ Testing](#-testing)
   - [Testing Methodologies](#testing-methodologies)
@@ -1890,13 +1890,13 @@ Learn about Angular and how you can use it for building web apps.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Angular](https://web.dev/angular)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcli.angular.io" alt="Logo" /> Angular - CLI](https://cli.angular.io/)
 
-### Svelte
+<!-- ### Svelte
 
 Learn about Svelte and how it can convert your component into highly efficient imperative code.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte](https://svelte.dev/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Svelte FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte - Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte - Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity) -->
 
 ### Stencil
 
