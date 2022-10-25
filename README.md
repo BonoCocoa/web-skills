@@ -196,12 +196,12 @@
         <!-- - [PostCSS](#postcss) -->
   - [Node.js](#nodejs)
 - [➤ Frameworks & Libraries](#-frameworks--libraries)
-  - [lit-element](#lit-element)
+  <!-- - [lit-element](#lit-element) -->
   - [Vue](#vue)
   - [React](#react)
   - [Angular](#angular)
-  - [Svelte](#svelte)
-  - [Stencil](#stencil)
+    <!-- - [Svelte](#svelte) -->
+    <!-- - [Stencil](#stencil) -->
 - [➤ Testing](#-testing)
   - [Testing Methodologies](#testing-methodologies)
     - [Unit Testing](#unit-testing)
@@ -1857,14 +1857,14 @@ Learn how to use Node.js.
 
 ## ➤ Frameworks & Libraries
 
-### lit-element
+<!-- ### lit-element
 
 Learn how to use lit-element for creating fast, lightweight web components.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Flit-element.polymer-project.org" alt="Logo" /> lit-element](https://lit-element.polymer-project.org/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Lightning-fast templates](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvaadin.com" alt="Logo" /> Vaadin - Creating a LitElement project](https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Web Components: from zero to hero, part three](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Web Components: from zero to hero, part three](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h) -->
 
 ### Vue
 
@@ -1890,21 +1890,21 @@ Learn about Angular and how you can use it for building web apps.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Angular](https://web.dev/angular)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcli.angular.io" alt="Logo" /> Angular - CLI](https://cli.angular.io/)
 
-### Svelte
+<!-- ### Svelte
 
 Learn about Svelte and how it can convert your component into highly efficient imperative code.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte](https://svelte.dev/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Svelte FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte - Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte - Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity) -->
 
-### Stencil
+<!-- ### Stencil
 
 Learn how Stencil can be used for generating small, fast web components.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fstenciljs.com" alt="Logo" /> Stencil](https://stenciljs.com/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Falligator.io" alt="Logo" /> Alligator - Getting Started With Stencil](https://alligator.io/stencil/getting-started/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodeburst.io" alt="Logo" /> How to Build Reusable Web Components Using Stenciljs](https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodeburst.io" alt="Logo" /> How to Build Reusable Web Components Using Stenciljs](https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d) -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#testing)
 

@@ -3,18 +3,18 @@ export const frameworksAndLibrariesCollection = {
 	areas: [
 		{
 			skills: [
-				{
-					name: "lit-element",
-					description: {
-						text: "Learn how to use lit-element for creating fast, lightweight web components.",
-						links: [
-							["lit-element", "https://lit-element.polymer-project.org/"],
-							["Google Devs - Lightning-fast templates", "https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html"],
-							["Vaadin - Creating a LitElement project", "https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project"],
-							["dev.to - Web Components: from zero to hero, part three", "https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h"],
-						]
-					}
-				},
+				// {
+				// 	name: "lit-element",
+				// 	description: {
+				// 		text: "Learn how to use lit-element for creating fast, lightweight web components.",
+				// 		links: [
+				// 			["lit-element", "https://lit-element.polymer-project.org/"],
+				// 			["Google Devs - Lightning-fast templates", "https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html"],
+				// 			["Vaadin - Creating a LitElement project", "https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project"],
+				// 			["dev.to - Web Components: from zero to hero, part three", "https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h"],
+				// 		]
+				// 	}
+				// },
 				{
 					name: "Vue",
 					description: {
@@ -48,28 +48,28 @@ export const frameworksAndLibrariesCollection = {
 						]
 					},
 				},
-				{
-					name: "Svelte",
-					description: {
-						text: "Learn about Svelte and how it can convert your component into highly efficient imperative code.",
-						links: [
-							["Svelte", "https://svelte.dev/"],
-							["Github - Svelte FAQ", "https://github.com/sveltejs/svelte/wiki/FAQ"],
-							["Svelte - Rethinking reactivity", "https://svelte.dev/blog/svelte-3-rethinking-reactivity"],
-						]
-					},
-				},
-				{
-					name: "Stencil",
-					description: {
-						text: "Learn how Stencil can be used for generating small, fast web components.",
-						links: [
-							["Stencil", "https://stenciljs.com/"],
-							["Alligator - Getting Started With Stencil", "https://alligator.io/stencil/getting-started/"],
-							["How to Build Reusable Web Components Using Stenciljs", "https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d"],
-						]
-					},
-				},
+				// {
+				// 	name: "Svelte",
+				// 	description: {
+				// 		text: "Learn about Svelte and how it can convert your component into highly efficient imperative code.",
+				// 		links: [
+				// 			["Svelte", "https://svelte.dev/"],
+				// 			["Github - Svelte FAQ", "https://github.com/sveltejs/svelte/wiki/FAQ"],
+				// 			["Svelte - Rethinking reactivity", "https://svelte.dev/blog/svelte-3-rethinking-reactivity"],
+				// 		]
+				// 	},
+				// },
+				// {
+				// 	name: "Stencil",
+				// 	description: {
+				// 		text: "Learn how Stencil can be used for generating small, fast web components.",
+				// 		links: [
+				// 			["Stencil", "https://stenciljs.com/"],
+				// 			["Alligator - Getting Started With Stencil", "https://alligator.io/stencil/getting-started/"],
+				// 			["How to Build Reusable Web Components Using Stenciljs", "https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d"],
+				// 		]
+				// 	},
+				// },
 			]
 		}
 	]
