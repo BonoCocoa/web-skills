@@ -3,18 +3,18 @@ export const frameworksAndLibrariesCollection = {
 	areas: [
 		{
 			skills: [
-				{
-					name: "lit-element",
-					description: {
-						text: "Learn how to use lit-element for creating fast, lightweight web components.",
-						links: [
-							["lit-element", "https://lit-element.polymer-project.org/"],
-							["Google Devs - Lightning-fast templates", "https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html"],
-							["Vaadin - Creating a LitElement project", "https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project"],
-							["dev.to - Web Components: from zero to hero, part three", "https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h"],
-						]
-					}
-				},
+				// {
+				// 	name: "lit-element",
+				// 	description: {
+				// 		text: "Learn how to use lit-element for creating fast, lightweight web components.",
+				// 		links: [
+				// 			["lit-element", "https://lit-element.polymer-project.org/"],
+				// 			["Google Devs - Lightning-fast templates", "https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html"],
+				// 			["Vaadin - Creating a LitElement project", "https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project"],
+				// 			["dev.to - Web Components: from zero to hero, part three", "https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h"],
+				// 		]
+				// 	}
+				// },
 				{
 					name: "Vue",
 					description: {

@@ -196,7 +196,7 @@
         <!-- - [PostCSS](#postcss) -->
   - [Node.js](#nodejs)
 - [➤ Frameworks & Libraries](#-frameworks--libraries)
-  - [lit-element](#lit-element)
+  <!-- - [lit-element](#lit-element) -->
   - [Vue](#vue)
   - [React](#react)
   - [Angular](#angular)
@@ -1857,14 +1857,14 @@ Learn how to use Node.js.
 
 ## ➤ Frameworks & Libraries
 
-### lit-element
+<!-- ### lit-element
 
 Learn how to use lit-element for creating fast, lightweight web components.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Flit-element.polymer-project.org" alt="Logo" /> lit-element](https://lit-element.polymer-project.org/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Lightning-fast templates](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvaadin.com" alt="Logo" /> Vaadin - Creating a LitElement project](https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Web Components: from zero to hero, part three](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Web Components: from zero to hero, part three](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h) -->
 
 ### Vue
 
