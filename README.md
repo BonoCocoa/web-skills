@@ -1,6 +1,6 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">How to creat Translation Website</h1>
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">How to create Translation Website</h1>
 <p align="center">
-	Web Skills is a visual overview of useful skills to learn How to creat Translation Website. Go to <a href="https://bonococoa.github.io/web-skills/" target="_blank" aria-label="Link to Web Skills">https://bonococoa.github.io/web-skills/</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>.
+	Web Skills is a visual overview of useful skills to learn How to create Translation Website. Go to <a href="https://bonococoa.github.io/web-skills/" target="_blank" aria-label="Link to Web Skills">https://bonococoa.github.io/web-skills/</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>.
 </p> 
 <p align="center">
 	<a href="https://bonococoa.github.io/web-skills/" target="_blank">
@@ -404,11 +404,11 @@
 
 ## ➤ FAQ
 
-### What is Translation WebSite?
+### What is Translation Website?
 
-Translation WebSite is a Web-based translation tool, Most translators use these kinds of tools also are suitable solutions to manage your translation projects and collaborate with teams across your organization. It provides an advanced translation management system for localization professionals with a simple intuitive interface that anyone in your company can use.
+Translation Website is a Web-based translation tool, Most translators use these kinds of tools also are suitable solutions to manage your translation projects and collaborate with teams across your organization. It provides an advanced translation management system for localization professionals with a simple, intuitive interface that anyone in your company can use.
 <p>
-Example website
+Example websites
 <ul>
  <li><a href="https://weblate.org/ko/" target="_blank">https://weblate.org/ko/</a></li>
  <li><a href="https://crowdin.com/" target="_blank">https://crowdin.com/</a></li>
@@ -418,14 +418,14 @@ Example website
 
 ### What do I need to build?
 
-Basically, You will need a lot of skills, need to know how to deal with the Server and data, most of the data will be uploaded on the server. Users will translate that data on the server to collaborate with teams, so you are not only required to have knowledge in the front end but also the back-end
+Basically, You will need a lot of skills, need to know how to deal with the server and data, most of the data will be uploaded on the server. Users will translate that data on the server to collaborate with teams, so you are not only required to have knowledge in the front end but also the back-end.
 ### How can I keep track of what skills I know?
 
 If you scroll to the bottom of the page, you will find a button that says "Sign in with Google". If you click this button and sign in, you will be able to mark skills as completed.
 
 ### I am overwhelmed! Help me!
 
-Don't be overwhelmed, in fact, it requires more than usual, but if you are starting to learn web programming, you will get it is not that difficult to understand. I really want to say most importantly, merely watching and reading is not programming, doing it on your own is most important. Like, if someone does explain all day and you just listen and type the same thing, we cannot say that is learning programming, it just typing practice. We need to know how to use, apply, and utilize it for our purpose. So point is, no purpose? it is not learning, you won't remember anything after all. Think about what you really want to build, even if it is not a translation website, it is okay. The first starting point is what is your ultimate goal in this learning. Second, break it into pieces, like what functions are required or what type of language you need, then you can find out the reason why you need to learn about something. Just don't tend to learn all skills. Pick up what you really need, and extend your knowledge
+Don't be overwhelmed, in fact, it requires more than usual, but if you are starting to learn web programming, you will get it is not that difficult to understand. I really want to say most importantly, merely watching and reading is not programming, doing it on your own is most important. Like, if someone does explain all day, and you just listen and type the same thing, we cannot say that is learning programming, it's just typing practice. We need to know how to use, apply, and utilize it for our purpose. So point is, no purpose? It is not learning, you won't remember anything after all. Think about what you really want to build, even if it is not a translation website, it is okay. The first starting point is what is your ultimate goal in this learning. Second, break it into pieces, like what functions are required or what type of language you need, then you can find out the reason why you need to learn about something. Just don't tend to learn all skills. Pick up what you really need, and extend your knowledge.
 
 <!-- ### Why haven't you included XYZ Technology?
 
@@ -3658,10 +3658,10 @@ Learn how to use SSH and learn how to connect to a device using an SSH client.
 
 ## ➤ Contributors
 
-| [<img alt="Jihye Park" src="https://avatars.githubusercontent.com/u/113398158?v=4" width="100">](https://github.com/wisewell) | [<img alt="KJ" src="https://avatars.githubusercontent.com/u/98015758?v=4" width="100">](https://github.com/rlarywnd234) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Jihye Park](https://github.com/wisewell)                                              |                                 [Kyojung Kim](https://github.com/rlarywnd234)                                  |
-|                                                                                                                                              |                                                                                                                                          |
+| [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/andreasmehlsen) | [<img alt="Jihye Park" src="https://avatars.githubusercontent.com/u/113398158?v=4" width="100">](https://github.com/wisewell) | [<img alt="KJ" src="https://avatars.githubusercontent.com/u/98015758?v=4" width="100">](https://github.com/rlarywnd234) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|                                 [Andreas Mehlsen](https://twitter.com/andreasmehlsen)                                  |                                             [Jihye Park](https://github.com/wisewell)                                              |                                 [Kyojung Kim](https://github.com/rlarywnd234)                                  |
+| 🔥                                                                                                                                          |                                                                                                                                              |                                                                                                                                          |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
