@@ -52,7 +52,7 @@ export async function openHelp () {
 			<div tabindex="0"></div>
 			<ws-button id="close" @click="${() => $dialog.close()}" aria-label="Close dialog">✖️</ws-button>
 			
-			<h2>Web Skills FAQ</h2>
+			<!-- <h2>Web Skills FAQ</h2>
 
 			<h3>What is Web Skills?</h3>
 			<p>Web Skills is a visual overview of useful skills to learn as a web developer. It is useful for people who just started learning about web development and for people who have been in the field for years and want to learn new things. As a beginner, I would encourage you not to see this website as the definitive list of what you need to know but as an example of what you can learn and where you can start. The skills are arranged in chronological order based on what learning path I recommend you to take but feel free to jump around freely.</p>
@@ -82,7 +82,29 @@ export async function openHelp () {
 			<p>When a skill is described as experimental, it means that the technology is immature and currently in the process of being added to the Web platform (or considered for addition). Think carefully before you start using experimental technology in any kind of production project. The definition used in Web Skills is based on the excellent definition used on <a target="_blank" href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Conventions_definitions#Experimental" rel="noopener">MDN</a>. You are very welcome to open an issue on <a target="_blank" href="https://github.com/andreasbm/web-skills/issues" rel="noopener" aria-label="Open get involved">Github</a> if you see a skill you believe should be marked as "experimental" or have the banner removed.</p>
 
 			<h3>How can I get in contact with you?</h3>
-			<p>Reach out to me on Twitter at <a target="_blank" href="https://twitter.com/AndreasMehlsen" rel="noopener" aria-label="Open Twitter">@AndreasMehlsen</a> or take a look at <a target="_blank" href="https://andreasbm.github.io" rel="noopener" aria-label="Open personal website">my website</a> if you want to learn more about what other projects I'm working on.</p>
+			<p>Reach out to me on Twitter at <a target="_blank" href="https://twitter.com/AndreasMehlsen" rel="noopener" aria-label="Open Twitter">@AndreasMehlsen</a> or take a look at <a target="_blank" href="https://andreasbm.github.io" rel="noopener" aria-label="Open personal website">my website</a> if you want to learn more about what other projects I'm working on.</p> -->
+			<h2>Web Skills for Translation Website FAQ</h2>
+
+			<h3>What is Translation Website?</h3>
+			<p>Translation Website is a Web-based translation tool, Most translators use these kinds of tools also are suitable solutions to manage your translation projects and collaborate with teams across your organization. It provides an advanced translation management system for localization professionals with a simple, intuitive interface that anyone in your company can use.</p>
+			<p>Example websites
+				<ul>
+					<li>
+						<a href="https://weblate.org/ko/" target="_blank">https://weblate.org/ko/</a>
+					</li>
+					<li>
+						<a href="https://crowdin.com/" target="_blank">https://crowdin.com/</a>
+					</li>
+					<li>
+						<a href="https://www.smartcat.com/" target="_blank">https://www.smartcat.com/</a>
+					</li>
+				</ul></p>
+
+			<h3>What do I need to build?</h3>
+			<p>Basically, You will need a lot of skills, need to know how to deal with the server and data, most of the data will be uploaded on the server. Users will translate that data on the server to collaborate with teams, so you are not only required to have knowledge in the front end but also the back-end.</p>
+
+			<h3>I am overwhelmed! Help me!</h3>
+			<p>Don't be overwhelmed, in fact, it requires more than usual, but if you are starting to learn web programming, you will get it is not that difficult to understand. I really want to say most importantly, merely watching and reading is not programming, doing it on your own is most important. Like, if someone does explain all day, and you just listen and type the same thing, we cannot say that is learning programming, it's just typing practice. We need to know how to use, apply, and utilize it for our purpose. So point is, no purpose? It is not learning, you won't remember anything after all. Think about what you really want to build, even if it is not a translation website, it is okay. The first starting point is what is your ultimate goal in this learning. Second, break it into pieces, like what functions are required or what type of language you need, then you can find out the reason why you need to learn about something. Just don't tend to learn all skills. Pick up what you really need, and extend your knowledge.</p>
 			
 			<span id="version">v${APP_VERSION}</span>
 		`, $dialog)
