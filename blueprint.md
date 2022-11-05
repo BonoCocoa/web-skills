@@ -72,9 +72,10 @@ Example websites
 ### What do I need to build?
 
 Basically, You will need a lot of skills, need to know how to deal with the server and data, most of the data will be uploaded on the server. Users will translate that data on the server to collaborate with teams, so you are not only required to have knowledge in the front end but also the back-end.
-### How can I keep track of what skills I know?
 
-If you scroll to the bottom of the page, you will find a button that says "Sign in with Google". If you click this button and sign in, you will be able to mark skills as completed.
+<!-- ### How can I keep track of what skills I know?
+
+If you scroll to the bottom of the page, you will find a button that says "Sign in with Google". If you click this button and sign in, you will be able to mark skills as completed. -->
 
 ### I am overwhelmed! Help me!
 
